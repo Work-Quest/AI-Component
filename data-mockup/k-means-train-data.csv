@@ -60,10 +60,10 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 59,Qxnmd37,"[6, 7, 10, 8, 4, 9, 9, 9, 6, 6, 6, 10]",71.27,Code Review,24.08,71.78
 60,Hycrn27,"[9, 9, 9, 7, 10, 7, 8, 8, 9, 6, 7]",81.81,Flowchart Design,11.02,78.83
 61,Pnxnm39,"[8, 6, 5, 6, 7, 7, 7, 8, 10, 6, 6, 7, 3, 7, 7, 7, 6, 8, 8]",73.36,Testing,24.64,59.09
-62,Riywc38,"[6, 4, 4, 3, 7]",51.99,Testing,41.0,39.54
+62,Riywc38,"[6, 4, 4, 3, 7]",51.99,Testing,41,39.54
 63,Jsoih39,"[4, 5, 5, 7, 5]",53.65,Code Review,34.52,38.48
 64,Iqnjf12,"[8, 7, 5, 5, 6, 6, 5, 8]",61.09,Graphic Design,24.74,46.48
-65,Oxcdu37,"[8, 9, 7, 8, 6, 9, 8, 9, 5, 9, 7, 10, 8, 8, 10, 6, 8, 7, 6]",85.43,Research,15.55,85.0
+65,Oxcdu37,"[8, 9, 7, 8, 6, 9, 8, 9, 5, 9, 7, 10, 8, 8, 10, 6, 8, 7, 6]",85.43,Research,15.55,85
 66,Falol96,"[9, 7, 5, 6, 8, 7, 9, 9, 7, 8, 10, 8, 8, 10, 8, 9]",74.11,Reviewing,18.69,72.14
 67,Orwcl52,"[9, 8, 7, 8, 8, 7, 9, 8, 9, 8, 7, 7]",77.55,Documentation,24.98,65.3
 68,Uamrn25,"[6, 6, 4, 6, 8, 6, 5]",65.75,Testing,28.86,58.32
@@ -75,7 +75,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 74,Vkcfy33,"[6, 4, 4, 4, 3, 8, 5, 7, 6, 5, 5, 7, 6, 3, 3, 8, 5]",53.93,Drawing/Illustration,38.21,33.8
 75,Rjmwc86,"[8, 8, 8, 10, 10, 9, 7, 10, 10, 10, 10, 9, 10]",94.24,Research,8.74,97.26
 76,Jfdvw57,"[6, 10, 8, 9, 8, 9, 6, 9, 9, 10, 10, 10]",85.2,Presenting,16.29,82.22
-77,Itpdj55,"[9, 9, 8, 10, 8, 10, 10, 10, 8, 9, 10, 9, 8, 8, 8, 9, 7, 9, 9]",90.16,Presenting,7.23,94.0
+77,Itpdj55,"[9, 9, 8, 10, 8, 10, 10, 10, 8, 9, 10, 9, 8, 8, 8, 9, 7, 9, 9]",90.16,Presenting,7.23,94
 78,Ibxli76,"[4, 4, 9, 6, 5, 1, 8, 6, 4, 3, 4, 7]",53.66,Presenting,31.97,37.78
 79,Btwnm10,"[4, 7, 6, 5, 5, 7, 5, 4, 6, 5, 4, 4, 5, 3, 5, 3, 3, 5, 5]",47.25,Flowchart Design,52.5,25.24
 80,Nmbmg82,"[10, 8, 7, 9, 6, 7, 7, 10, 9, 8, 7, 7, 7, 9]",83.8,Content Creation,7.82,82.77
@@ -95,7 +95,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 94,Hklfb76,"[8, 8, 3, 6, 8, 5, 5, 7]",69.54,Report Formatting,30.93,55.21
 95,Oylvs32,"[4, 4, 4, 3, 4, 5, 6, 6, 5, 4, 5, 4, 4, 2]",49.15,Translation,43.24,33.82
 96,Keprz32,"[5, 0, 5, 5, 5, 0, 4, 3, 4, 5, 2, 2, 1, 5, 3, 4, 3, 5, 5, 4]",32.68,Translation,46.23,14.22
-97,Udhji46,"[4, 1, 3, 5, 4, 3, 3, 4, 4, 3, 1, 5, 3, 5, 5]",41.0,Content Creation,51.14,17.32
+97,Udhji46,"[4, 1, 3, 5, 4, 3, 3, 4, 4, 3, 1, 5, 3, 5, 5]",41,Content Creation,51.14,17.32
 98,Fshnc52,"[10, 10, 8, 8, 9, 10, 9, 10, 7, 6, 6, 9, 9, 7]",77.64,Spreadsheet Work,6.25,82.32
 99,Tkkvi78,"[5, 9, 7, 6, 9, 8]",72.72,Content Creation,15.56,67.52
 100,Niqzu15,"[4, 2, 5, 4, 5, 2]",41.69,Diagram Creation,57.03,19.25
@@ -168,7 +168,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 167,Knxgo72,"[9, 6, 8, 8, 9, 8, 8, 7, 10, 10, 10, 9, 10, 10, 7, 10]",87.02,Diagram Creation,5.13,90.01
 168,Nswhi62,"[4, 2, 5, 5, 4, 2, 5, 6, 4, 4, 6, 6, 5, 6, 3, 4, 5, 3, 7, 3]",47.72,Reviewing,40.18,27.72
 169,Jxtbk94,"[8, 7, 7, 8, 5, 6, 7]",78.09,Writing,27.1,69.48
-170,Jqzou60,"[10, 9, 9, 9]",79.58,Drawing/Illustration,25.0,78.08
+170,Jqzou60,"[10, 9, 9, 9]",79.58,Drawing/Illustration,25,78.08
 171,Kxzzx44,"[8, 7, 6, 6, 9, 7, 10, 6, 7, 7, 6, 6, 8]",74.71,Documentation,15.64,61.91
 172,Zevbf17,"[5, 5, 0, 1, 3, 5, 3, 2, 4, 5, 3]",33.89,Presentation Design,58.77,6.35
 173,Cszvc21,"[5, 5, 3, 6, 3, 5, 6, 3, 7, 4, 4, 4, 4, 4, 4, 8, 2]",48.26,Mockup Design,53.67,21.75
@@ -213,7 +213,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 212,Hicfh72,"[7, 7, 7, 3]",49.98,Presenting,50.23,35.95
 213,Zrlcd64,"[4, 3, 5, 0, 3, 6, 2, 4, 5, 2, 6, 5, 3]",46.93,Storyboarding,43.81,19.82
 214,Grfow58,"[5, 7, 3, 5, 5, 8]",58.75,Problem Solving,43.37,42.78
-215,Suhsc45,"[8, 8, 8, 7, 8, 10, 6, 8, 5, 5]",76.6,Peer Review,24.96,72.0
+215,Suhsc45,"[8, 8, 8, 7, 8, 10, 6, 8, 5, 5]",76.6,Peer Review,24.96,72
 216,Uvmtx95,"[7, 10, 10, 9, 8, 9, 10, 9, 10, 8, 7, 8, 9, 10, 9, 10, 8]",89.49,Translation,9.56,99.39
 217,Fjnlk72,"[7, 9, 7, 10, 6, 8, 6, 10, 5]",80.53,Documentation,8.29,73.99
 218,Zmuwp36,"[8, 10, 10, 8, 9, 10, 9, 10]",86.57,Report Formatting,0.1,94.12
@@ -227,7 +227,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 226,Cqkut41,"[8, 4, 5, 8, 5, 3, 7, 2, 5, 4, 4]",52.88,Email Writing,35.1,36.51
 227,Ttubn24,"[8, 7, 7, 6, 9]",72.21,Writing,27.34,68.83
 228,Wsdni73,"[7, 7, 9, 10, 8, 9, 8, 5, 8]",71.45,Code Review,17.77,70.01
-229,Xkwxl65,"[2, 4, 7, 3, 6, 5, 5, 6, 4, 7, 4, 6, 5, 3, 6, 3, 6, 5, 5, 5]",54.7,Flowchart Design,44.0,34.94
+229,Xkwxl65,"[2, 4, 7, 3, 6, 5, 5, 6, 4, 7, 4, 6, 5, 3, 6, 3, 6, 5, 5, 5]",54.7,Flowchart Design,44,34.94
 230,Azzwa27,"[5, 5, 4]",54.42,Presentation Design,47.52,32.75
 231,Wumtb38,"[10, 8, 9, 10, 9, 9, 6, 7, 10, 10, 8, 10, 10]",88.87,Script Writing,0.1,90.07
 232,Lxljw90,"[5, 10, 7, 7, 7, 7, 7, 7, 5, 5]",71.96,Graphic Design,22.59,61.06
@@ -250,7 +250,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 249,Lfhbt16,"[2, 4, 4, 3]",29.17,Testing,53.59,3.23
 250,Tglmv94,"[6, 5, 7, 6, 5, 9, 7, 7, 6, 5]",65.22,Script Writing,25.09,56.51
 251,Gosyv25,"[2, 2, 4, 2, 4, 5, 2, 1, 4, 0, 2, 5, 6, 2, 3, 2, 2, 5, 5]",34.75,Code Review,49.48,0.77
-252,Ixpnp36,"[3, 4, 4]",30.94,Graphic Design,61.0,1.41
+252,Ixpnp36,"[3, 4, 4]",30.94,Graphic Design,61,1.41
 253,Wucez61,"[4, 6, 6, 5, 5, 5, 4, 6, 3, 3, 3, 6]",49.35,Peer Review,57.7,24.92
 254,Tvcgc95,"[5, 5, 5, 4, 5, 3, 6, 6, 5, 5, 5, 6, 6, 2, 4, 6, 6]",57.32,Script Writing,33.71,41.23
 255,Viyux85,"[5, 5, 6, 7, 9, 9, 5, 4, 7, 4, 4, 7, 5, 3, 5, 5, 7, 5, 5]",58.3,Documentation,41.45,40.45
@@ -279,7 +279,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 278,Bwrex71,"[7, 9, 8, 9, 8, 9, 9, 10, 8, 9, 7, 7]",85.76,Flowchart Design,8.51,90.96
 279,Mklme56,"[4, 5, 5, 5, 6, 4, 6, 5, 6, 5, 6, 5, 3, 7, 5, 4, 3, 4]",57.5,Mockup Design,27.29,43.98
 280,Hrarv94,"[5, 3, 2, 5, 5, 5, 5, 4, 5, 6, 5, 7, 4, 6, 3, 2, 3, 6]",58.19,Report Formatting,43.4,34.62
-281,Mlweg26,"[1, 3, 3, 3, 2, 0, 6, 5, 1, 3, 5, 3, 1, 3, 2, 4, 3, 4]",36.65,Programming,49.21,10.0
+281,Mlweg26,"[1, 3, 3, 3, 2, 0, 6, 5, 1, 3, 5, 3, 1, 3, 2, 4, 3, 4]",36.65,Programming,49.21,10
 282,Preyw40,"[10, 9, 10, 9]",94.34,Reviewing,6.16,100
 283,Nejjv95,"[4, 3, 9, 6, 1, 6, 2]",46.85,Graphic Design,45.12,21.07
 284,Avisc87,"[4, 5, 6, 4, 8, 4, 4, 4, 5, 6]",54.3,Spreadsheet Work,36.24,35.38
@@ -306,7 +306,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 305,Depbo30,"[5, 9, 7, 8, 7]",77.19,Script Writing,28.2,72.27
 306,Bgbwk94,"[3, 8, 8, 5, 6, 4, 6, 7, 3]",62.46,Presentation Design,23.96,50.87
 307,Rtfja39,"[5, 7, 8, 7, 7, 6, 8, 5]",66.76,Programming,21.7,65.29
-308,Ibmgo65,"[7, 9, 10, 9, 10, 5, 8, 8, 8, 10]",82.97,Reviewing,18.16,85.0
+308,Ibmgo65,"[7, 9, 10, 9, 10, 5, 8, 8, 8, 10]",82.97,Reviewing,18.16,85
 309,Jpmto63,"[7, 10, 10, 9, 7, 6, 9, 10, 9, 10, 8]",93.25,Documentation,6.18,94.04
 310,Ssdhw56,"[5, 5, 6, 7, 5, 3, 4, 5, 4, 6, 3]",60.74,Spreadsheet Work,39.02,48.42
 311,Vbiqv11,"[8, 6, 8, 6, 8, 7, 5]",66.07,Peer Review,28.93,62.77
@@ -418,7 +418,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 417,Qqwsl39,"[7, 9, 9, 8, 8, 7, 10, 8, 10, 6, 8]",81.79,Diagram Creation,22.31,82.06
 418,Sridl43,"[4, 6, 4, 6, 5, 4, 5, 7, 5, 4, 8, 5, 7]",58.03,Translation,42.4,36.96
 419,Dnthr65,"[2, 6, 6, 6, 3, 4, 4]",48.71,Writing,53.18,22.14
-420,Mdxqc99,"[5, 0, 2, 2, 5, 4, 5, 3, 3, 3, 3, 1, 6]",37.0,Diagram Creation,54.65,6.61
+420,Mdxqc99,"[5, 0, 2, 2, 5, 4, 5, 3, 3, 3, 3, 1, 6]",37,Diagram Creation,54.65,6.61
 421,Syhrk59,"[2, 10, 7, 9, 3, 6, 5, 7, 7, 5, 5, 7, 4, 5, 4, 6, 3, 6, 5]",60.49,Storyboarding,35.96,51.24
 422,Rhioq44,"[5, 9, 6, 5, 6, 8, 7]",71.25,Problem Solving,28.97,59.68
 423,Ujwjn73,"[6, 5, 5, 7, 7, 5, 6, 6, 7, 6, 6, 6, 7, 7, 8, 6, 7]",63.94,Planning,32.44,55.63
@@ -465,7 +465,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 464,Hazfa94,"[1, 3, 1, 3, 4, 2, 0]",38.17,Graphic Design,52.05,4.85
 465,Fiohf61,"[3, 4, 4, 6, 4, 5, 2, 5, 3, 4, 5, 5, 7, 5, 4, 3]",48.97,Graphic Design,47.59,23.92
 466,Pymkm27,"[5, 5, 5, 3, 6, 4]",35.63,Email Writing,41.82,13.13
-467,Qcwxy43,"[6, 3, 5, 6, 6, 6, 6, 7, 6]",60.84,Spreadsheet Work,29.65,56.0
+467,Qcwxy43,"[6, 3, 5, 6, 6, 6, 6, 7, 6]",60.84,Spreadsheet Work,29.65,56
 468,Xhrca12,"[5, 5, 4, 2, 4, 4, 4, 3, 3, 5, 5, 3]",48.19,Research,45.75,30.74
 469,Pvjbo24,"[5, 2, 7, 6, 5, 4, 3, 5, 2, 6, 7, 5, 5]",56.89,Testing,38.71,38.44
 470,Kfara10,"[10, 8, 10, 8, 8, 10, 10, 9, 10, 9, 10, 10, 8, 7]",87.46,Drawing/Illustration,13.99,94.14
@@ -513,7 +513,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 512,Kiavm20,"[7, 8, 6, 7, 5, 10]",79.12,Mockup Design,18.07,77.1
 513,Zvzts46,"[2, 5, 0, 8, 3, 4, 3]",42.73,Presenting,36.36,23.56
 514,Dyxiv63,"[6, 9, 8, 4, 5, 9, 8, 6, 7, 7, 9, 4, 6, 8, 5, 7, 9, 8, 7]",67.81,Storyboarding,21.17,62.7
-515,Dtkwo37,"[7, 9, 9, 9, 6, 5, 7, 9, 4, 10]",76.0,Documentation,17.91,72.48
+515,Dtkwo37,"[7, 9, 9, 9, 6, 5, 7, 9, 4, 10]",76,Documentation,17.91,72.48
 516,Kxptr88,"[4, 5, 5, 7, 6, 6, 6, 6, 5, 4]",50.57,Presenting,45.77,34.66
 517,Ddmzb48,"[6, 10, 9, 9, 9, 10, 10, 9, 8, 8, 7, 9, 10, 9, 9, 10, 10]",90.55,Research,8.22,95.87
 518,Twhce85,"[8, 6, 6, 4, 6, 4, 8]",68.89,Report Formatting,29.76,55.47
@@ -540,7 +540,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 539,Yqosg52,"[10, 8, 10, 8, 9, 9, 10, 8, 9, 9, 10]",91.55,Email Writing,14.38,90.51
 540,Xjjai41,"[10, 8, 9, 5, 8, 7, 8, 9, 8, 9, 9]",84.24,Translation,18.16,90.46
 541,Yreig66,"[1, 0, 4, 4, 2, 5, 1, 2, 1, 3, 3, 2]",30.56,Drawing/Illustration,65.01,1.24
-542,Vlrwr69,"[2, 0, 5, 1]",36.78,Programming,47.72,11.0
+542,Vlrwr69,"[2, 0, 5, 1]",36.78,Programming,47.72,11
 543,Ereii40,"[4, 5, 6, 5, 5, 4]",49.14,Research,42.24,29.24
 544,Rdaso44,"[8, 7, 7, 8, 6, 8, 6, 5, 6, 8, 6, 5, 5, 7, 6, 8, 6]",71.4,Storyboarding,25.5,56.27
 545,Hdkxc95,"[3, 6, 1, 2, 4, 4, 4, 2, 5, 3]",34.97,Code Review,57.36,10.55
@@ -556,9 +556,9 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 555,Cfnva24,"[9, 9, 6, 7, 8, 6, 6, 8, 10, 8, 8, 6]",75.49,Diagram Creation,25.19,68.88
 556,Jeypx43,"[6, 8, 7, 8, 6, 6, 7, 6, 7, 5, 8, 6]",69.25,Email Writing,29.17,51.15
 557,Fzgck98,"[3, 1, 2, 2, 5, 2]",31.53,Testing,51.33,0.71
-558,Llupn53,"[2, 2, 3, 6]",42.39,Code Review,38.0,21.91
+558,Llupn53,"[2, 2, 3, 6]",42.39,Code Review,38,21.91
 559,Ubrzx43,"[7, 7, 9]",77.82,Graphic Design,18.87,77.46
-560,Gualt74,"[2, 5, 4, 3, 3, 4, 5, 6, 5, 6, 6]",47.61,Reference Finding,51.0,22.14
+560,Gualt74,"[2, 5, 4, 3, 3, 4, 5, 6, 5, 6, 6]",47.61,Reference Finding,51,22.14
 561,Kcvlz55,"[9, 3, 8, 6, 3, 6, 4, 5, 2, 4, 4, 7, 2, 4, 4, 2, 5, 5, 4]",55.65,Presenting,43.57,34.55
 562,Ybpgs73,"[8, 5, 6, 7, 5, 5, 9, 8, 7]",77.14,Mockup Design,21.33,71.35
 563,Qhoda29,"[6, 8, 10, 9, 10, 9, 6, 10, 9, 9, 10]",91.05,Problem Solving,7.91,85.86
@@ -613,7 +613,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 612,Kbubf75,"[5, 10, 8, 10, 7, 9, 10, 9, 8, 10, 10, 8, 7]",88.57,Reference Finding,2.83,85.31
 613,Oihwp31,"[4, 6, 6, 8, 6, 7, 7, 5, 8, 4, 4]",62.18,Documentation,44.06,53.29
 614,Zeffy95,"[1, 4, 3, 4, 4, 4, 3, 2, 3, 7, 7, 2, 1, 5, 3, 4, 4, 6, 7, 6]",48.14,Mockup Design,57.13,26.17
-615,Tevnd74,"[4, 6, 6, 4, 4, 5, 4, 1, 3, 3, 2]",43.09,Presentation Design,50.61,19.0
+615,Tevnd74,"[4, 6, 6, 4, 4, 5, 4, 1, 3, 3, 2]",43.09,Presentation Design,50.61,19
 616,Bgrzb98,"[4, 5, 3, 5, 5, 4, 5]",50.42,Testing,43.09,39.27
 617,Gvzwf71,"[8, 6, 8, 7, 5, 3, 3, 6, 5, 6, 6, 7, 6, 8]",58.29,Problem Solving,30.27,47.82
 618,Pmpcv82,"[9, 7, 9, 7, 7]",93.8,Report Formatting,16.95,96.63
@@ -642,7 +642,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 641,Mlqie51,"[8, 8, 6, 9, 9, 9, 9, 8, 7, 6, 10, 8, 9, 10, 7, 6, 8, 10, 8]",81.31,Script Writing,11.96,84.27
 642,Liary85,"[6, 5, 3, 8, 6, 6]",61.95,Testing,30.1,43.49
 643,Hzbqf71,"[9, 5, 8, 8, 10, 10, 8, 9, 9, 8, 8, 8, 10]",85.23,Spreadsheet Work,1.58,90.11
-644,Mujdc43,"[8, 5, 7, 7, 7, 7, 8, 6, 7, 7, 6, 7, 4, 7]",75.0,Research,29.46,63.21
+644,Mujdc43,"[8, 5, 7, 7, 7, 7, 8, 6, 7, 7, 6, 7, 4, 7]",75,Research,29.46,63.21
 645,Bbjfb77,"[6, 10, 7, 7]",72.6,Writing,26.48,63.63
 646,Shjjn43,"[4, 4, 4, 5, 3, 4, 3, 7, 5, 6, 4, 6, 7, 4, 6]",54.18,Email Writing,28.03,38.38
 647,Pkyyp29,"[4, 2, 4, 4, 2, 2, 3, 3, 7, 3, 2, 4, 5]",37.75,Presenting,51.96,17.46
@@ -716,7 +716,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 715,Dyinf23,"[4, 2, 3, 5, 5, 5, 2, 4, 4, 2, 1, 3]",42.86,Testing,46.94,22.39
 716,Hbjwr76,"[6, 7, 5, 5, 7, 6, 8, 5, 6, 7]",67.33,Drawing/Illustration,31.92,58.01
 717,Pkbmh57,"[7, 10, 9, 10, 8, 10, 9, 10, 8, 6, 7, 8, 9, 10, 10, 6, 9]",86.19,Problem Solving,18.99,89.08
-718,Pyfqi60,"[1, 2, 6, 4, 4, 1, 2, 4, 3, 5, 4, 5, 2]",26.86,Peer Review,54.0,0
+718,Pyfqi60,"[1, 2, 6, 4, 4, 1, 2, 4, 3, 5, 4, 5, 2]",26.86,Peer Review,54,0
 719,Wzsny75,"[9, 10, 9, 7, 10, 8, 6, 10]",86.02,Problem Solving,9.81,83.79
 720,Zjlml17,"[9, 8, 9, 10, 9, 9, 9, 7, 7, 10, 9, 10, 9]",91.64,Drawing/Illustration,6.55,94.38
 721,Bgazx98,"[5, 8, 7, 4, 7, 7, 5, 5, 8, 4]",60.89,Drawing/Illustration,41.51,41.72
@@ -756,7 +756,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 755,Raijq24,"[8, 6, 9, 8, 9, 9, 9, 9, 7, 7, 8, 9, 10, 7, 9, 7, 4, 6]",84.71,Code Review,20.76,81.48
 756,Dvvcv22,"[4, 5, 4, 2, 6, 3, 3, 2, 2, 2, 3, 4, 5, 5]",40.52,Reviewing,57.01,12.13
 757,Kujmf78,"[9, 7, 6, 5, 7, 6, 7, 7, 5, 6, 5, 7, 8, 4]",61.98,Documentation,31.91,54.97
-758,Jygck90,"[4, 5, 5, 4, 4, 3, 3]",38.9,Content Creation,47.5,18.0
+758,Jygck90,"[4, 5, 5, 4, 4, 3, 3]",38.9,Content Creation,47.5,18
 759,Pftim48,"[9, 10, 7, 7, 6, 7, 4, 5, 4, 7, 8, 6, 7, 7]",73.11,Testing,27.36,65.4
 760,Besoy28,"[2, 4, 4, 2, 1, 4, 4, 1, 3, 4, 3]",37.93,Storyboarding,54.07,8.09
 761,Cjnzl23,"[9, 9, 8, 10, 7, 9, 9, 10, 8, 9, 9, 6, 10]",80.59,Planning,23.17,81.77
@@ -793,7 +793,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 792,Slhgr40,"[8, 7, 8, 7, 8, 9, 9, 9, 5]",73.03,Translation,22.8,73.03
 793,Ehkxl71,"[6, 4, 7, 8, 7, 9, 6, 6, 7, 7, 7, 8]",75.78,Reviewing,29.59,67.63
 794,Ibavs20,"[6, 10, 10, 10, 7, 8, 9, 10, 7, 10, 5, 10, 8]",90.24,Planning,9.96,86.78
-795,Jphmr62,"[10, 8, 8, 10, 10, 8, 9, 10, 10, 9]",92.24,Writing,2.0,96.25
+795,Jphmr62,"[10, 8, 8, 10, 10, 8, 9, 10, 10, 9]",92.24,Writing,2,96.25
 796,Ytzpd26,"[2, 7, 5, 3, 3, 2, 6, 3, 4, 5, 7]",47.2,Email Writing,48.9,24.27
 797,Jkciu18,"[8, 8, 5, 6, 5, 6, 5, 6, 7, 5, 5, 6, 7, 9, 5]",64.54,Presenting,31.62,53.57
 798,Baxrs24,"[6, 6, 9, 6, 3, 6, 7, 7, 9, 5, 6]",62.38,Flowchart Design,36.76,54.79
@@ -859,7 +859,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 858,Rqitt58,"[5, 2, 3, 5]",44.31,Email Writing,48.37,19.11
 859,Monbw20,"[9, 5, 8, 8, 8, 7, 6, 7]",69.44,Graphic Design,19.79,66.67
 860,Hpryu95,"[7, 8, 8, 7, 7, 9, 6, 8, 6, 7]",64.79,Presentation Design,29.62,55.58
-861,Gkkqv79,"[10, 8, 10, 6, 10, 10, 9, 6, 10, 8]",77.03,Script Writing,18.0,80.3
+861,Gkkqv79,"[10, 8, 10, 6, 10, 10, 9, 6, 10, 8]",77.03,Script Writing,18,80.3
 862,Snaut57,"[3, 5, 4, 3, 4, 7, 2, 2, 3, 5, 0, 2, 3, 6, 3, 5, 3, 3, 3, 4]",44.15,Graphic Design,50.4,12.95
 863,Epyud21,"[6, 5, 3, 5, 6, 6, 7, 4, 5, 4, 4, 9, 7, 9, 6, 3]",67.31,Report Formatting,32.52,53.49
 864,Giknd23,"[3, 5, 2, 4, 3, 5, 3, 2, 2, 3, 2, 2]",38.63,Reference Finding,46.08,18.42
@@ -907,7 +907,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 906,Oheai14,"[5, 5, 5, 6, 5, 5, 4, 2, 6, 4, 5, 3, 2, 3, 3]",45.05,Reference Finding,46.32,26.48
 907,Ophjj57,"[5, 1, 3, 4, 3, 1, 3, 3, 4, 3, 4, 3, 4, 1]",35.4,Script Writing,57.06,9.75
 908,Eboxs57,"[7, 10, 9, 6]",93.21,Report Formatting,6.81,95.33
-909,Ixcvk44,"[4, 5, 1, 5, 7, 4, 5, 5, 6, 3, 4, 4, 7, 5, 2, 5]",42.0,Reference Finding,41.36,18.97
+909,Ixcvk44,"[4, 5, 1, 5, 7, 4, 5, 5, 6, 3, 4, 4, 7, 5, 2, 5]",42,Reference Finding,41.36,18.97
 910,Mpiag75,"[6, 5, 4, 5, 3, 4, 4, 4, 4, 5, 2]",44.84,Programming,49.49,27.75
 911,Uocqg95,"[7, 8, 8, 6, 5]",74.47,Reviewing,16.77,69.52
 912,Chneb72,"[7, 5, 5, 7, 4, 9, 6, 6, 9, 6]",62.63,Spreadsheet Work,32.02,46.05
@@ -937,7 +937,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 936,Iiuio77,"[3, 0, 4, 6, 5, 6, 3, 0, 1, 4, 2, 4, 4, 1, 2, 2, 5]",38.12,Diagram Creation,61.92,11.22
 937,Yqbgj51,"[2, 1, 1, 5, 1, 4, 3, 0, 2, 2, 2, 4, 2, 2, 3, 3, 4]",35.04,Research,54.31,9.47
 938,Phepp55,"[8, 7, 7, 8, 8, 8, 8, 8, 7, 10, 10, 9, 9, 10, 10, 5, 9, 10, 9, 8]",78.15,Research,16.45,82.52
-939,Oukql78,"[5, 6, 4, 8, 9, 7, 4]",65.49,Presenting,35.0,54.2
+939,Oukql78,"[5, 6, 4, 8, 9, 7, 4]",65.49,Presenting,35,54.2
 940,Trynl35,"[5, 6, 8, 6, 7]",62.66,Peer Review,44.33,47.89
 941,Qesdj34,"[7, 10, 7, 6, 6, 10, 10, 7, 9]",78.63,Research,16.09,71.24
 942,Yxfqt36,"[7, 3, 2]",29.91,Problem Solving,56.24,3.08
@@ -982,7 +982,7 @@ id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_qualit
 981,Avmqd32,"[6, 4, 6, 6, 2, 5, 6, 8, 4, 5, 6, 4, 6, 8, 5, 2]",49.93,Content Creation,45.97,35.71
 982,Qohqh89,"[6, 7, 6, 7, 5, 7, 5, 3, 5, 6, 6, 6, 5, 7, 8, 7, 6, 5, 7]",62.85,Programming,38.72,44.93
 983,Pthpp69,"[8, 4, 6, 5, 9]",53.7,Planning,40.24,41.56
-984,Unhsy93,"[8, 7, 9, 9, 7, 8, 10, 7, 4, 6, 5, 4, 6, 10, 7, 7, 9]",69.5,Flowchart Design,30.0,55.93
+984,Unhsy93,"[8, 7, 9, 9, 7, 8, 10, 7, 4, 6, 5, 4, 6, 10, 7, 7, 9]",69.5,Flowchart Design,30,55.93
 985,Okdns68,"[5, 3, 4, 4, 5, 5, 4, 3, 5, 4, 5, 4, 3, 6, 6, 5, 0]",52.29,Documentation,40.49,32.84
 986,Mgbiy30,"[8, 8, 5, 7, 7, 6, 5, 7, 4, 5, 6, 3, 6, 6, 5, 7, 8, 3, 6, 4]",67.37,Report Formatting,31.66,57.79
 987,Twlnr74,"[2, 3, 3, 5, 2, 2, 5, 2, 4, 3, 3, 2, 3, 4, 4, 3, 4, 5, 3]",36.25,Presenting,57.94,4.52
