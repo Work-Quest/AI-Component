@@ -42,25 +42,24 @@ def scale(value, in_min, in_max, out_min, out_max):
 def generate_mock_user(user_id):
     num_days = random.randint(3, 20)
 
-    # 1. สุ่มค่า quality base score ที่จะส่งผลทุกตัว
+    # Quality base score
     quality_base = random.uniform(0, 1)  # 0 = แย่, 1 = ดี
 
-    # 2. กำหนด overall quality score ตาม quality base
+    # Random overall quality score by quality base
     overall_quality_score = round(scale(quality_base, 0, 1, 0, 100) + random.uniform(-3, 3), 2)
     overall_quality_score = max(0, min(overall_quality_score, 100))
 
-    # 3. ความเร็วทำงานสัมพันธ์กับ quality base
-    # average finish work time (hour) of all project
+    # Random average finish work time (hour) of all project by quality base
     inverse_quality = 1 - quality_base
     base_speed = scale(inverse_quality, 0, 1, 5, 60)  # quality สูง → speed ต่ำ
     work_speed = round(random.gauss(base_speed, 5), 2)
     work_speed = max(0.1, min(work_speed, 72))
 
-    # 4. workload per day: int array, ต่ำสุดคือ 0 (บางวันไม่ทำงาน)
+    # Random workload per day in int array
     base_workload = scale(quality_base, 0, 1, 3, 10)
     daily_workload = [min(max(int(random.gauss(base_workload, 1.5)), 0), 10) for _ in range(num_days)]
 
-    # 5. team_work คะแนนสัมพันธ์กับ quality base
+    # Random team_work by quality base
     team_work = round(scale(quality_base, 0, 1, 30, 95) + random.uniform(-5, 5), 2)
     team_work = max(0, min(team_work, 100))
 
