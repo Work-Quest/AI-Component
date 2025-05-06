@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/work%20project/workquest/AI-Component/mlruns/902953866819847491/ffb4ef87c1084af9ba24bff8754babd5/artifacts
+end_time: 1746551650409
+entry_point_name: ''
+experiment_id: '902953866819847491'
+lifecycle_stage: active
+run_id: ffb4ef87c1084af9ba24bff8754babd5
+run_name: model_comparison
+run_uuid: ffb4ef87c1084af9ba24bff8754babd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746551650376
+status: 4
+tags: []
+user_id: PC
