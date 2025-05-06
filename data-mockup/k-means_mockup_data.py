@@ -69,7 +69,7 @@ def generate_mock_user(user_id):
         "work_load_per_day": daily_workload,
         "team_work": team_work,
         "work_category": random.choice(WORK_CATEGORIES),
-        "work_speed_per_day": work_speed,
+        "work_speed": work_speed,
         "overall_quality_score": overall_quality_score
     }
 
@@ -78,7 +78,7 @@ def save_to_csv(data, filename):
         writer = csv.writer(file)
         writer.writerow([
             "id", "user_name", "work_load_per_day", "team_work",
-            "work_category", "work_speed_per_day", "overall_quality_score"
+            "work_category", "work_speed", "overall_quality_score"
         ])
         for user in data:
             writer.writerow([
@@ -87,7 +87,7 @@ def save_to_csv(data, filename):
                 json.dumps(user["work_load_per_day"]),
                 user["team_work"],
                 user["work_category"],
-                json.dumps(user["work_speed_per_day"]),
+                json.dumps(user["work_speed"]),
                 user["overall_quality_score"]
             ])
 

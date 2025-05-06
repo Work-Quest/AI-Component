@@ -1,4 +1,4 @@
-id,user_name,work_load_per_day,team_work,work_category,work_speed_per_day,overall_quality_score
+id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_quality_score
 1,Fbqve63,"[10, 9, 10, 9, 8, 10, 6, 10, 10, 8, 9, 10, 10, 6, 7, 8]",85.63,Code Review,12.05,87.75
 2,Xhjnp94,"[8, 9, 8, 8, 10, 9, 6, 9, 10, 8, 5, 10, 10]",81.42,Email Writing,15.67,79.92
 3,Llbls85,"[8, 6, 8, 9, 7, 8, 9, 9, 6, 10, 5, 6, 7, 8, 8, 8, 7, 8]",76.11,Translation,15.78,81.24

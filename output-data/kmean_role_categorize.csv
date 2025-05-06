@@ -1,4 +1,4 @@
-id,user_name,work_load_per_day,team_work,work_category,work_speed_per_day,overall_quality_score,avg_workload,work_category_encoded,cluster,group_role
+id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_quality_score,avg_workload,work_category_encoded,cluster,group_role
 1,Fbqve63,"[10, 9, 10, 9, 8, 10, 6, 10, 10, 8, 9, 10, 10, 6, 7, 8]",85.63,Code Review,12.05,87.75,8.75,0,2,Editor
 2,Xhjnp94,"[8, 9, 8, 8, 10, 9, 6, 9, 10, 8, 5, 10, 10]",81.42,Email Writing,15.67,79.92,8.461538461538462,5,5,Team Lead
 3,Llbls85,"[8, 6, 8, 9, 7, 8, 9, 9, 6, 10, 5, 6, 7, 8, 8, 8, 7, 8]",76.11,Translation,15.78,81.24,7.611111111111111,23,5,Team Lead
