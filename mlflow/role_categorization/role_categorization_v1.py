@@ -12,33 +12,6 @@ from mlflow.models import infer_signature
 from mlflow.pyfunc import PythonModel
 
 
-# Constants
-group_roles = {
-    "Team Lead": "Guides the group",
-    "Idea Maker": "Brings up new ideas",
-    "Planner": "Makes schedule and task list",
-    "Slide Maker": "Builds the presentation",
-    "Presenter": "Talks for the team",
-    "Researcher": "Looks for info",
-    "Note Taker": "Writes down group ideas",
-    "Helper": "Supports where needed",
-    "Time Keeper": "Watches the time / deadlines",
-    "Checker": "Makes sure things are correct",
-    "Data Finder": "Collects needed facts/data",
-    "Editor": "Fixes words and sentences",
-    "Mood Keeper": "Keeps group happy and calm",
-    "Task Finisher": "Good at wrapping things up"
-}
-
-work_categories = [
-    "Research", "Writing", "Presentation Design", "Presenting", "Planning",
-    "Programming", "Graphic Design", "Spreadsheet Work", "Problem Solving",
-    "Content Creation", "Script Writing", "Reviewing", "Documentation",
-    "Testing", "Report Formatting", "Translation", "Drawing/Illustration",
-    "Code Review", "Diagram Creation", "Flowchart Design", "Mockup Design",
-    "Storyboarding", "Email Writing", "Peer Review", "Reference Finding", "Submitting"
-]
-
 EXPERIMENT_NAME = "K-means Role Categorization"
 ARTIFACT_DIR = "artifacts"
 TRACKING_URI = "http://127.0.0.1:8080"
@@ -209,13 +182,13 @@ def main():
             mlflow.log_metric("final_silhouette_score", final_score)
 
             role_mapping = {
-                4: "Team Lead",
-                1: "Checker",
+                0: "Balancer",
+                1: "Perfectionist",
+                2: "Task finisher",
+                3: "Lone Wolf",
+                4: "Leader",
                 5: "Helper",
-                0: "Note Taker",
-                6: "Task Finisher",
-                3: "Time Keeper",
-                2: "Data Finder"
+                6: "Genelarist"
             }
 
             df["assigned_role"] = df["cluster"].map(role_mapping)

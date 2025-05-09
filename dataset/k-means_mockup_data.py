@@ -6,31 +6,17 @@ import json
 NUM_USERS = 1000
 OUTPUT_CSV = "k-means-train-data.csv"
 WORK_CATEGORIES = [
-    "Research",
-    "Writing",
-    "Presentation Design",
-    "Presenting",
-    "Planning",
+    "Conducting Research",
+    "Creating Content and Visuals",
+    "Task Assignment and Scheduling",
     "Programming",
-    "Graphic Design",
-    "Spreadsheet Work",
-    "Problem Solving",
-    "Content Creation",
-    "Script Writing",
-    "Reviewing",
+    "Working with Spreadsheets and Data",
+    "Reviewing and Providing Feedback",
     "Documentation",
     "Testing",
-    "Report Formatting",
     "Translation",
-    "Drawing/Illustration",
-    "Code Review",
-    "Diagram Creation",
-    "Flowchart Design",
-    "Mockup Design",
-    "Storyboarding",
-    "Email Writing",
-    "Peer Review",
-    "Reference Finding"
+    "Sending Emails and Communication",
+    "Finalizing and Submitting Work"
 ]
 
 def random_name():

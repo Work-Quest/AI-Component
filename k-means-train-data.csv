@@ -1,0 +1,1001 @@
+id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_quality_score
+1,Totwx73,"[6, 7, 7, 8, 8, 9, 7, 9, 7, 9, 6, 8, 10, 8, 8, 8, 8, 8, 10]",85.66,Testing,19.0,79.88
+2,Irzkk47,"[8, 5, 8, 9]",77.51,Programming,23.08,66.41
+3,Xvwic96,"[8, 5, 7, 7, 8, 8, 8, 7, 8, 6, 6, 8, 7, 5, 8, 7, 9, 7, 5]",66.45,Programming,31.57,61.19
+4,Omucn96,"[3, 2, 4, 3, 1, 5, 4, 7, 6, 2, 5, 3, 5, 4, 4, 6, 3]",39.09,Documentation,45.0,19.37
+5,Svkxa94,"[10, 8, 10, 10, 7, 10, 9, 8, 8, 8, 8, 10, 9]",91.71,Creating Content and Visuals,5.87,96.63
+6,Ytccl39,"[8, 10, 9, 9, 9, 9, 8, 10, 10, 9, 6, 6, 9, 9, 10, 9, 6, 6, 9, 8]",87.24,Testing,12.75,89.99
+7,Exffj27,"[4, 1, 4, 1, 2, 5, 6, 1, 5, 2]",37.27,Programming,61.47,1.02
+8,Zsmwx55,"[2, 1, 6, 2, 4, 6, 5, 6, 5, 3, 4]",43.75,Working with Spreadsheets and Data,43.95,22.57
+9,Biwsj67,"[10, 10, 9, 9, 6, 9]",75.87,Translation,26.48,72.53
+10,Akbrx19,"[6, 3, 2, 4, 1, 5, 2, 3, 2, 4, 7, 5, 6, 4, 2]",34.7,Creating Content and Visuals,56.74,8.64
+11,Ytdsx86,"[10, 7, 9, 10, 9, 10, 10, 9, 8, 9, 10, 9, 10]",95.79,Task Assignment and Scheduling,8.53,97.45
+12,Yovpv63,"[4, 5, 4, 4, 2, 2, 2, 6]",59.71,Reviewing and Providing Feedback,41.69,44.43
+13,Tdoln66,"[5, 7, 7, 6, 6, 6, 4, 9, 8, 8, 5, 5, 5, 5, 6]",67.02,Documentation,23.09,60.9
+14,Dagvw61,"[4, 2, 3]",37.36,Testing,59.93,16.51
+15,Jbqor48,"[10, 8, 5, 8, 5, 10, 8, 7, 7, 6]",76.88,Programming,24.67,67.15
+16,Eamtn38,"[2, 6, 7, 5, 5, 4]",49.28,Finalizing and Submitting Work,37.62,27.72
+17,Whzfo79,"[9, 9, 8, 7, 7, 7, 9, 6, 9, 7, 4, 7, 8, 8, 2, 8, 6, 7]",68.94,Reviewing and Providing Feedback,36.99,60.76
+18,Omuzd84,"[7, 8, 10, 7, 10, 9, 10, 10, 7, 9, 7, 8, 7, 10, 9, 7, 6, 7, 10]",89.19,Creating Content and Visuals,9.87,88.35
+19,Qkrbh89,"[7, 4, 6, 6, 6, 7, 5, 6]",47.11,Task Assignment and Scheduling,48.02,31.5
+20,Kpmmh85,"[5, 5, 2, 6, 4, 5, 2, 4, 4, 6, 3, 3, 3]",45.49,Working with Spreadsheets and Data,46.06,22.14
+21,Gxiqj11,"[3, 4, 1, 3, 6, 0]",42.37,Programming,36.66,15.12
+22,Jfghr30,"[10, 8, 9, 8, 7, 10, 10, 10, 6, 10, 10, 9, 10, 8, 9, 8, 8, 10, 9]",91.64,Creating Content and Visuals,12.11,87.16
+23,Tbtjn64,"[8, 6, 7, 5]",70.36,Sending Emails and Communication,19.43,68.05
+24,Hzapo21,"[5, 5, 5, 7, 3, 4, 6]",42.2,Working with Spreadsheets and Data,47.34,22.74
+25,Gesiq40,"[9, 7, 4, 8, 10, 8, 10, 8, 8, 9, 9]",85.23,Conducting Research,19.18,77.25
+26,Ctsyt97,"[8, 10, 10, 10, 8, 7, 8, 9, 8, 10, 10, 8]",95.18,Working with Spreadsheets and Data,21.94,98.27
+27,Ffuur64,"[6, 1, 8, 6, 5]",44.46,Reviewing and Providing Feedback,46.24,26.19
+28,Gpstt10,"[0, 2, 4, 2, 3, 3, 2]",30.79,Working with Spreadsheets and Data,59.91,0.79
+29,Aurxw19,"[9, 6, 8, 8, 7, 6, 10, 10, 8]",76.19,Working with Spreadsheets and Data,21.04,72.35
+30,Mwsdu42,"[2, 3, 7, 3, 4, 4, 4, 3, 5, 3, 5, 5, 5, 5, 7, 4, 3]",43.26,Testing,50.67,20.12
+31,Hoeod20,"[5, 5, 6, 7, 3, 0, 3, 3, 4, 4, 4, 6, 5]",45.05,Programming,49.82,20.98
+32,Qxocr14,"[6, 7, 9, 6, 10, 8, 9, 8, 6, 8, 7, 4, 4, 5, 9]",68.0,Finalizing and Submitting Work,22.56,62.61
+33,Kzycp85,"[2, 1, 4, 4, 4, 5, 2, 5, 4, 3, 3, 3, 1, 3, 3, 6, 4, 6, 4]",42.78,Programming,43.51,14.8
+34,Rwoyf69,"[4, 4, 3, 3, 2, 3, 5, 4, 4, 6, 5, 2, 7, 8, 0, 2]",44.48,Reviewing and Providing Feedback,56.17,13.74
+35,Ghgqj62,"[10, 6, 3, 5, 7, 3, 4, 7, 6, 6, 6, 3, 9, 7]",58.27,Translation,32.21,49.88
+36,Ktnft42,"[8, 7, 10, 6, 8, 7, 8, 8, 5, 6, 9]",78.56,Task Assignment and Scheduling,28.08,74.44
+37,Upikl37,"[7, 10, 8, 7, 8, 7, 8, 7, 6, 9, 9, 9, 8, 7, 6]",75.41,Working with Spreadsheets and Data,26.33,70.18
+38,Qdwyt21,"[9, 9, 9]",95.58,Task Assignment and Scheduling,2.0,93.59
+39,Zzclr35,"[3, 3, 8, 6, 3, 6, 5, 6, 6]",59.08,Finalizing and Submitting Work,42.97,42.75
+40,Ruitg54,"[2, 4, 3, 7]",49.64,Programming,34.27,36.56
+41,Vhprf92,"[2, 4, 5, 4, 2, 3]",41.41,Translation,46.23,19.86
+42,Zhfbj38,"[7, 10, 6, 10, 10, 7, 7, 9, 9, 8, 7, 7, 10, 5, 7, 9, 8]",88.01,Task Assignment and Scheduling,8.61,82.44
+43,Avvul53,"[8, 8, 9, 8, 7, 9, 8, 9, 10, 10, 7, 10]",79.53,Translation,14.36,80.52
+44,Xgwzl49,"[4, 3, 1, 4, 5, 5, 2, 1, 1, 2, 4, 3, 2, 2, 6, 1, 0, 4]",39.16,Conducting Research,53.44,11.75
+45,Upkuw16,"[5, 3, 5, 4, 7, 4, 5, 5, 7]",55.85,Testing,35.11,33.89
+46,Myjah68,"[0, 2, 6, 4, 4, 3, 4, 4, 6, 2, 3, 6, 6, 2]",43.67,Working with Spreadsheets and Data,60.31,11.34
+47,Mkgbj97,"[8, 9, 9, 8, 7, 8, 7, 8, 8, 9, 8, 8, 7, 8, 6, 7, 8]",78.43,Conducting Research,20.97,78.44
+48,Rnkaw43,"[10, 8, 7, 8, 10, 10, 8, 10, 10, 9]",92.35,Creating Content and Visuals,7.35,98.71
+49,Nfakg69,"[7, 7, 9, 5, 8, 9, 5]",78.37,Programming,19.67,69.32
+50,Gmtgi32,"[4, 5, 7, 10, 6, 6, 4, 7, 7, 6, 5, 5]",64.32,Task Assignment and Scheduling,42.93,46.6
+51,Gzqyp77,"[9, 6, 6, 7, 7, 8, 9, 6, 4, 7]",83.91,Sending Emails and Communication,19.32,77.72
+52,Gxcrq24,"[4, 3, 4, 4, 3, 5, 5]",48.29,Conducting Research,44.67,31.35
+53,Kqwfh34,"[5, 7, 6, 6, 3, 7, 7, 7, 7, 5, 7, 3]",57.52,Sending Emails and Communication,43.17,44.03
+54,Vwznh53,"[10, 9, 9, 10, 8, 10, 8, 9, 10, 10, 10, 10, 8, 10, 10]",92.33,Reviewing and Providing Feedback,7.46,96.79
+55,Rxdcd75,"[5, 5, 6, 5, 7, 8, 6, 8, 5, 9, 3, 5, 6, 8, 7]",70.89,Conducting Research,29.4,62.03
+56,Izwuh27,"[7, 6, 5, 8, 6, 7, 5, 8, 4, 3]",62.55,Task Assignment and Scheduling,32.88,47.31
+57,Gqbfw64,"[10, 6, 9, 7, 8]",86.25,Sending Emails and Communication,0.1,92.62
+58,Twuns45,"[6, 6, 6, 8, 10, 9, 7, 3, 6, 10, 6]",64.75,Finalizing and Submitting Work,31.05,55.72
+59,Ubytn99,"[8, 5, 10, 7]",82.5,Testing,16.39,87.55
+60,Gpxvh58,"[10, 7, 5, 8, 5, 5, 4, 6]",62.97,Programming,26.4,49.65
+61,Olcjr63,"[5, 3, 3, 1, 5, 5, 4, 5, 5, 1, 3, 2, 5, 4, 3, 5, 3, 6, 5, 4]",36.14,Conducting Research,41.79,17.31
+62,Hqlsg62,"[7, 7, 6]",79.2,Conducting Research,15.23,81.16
+63,Udivd37,"[8, 8, 8, 8, 6, 8, 7]",87.77,Working with Spreadsheets and Data,16.05,89.62
+64,Papmj48,"[9, 8, 9, 6, 5, 6, 7, 9, 4]",71.96,Conducting Research,30.25,59.38
+65,Bkdss98,"[7, 7, 7, 7, 4, 5, 8, 6, 6, 8]",70.46,Finalizing and Submitting Work,21.87,66.9
+66,Acvny90,"[9, 10, 9, 6, 9, 7, 10, 8, 8, 10, 7, 10, 7, 9]",83.38,Reviewing and Providing Feedback,16.85,76.06
+67,Ehqde60,"[5, 10, 7, 7, 4, 7, 5, 7, 8, 6, 7, 7, 8, 9, 8, 6]",65.52,Task Assignment and Scheduling,28.78,61.52
+68,Rvewo18,"[5, 4, 9, 4, 6, 9, 2, 3]",52.71,Creating Content and Visuals,35.81,40.31
+69,Zvrnb66,"[7, 7, 8, 9, 7, 8, 9, 9, 10, 10, 6, 9, 8, 9, 6]",89.68,Programming,10.93,90.04
+70,Oeqcl18,"[10, 8, 7, 7, 8, 7, 6, 4, 9, 7]",79.9,Conducting Research,13.76,77.82
+71,Kwkzz67,"[8, 8, 7, 9, 6, 7, 8, 7, 9, 7, 5]",76.05,Sending Emails and Communication,19.17,70.89
+72,Tnzvl87,"[7, 5, 7, 6, 8, 7]",68.92,Working with Spreadsheets and Data,27.21,66.07
+73,Anwdc48,"[5, 5, 4, 5, 3, 7, 4, 4, 6, 5, 5, 5, 3, 6, 5, 4, 5]",42.27,Testing,47.27,22.33
+74,Qfynl94,"[4, 7, 6, 7, 5, 3, 7, 8, 3, 6, 3, 3]",59.51,Conducting Research,37.89,45.18
+75,Vywbp38,"[5, 7, 6, 8, 4, 4]",58.19,Working with Spreadsheets and Data,32.35,40.87
+76,Iveoz57,"[5, 10, 6, 8, 10, 8, 9, 4]",80.3,Documentation,18.68,69.83
+77,Ohxvt12,"[2, 0, 3, 0, 3, 4, 1, 3, 3, 5, 4, 1, 3, 3, 1, 6, 5, 4]",37.41,Sending Emails and Communication,52.55,8.49
+78,Aeezq81,"[2, 2, 2, 2, 2, 3]",40.88,Finalizing and Submitting Work,55.22,11.87
+79,Mawkj10,"[6, 5, 5, 5, 4]",54.61,Task Assignment and Scheduling,34.43,46.96
+80,Ksppz59,"[9, 8, 8]",77.56,Programming,27.38,78.53
+81,Akfqd76,"[6, 6, 5, 7, 2, 5, 7, 8, 6, 7, 7, 7, 7, 6, 3]",54.98,Conducting Research,43.13,44.53
+82,Yqvdg73,"[7, 5, 5, 5, 6, 5, 4, 4, 3, 2, 5, 3, 6]",46.82,Task Assignment and Scheduling,36.21,27.51
+83,Hfita37,"[2, 4, 7, 2, 5, 6, 4, 4, 3, 4, 3]",32.91,Testing,63.47,9.91
+84,Petzy77,"[6, 5, 3, 5]",45.67,Documentation,48.71,17.18
+85,Iqnfc11,"[5, 9, 5, 8, 7, 10, 7, 8, 8, 10, 6, 9, 6, 7, 8]",74.22,Working with Spreadsheets and Data,24.55,67.27
+86,Ailrp43,"[9, 7, 9, 9, 10, 8, 9, 6, 8, 9, 7, 10, 8, 10, 8, 8]",90.0,Programming,3.59,91.35
+87,Kvfpv95,"[10, 10, 8, 10, 6, 8, 10, 8, 10, 9, 10, 6, 7]",84.68,Finalizing and Submitting Work,14.06,87.22
+88,Tzybv29,"[6, 7, 6, 9, 7, 8, 6, 8, 8, 6, 9, 8]",74.88,Conducting Research,22.48,66.86
+89,Ikzvv31,"[9, 7, 7, 6, 7, 6, 4, 8, 9, 7, 6, 10, 9, 7]",73.58,Working with Spreadsheets and Data,15.9,69.54
+90,Ynzwr17,"[10, 5, 6, 9, 7, 6, 8, 9]",72.09,Sending Emails and Communication,27.19,69.27
+91,Mvoed94,"[6, 5, 5, 5, 5, 4, 6, 7, 6, 1, 5, 3, 4, 9, 6, 4, 5, 5, 5]",56.8,Creating Content and Visuals,35.12,46.07
+92,Znnds72,"[5, 2, 3, 3, 7, 5, 6, 5, 4]",45.4,Programming,44.58,31.73
+93,Lxutb93,"[8, 7, 5]",61.79,Sending Emails and Communication,30.17,53.11
+94,Iuefe34,"[6, 6, 9, 8, 7, 7, 6, 9, 10, 8, 8, 4, 10]",75.81,Testing,28.53,68.79
+95,Wusyo94,"[7, 10, 9, 7, 7, 8, 7, 7, 8]",80.77,Programming,21.28,74.8
+96,Uhxwn13,"[8, 8, 9, 9, 7, 9, 10, 8, 10, 9, 7, 9, 7, 6, 9, 10, 10, 10, 10, 9]",83.65,Documentation,14.12,88.57
+97,Mmpdn10,"[1, 6, 2, 4, 3, 5, 5, 3, 4, 6, 1, 6, 5, 4, 4, 4, 5, 5, 3]",48.33,Finalizing and Submitting Work,49.2,24.74
+98,Wqlhs41,"[6, 5, 3, 5, 4, 5, 6, 5]",49.66,Task Assignment and Scheduling,40.93,34.73
+99,Heslo74,"[9, 6, 10, 10, 9, 10, 9, 10, 8, 8, 9, 10]",90.71,Working with Spreadsheets and Data,13.65,96.35
+100,Hwgeh59,"[5, 3, 0, 4, 1, 3, 3, 1, 5, 5, 2, 3, 4]",37.7,Conducting Research,62.2,8.01
+101,Fcpqj33,"[7, 6, 3, 7]",56.39,Programming,34.86,49.69
+102,Ykeaq94,"[4, 4, 2, 1]",32.93,Working with Spreadsheets and Data,55.05,4.76
+103,Lyocc85,"[4, 5, 3, 5, 7]",54.51,Working with Spreadsheets and Data,43.98,31.85
+104,Huagy45,"[5, 7, 8, 7, 7, 10, 6, 8, 3, 4, 6, 7, 7, 7, 6, 3, 8, 6, 5]",69.15,Task Assignment and Scheduling,31.13,56.05
+105,Xboxs28,"[6, 5, 5, 6, 7, 7, 8, 9]",81.74,Documentation,14.26,69.49
+106,Gsphu25,"[7, 9, 10, 9, 8, 10, 8, 9]",83.21,Testing,2.58,89.14
+107,Rgfzi79,"[5, 5, 4, 4, 3, 5, 4, 3, 3, 2, 6, 6, 2, 5, 4, 4, 2, 6, 6, 5]",45.04,Creating Content and Visuals,54.63,23.2
+108,Jqeyt75,"[9, 3, 7]",58.6,Working with Spreadsheets and Data,19.33,46.98
+109,Pxran37,"[10, 9, 8, 5, 9, 6, 9, 8, 7, 9, 10, 8, 9, 8, 10, 8, 10, 10, 8, 9]",86.79,Testing,0.1,95.05
+110,Ofmlp76,"[4, 5, 3]",62.61,Creating Content and Visuals,35.19,46.74
+111,Ojokg84,"[7, 5, 7, 4]",51.4,Documentation,36.46,34.38
+112,Lbvai72,"[2, 1, 3]",33.96,Testing,59.94,5.51
+113,Xkcqg51,"[8, 8, 10, 10, 8, 9, 10, 8, 10]",88.41,Conducting Research,11.8,96.42
+114,Zzeru79,"[5, 3, 8, 2, 8, 6, 3, 6, 2, 4, 5, 4, 5, 5]",49.98,Programming,44.62,32.72
+115,Ffsuo20,"[4, 1, 4]",50.98,Testing,47.77,28.69
+116,Pwtmu46,"[4, 2, 3, 3, 5, 4, 5, 3, 2, 4, 1]",34.41,Sending Emails and Communication,64.24,9.83
+117,Vmafj89,"[9, 8, 7, 9, 7, 8, 10, 8, 6, 8, 10, 7, 7]",91.53,Task Assignment and Scheduling,17.3,86.93
+118,Phlkt77,"[9, 8, 10, 10, 10, 6, 9, 10, 10, 8, 9]",92.12,Translation,9.6,90.96
+119,Mojmm15,"[6, 5, 9, 6, 7, 7, 5, 2, 7, 8, 7, 5, 7, 7, 8, 5, 5, 3, 7]",64.25,Testing,31.71,59.39
+120,Bvlqx92,"[3, 6, 4, 5, 5, 6, 1]",33.2,Sending Emails and Communication,52.13,8.11
+121,Ubvup47,"[7, 10, 5, 9, 10, 8, 10, 8, 9, 7, 8, 9, 7]",79.0,Documentation,5.06,76.73
+122,Ojvje60,"[7, 10, 8, 10, 6, 10, 8, 10, 7, 7, 10, 9, 9, 9]",84.02,Programming,17.84,83.09
+123,Zvcrm26,"[7, 7, 8, 8, 9, 9, 6, 8, 7, 9, 7, 7, 8, 7, 8]",77.82,Translation,21.88,67.75
+124,Cakrc16,"[3, 3, 1, 3, 6, 5, 4, 4, 5, 3, 3]",35.74,Documentation,54.34,11.94
+125,Kpcij73,"[8, 10, 8, 10, 10, 9, 8, 8, 9, 7, 9, 7, 10, 10, 9, 10]",94.36,Conducting Research,10.58,94.62
+126,Pctlv47,"[7, 9, 8, 7, 7, 8, 6, 6, 9, 6, 6]",71.4,Translation,28.58,64.73
+127,Ltvmy63,"[9, 6, 5, 8, 9, 9, 8, 6, 8, 10, 10, 10, 10, 10, 9, 8, 10, 10, 6, 7]",85.05,Conducting Research,13.15,86.08
+128,Kfdlj12,"[8, 7, 5, 5, 6, 5, 9, 7, 8, 7, 10, 7, 6, 4, 8, 8]",66.49,Task Assignment and Scheduling,26.32,61.73
+129,Hhmho67,"[4, 4, 8, 6, 4, 5, 7, 3, 3, 4, 5, 4, 2, 6, 6, 6, 4, 4]",48.59,Creating Content and Visuals,41.67,29.46
+130,Pvcux91,"[5, 6, 5, 7, 9, 8, 8, 7, 6, 5, 8, 8, 7, 6, 6, 7]",70.34,Translation,36.02,61.32
+131,Pmotr81,"[7, 7, 8, 6, 5, 7, 8, 5, 7, 8, 6, 9, 6, 9]",77.53,Documentation,27.77,68.94
+132,Chdra31,"[2, 2, 6, 3, 3]",37.08,Reviewing and Providing Feedback,56.32,12.02
+133,Sbkep49,"[6, 5, 7, 4, 6, 3, 6, 8, 5, 4, 6, 7, 7, 5]",62.7,Creating Content and Visuals,32.35,44.18
+134,Pwhts16,"[6, 6, 6, 7, 7, 10, 7, 3, 7, 4]",59.17,Testing,30.84,50.2
+135,Iufpo95,"[3, 3, 3, 6, 3, 1, 6, 3, 4, 6]",51.8,Testing,47.13,27.45
+136,Etuie89,"[5, 4, 6, 6, 5, 5, 5, 5, 7, 3, 4, 6, 5, 7, 6, 6, 6, 4, 3, 5]",56.05,Documentation,44.84,36.48
+137,Vntvy57,"[2, 1, 1, 5, 3, 2, 0, 4, 4, 0, 2, 2, 4, 0, 4, 3, 2]",35.05,Working with Spreadsheets and Data,61.62,5.43
+138,Lfcij95,"[3, 3, 3, 3, 3, 3, 3, 3, 1, 5, 4, 5, 3, 4, 1, 1, 4, 5]",38.84,Documentation,52.07,12.83
+139,Tlmqn96,"[10, 8, 9, 10, 7, 10, 10, 6, 9, 7, 7, 9, 10, 9, 9, 7]",84.9,Documentation,9.43,85.58
+140,Igckc98,"[7, 7, 8, 9, 7, 7, 4, 6, 4, 9]",66.67,Programming,27.64,59.95
+141,Rhjuv58,"[5, 7, 5, 6, 3, 6, 5, 9, 4, 4, 6, 7, 4, 6, 5, 7, 7]",63.22,Testing,34.5,48.55
+142,Gvyae26,"[4, 6, 3, 3]",42.07,Programming,45.96,18.66
+143,Zvjyu22,"[9, 8, 8, 10, 10, 10, 8, 5, 10, 10, 9, 7, 9, 10, 8, 8, 10, 10]",85.98,Programming,4.7,86.65
+144,Igigm72,"[7, 4, 7, 6]",53.47,Documentation,31.63,39.67
+145,Gxbia84,"[8, 8, 8, 5, 9, 6, 6, 10, 8, 9, 10, 9]",82.51,Documentation,21.7,83.58
+146,Helyy59,"[8, 7, 9, 8, 8, 7, 10, 9, 8, 7, 8, 10, 7, 8, 6, 7, 10, 9, 9]",87.32,Testing,8.81,84.23
+147,Cnjsy42,"[10, 8, 7, 10, 9, 8, 9, 8]",87.12,Translation,19.25,91.35
+148,Omokt73,"[7, 9, 9, 8, 8, 8, 7, 10, 9, 8, 7, 10, 6, 10, 9, 10, 9, 7, 8, 7]",82.53,Reviewing and Providing Feedback,9.71,88.57
+149,Cvlze70,"[7, 6, 5, 3, 5, 4, 4, 5, 6, 3, 3, 4, 5, 4, 3]",44.17,Creating Content and Visuals,45.28,28.23
+150,Enzye18,"[3, 3, 3, 4, 1]",32.54,Programming,63.08,10.38
+151,Bapbv66,"[7, 10, 9, 10]",86.68,Working with Spreadsheets and Data,24.54,82.97
+152,Engij49,"[2, 4, 7, 4, 5, 3, 3]",50.06,Task Assignment and Scheduling,44.89,24.59
+153,Xiekv24,"[10, 10, 10, 8, 9, 10, 10, 7, 10, 10, 8, 8, 7, 10]",92.93,Creating Content and Visuals,1.55,91.68
+154,Cybyh22,"[8, 9, 7, 6]",69.44,Reviewing and Providing Feedback,35.43,55.25
+155,Gmtyx18,"[3, 2, 1, 5, 6, 2]",34.94,Testing,50.86,11.46
+156,Lcmkz19,"[3, 3, 3, 4, 3, 3, 5, 4]",41.43,Programming,59.19,23.17
+157,Mzfel30,"[6, 9, 8, 8, 8, 7, 9, 6, 7, 7, 6, 8]",69.31,Programming,30.72,62.87
+158,Ymeql13,"[9, 8, 9, 9, 10, 8, 7, 8, 5, 8, 9, 8, 8, 6, 7, 9, 8, 8, 7]",76.82,Translation,21.33,71.26
+159,Tnhuh71,"[5, 4, 7, 5, 6, 3, 7, 6, 4, 6]",58.83,Documentation,46.17,35.5
+160,Wlfaf74,"[10, 7, 10, 10, 7, 10, 10, 8, 10, 10, 8, 9, 9, 8, 9, 10]",94.74,Working with Spreadsheets and Data,15.89,100
+161,Zhlyx95,"[6, 8, 6, 10, 9, 9, 6, 8, 10, 7, 9, 8, 10, 10, 10, 10, 10, 9, 8, 8]",89.86,Testing,12.28,83.46
+162,Hpolo28,"[9, 8, 6, 7, 7, 5, 7, 7, 4, 5]",62.77,Working with Spreadsheets and Data,27.2,60.38
+163,Dhvve21,"[9, 8, 8, 9, 8, 9, 9, 9, 10, 10, 9, 10, 8, 10, 10, 9, 10, 8]",88.45,Creating Content and Visuals,5.2,95.2
+164,Wjzmi20,"[4, 4, 6, 4, 3, 6, 6, 7]",53.12,Programming,47.87,37.01
+165,Facsv36,"[8, 9, 7]",75.78,Reviewing and Providing Feedback,31.99,62.97
+166,Ohslr33,"[9, 9, 10, 7]",85.11,Finalizing and Submitting Work,12.16,77.99
+167,Xcvnn47,"[10, 8, 10, 10, 10, 9, 10, 7]",89.98,Sending Emails and Communication,8.57,97.71
+168,Xflta66,"[7, 8, 8, 8, 8, 9, 10, 7, 9, 8, 8, 9, 10, 7, 6, 8, 8, 10, 8]",84.61,Translation,13.93,77.72
+169,Qjnjg18,"[9, 5, 5]",74.46,Conducting Research,21.19,60.01
+170,Fpkif43,"[9, 9, 6, 9, 8, 5, 9, 9, 8, 7, 6, 7, 7, 8, 8]",73.93,Creating Content and Visuals,13.12,75.19
+171,Zfusy69,"[9, 8, 7, 8, 9, 8, 10, 10, 7, 10, 10, 9, 10, 9, 10, 10, 9, 10, 8]",95.61,Task Assignment and Scheduling,3.34,98.29
+172,Aijdd92,"[2, 4, 4, 4, 4, 3, 4, 3, 3, 1, 4, 2, 2, 4, 0, 3]",40.29,Creating Content and Visuals,55.78,10.86
+173,Vuriv68,"[7, 7, 5, 8, 6, 7, 4, 8, 8, 6, 8, 5, 8, 5, 7, 7, 7]",73.38,Sending Emails and Communication,40.42,61.96
+174,Regek94,"[6, 6, 5, 6, 7, 8, 8, 9, 6, 9, 8, 6, 6, 4, 9]",76.94,Documentation,17.91,71.43
+175,Rhrhc21,"[8, 2, 5, 5, 5, 5, 5, 3, 5, 3, 4, 3, 5, 5, 5, 7, 6, 5, 5]",56.58,Task Assignment and Scheduling,41.81,36.4
+176,Hjqec99,"[10, 7, 9, 8, 8, 7]",87.93,Reviewing and Providing Feedback,12.83,79.46
+177,Bjoil74,"[6, 8, 10, 9, 10, 9, 7, 10, 7, 7, 10, 9, 8, 8, 8, 8, 8]",83.69,Conducting Research,18.65,80.37
+178,Fdmmp10,"[8, 9, 9, 9, 10, 9, 5, 7, 7, 10, 9, 10, 9, 8, 10]",89.46,Programming,10.95,87.62
+179,Zcoho91,"[6, 7, 6, 4, 5, 7, 5, 4, 3, 2, 7, 6]",55.98,Conducting Research,40.95,33.85
+180,Vphxd34,"[6, 4, 7, 5]",56.77,Documentation,39.59,43.62
+181,Wqoxq62,"[6, 7, 5, 1, 4, 4, 3, 3, 1, 4, 2, 0, 4, 4, 3]",34.19,Testing,54.31,10.11
+182,Fduqn81,"[6, 8, 8, 8, 7, 9, 8, 6, 6, 7, 7]",60.22,Testing,32.87,51.26
+183,Szmhz54,"[2, 7, 4, 5, 2, 4]",47.36,Programming,54.18,22.27
+184,Bgkcp30,"[8, 10, 8, 7, 8]",86.34,Testing,15.41,89.66
+185,Xioeq60,"[6, 5, 7, 6, 6, 7, 4, 4, 7, 8]",60.41,Testing,32.76,49.82
+186,Lmjho67,"[7, 7, 9, 7, 7, 7, 7, 9, 6, 7, 10, 7]",73.55,Translation,21.56,60.2
+187,Ljqkv51,"[6, 5, 8, 4, 5, 7, 8, 8, 7, 7, 8, 7, 7, 7, 9, 6]",66.59,Documentation,28.14,57.54
+188,Wcqjg73,"[10, 10, 8, 7, 9]",88.66,Programming,9.54,91.94
+189,Pinir26,"[2, 4, 5, 7, 7, 3, 5, 7, 6, 6, 4, 4]",57.85,Finalizing and Submitting Work,39.36,40.11
+190,Dldfx76,"[5, 4, 5, 6]",47.5,Documentation,53.06,25.56
+191,Rxnug16,"[5, 3, 4, 5, 5, 3, 7]",41.67,Documentation,52.93,25.51
+192,Nuceu74,"[5, 7, 8, 8, 8, 6, 9, 8, 8, 6, 9, 8, 7]",75.28,Translation,21.07,71.51
+193,Jdagi95,"[8, 7, 7, 5, 10, 6, 7, 9, 7, 7]",71.55,Documentation,28.66,61.97
+194,Ypxgf67,"[10, 9, 5, 9, 10, 7, 10, 8]",90.71,Documentation,11.24,100
+195,Gmmpg31,"[5, 4, 4, 8, 2, 3, 4]",54.62,Task Assignment and Scheduling,50.21,35.59
+196,Mkrtv69,"[3, 2, 3, 5, 2, 3, 3, 5, 2, 5, 3]",33.42,Programming,57.7,4.33
+197,Qqwcm69,"[6, 7, 7, 7, 7, 8, 5, 6, 6, 9, 7, 6, 8, 8, 9, 7, 7, 4, 3, 8]",68.56,Reviewing and Providing Feedback,25.91,53.58
+198,Trhgf40,"[4, 5, 6, 3, 4, 6]",52.58,Sending Emails and Communication,38.8,35.21
+199,Uxcsg57,"[2, 2, 3, 4, 4, 7, 4, 3, 2]",41.1,Working with Spreadsheets and Data,51.83,17.86
+200,Rvfne14,"[5, 2, 3, 0, 6, 4, 3, 1, 6, 2, 3]",36.94,Programming,47.41,9.7
+201,Jxomx54,"[4, 5, 5, 7, 5, 8, 3, 6, 3, 6, 7]",59.48,Task Assignment and Scheduling,45.06,37.05
+202,Dfxus49,"[1, 5, 3, 3, 3, 4, 0, 2, 2, 2, 2, 6, 5, 6, 3, 3, 5, 1, 4]",41.59,Documentation,47.13,11.0
+203,Linpo52,"[3, 3, 3, 1, 1, 3, 3, 4, 1, 1, 3, 2, 2, 4, 4, 4, 5, 2, 3]",34.71,Testing,58.55,0.16
+204,Fgdqv17,"[3, 4, 4, 7, 5, 4, 5]",51.68,Working with Spreadsheets and Data,38.2,35.99
+205,Bfvfv62,"[7, 9, 7, 9, 9, 10, 7, 7, 8, 10, 9]",86.63,Reviewing and Providing Feedback,20.84,85.31
+206,Osvni54,"[7, 9, 8, 3, 7, 5, 8, 9, 5, 8, 8, 7, 7, 7, 10, 7, 6, 7, 5]",71.03,Programming,27.46,60.59
+207,Tejhs44,"[2, 2, 3, 3, 2, 6, 7, 1, 3, 0, 3, 2, 1, 3, 2]",31.27,Documentation,59.92,0
+208,Sjatm65,"[3, 6, 6, 5, 6]",47.8,Working with Spreadsheets and Data,37.3,37.16
+209,Npsog70,"[6, 8, 8, 8, 6, 10, 10, 10]",87.52,Sending Emails and Communication,8.98,86.52
+210,Tqald81,"[4, 2, 3, 4, 4, 0, 6, 2, 2, 3, 4, 1, 4, 3, 2, 1, 1, 3, 3, 4]",34.21,Conducting Research,45.56,7.04
+211,Szghq22,"[4, 5, 2, 2, 3, 2, 4, 0, 4, 2, 4]",31.81,Translation,62.17,6.25
+212,Oartu59,"[4, 2, 1, 3]",35.08,Working with Spreadsheets and Data,53.76,16.49
+213,Twmmo66,"[7, 8, 6, 6, 4, 6, 8, 6, 8, 5, 9, 8, 7, 10, 8, 10, 8, 7, 8, 7]",75.67,Finalizing and Submitting Work,18.1,64.89
+214,Mxxlv65,"[7, 7, 5, 8, 5, 4, 8]",73.96,Testing,32.26,64.52
+215,Qziil69,"[8, 10, 10, 8, 8, 9, 7, 10, 9, 6, 9, 7, 5, 9]",81.87,Reviewing and Providing Feedback,16.99,80.52
+216,Eldkv76,"[10, 10, 10, 8, 9, 10, 9, 10, 9, 9, 10, 9, 10, 8, 9, 7, 4, 9]",87.57,Testing,16.28,89.73
+217,Ofier14,"[7, 6, 7]",64.21,Task Assignment and Scheduling,35.75,51.26
+218,Ktzmq16,"[7, 8, 7, 6, 6, 9, 6]",75.29,Documentation,17.76,71.43
+219,Vkpnv27,"[10, 8, 10, 8, 8]",83.49,Reviewing and Providing Feedback,28.78,76.65
+220,Dqmbt46,"[4, 2, 5, 3, 4]",44.8,Creating Content and Visuals,48.19,20.2
+221,Rofav36,"[7, 1, 2, 5, 4, 6, 7, 5, 4, 2, 5, 4, 2, 4]",47.86,Sending Emails and Communication,47.62,23.52
+222,Fbzlt63,"[6, 8, 5, 6, 8, 5, 6, 6, 7, 3, 7, 6, 5, 3]",55.27,Task Assignment and Scheduling,35.34,45.94
+223,Oxquc96,"[3, 4, 3, 4, 3, 2, 8, 3, 3, 2, 1]",39.77,Task Assignment and Scheduling,58.9,5.13
+224,Jtzta87,"[10, 10, 8, 9, 8]",83.21,Sending Emails and Communication,9.03,81.08
+225,Lcvmc76,"[4, 3, 5, 2, 1, 7, 5, 5, 3, 2, 1, 2, 4, 6, 3]",37.36,Creating Content and Visuals,45.58,14.15
+226,Mpbnz42,"[4, 7, 4, 8, 4, 5, 6, 8, 4, 5, 7, 8, 3, 8, 4, 6]",54.43,Conducting Research,37.49,42.49
+227,Ifxux18,"[9, 8, 8, 8, 7, 6, 9, 7, 7, 6, 6, 4, 9, 7, 8, 9]",72.79,Programming,26.78,64.72
+228,Yxwgi13,"[6, 9, 7, 7, 8, 9, 7, 6, 7]",70.31,Sending Emails and Communication,25.26,67.19
+229,Ieaun64,"[6, 5, 4, 5, 6, 4, 5, 5, 5, 8]",68.89,Testing,39.64,54.48
+230,Tqqgz53,"[8, 9, 5, 7, 8, 7, 4, 8, 10, 9, 8, 7, 8, 6, 7, 7, 7, 9]",76.15,Creating Content and Visuals,21.53,67.56
+231,Wzvhd71,"[3, 2, 3, 5, 5, 5, 4]",37.64,Task Assignment and Scheduling,60.53,22.07
+232,Mrhfp88,"[3, 3, 2]",42.19,Conducting Research,50.08,13.29
+233,Xmuem62,"[3, 4, 3, 4, 4, 3, 3, 3, 3, 4, 4, 3, 2]",43.05,Reviewing and Providing Feedback,47.82,16.22
+234,Jueeq31,"[6, 4, 3]",38.57,Testing,46.72,11.37
+235,Mbmva74,"[6, 10, 10, 10, 9, 7, 8, 9, 8, 10, 7, 10, 7, 9, 8, 8]",92.19,Programming,1.67,93.22
+236,Izong38,"[7, 7, 9]",60.46,Finalizing and Submitting Work,35.16,57.48
+237,Ajeoq62,"[3, 4, 4, 6, 7, 5, 6, 5, 5, 5, 5, 4, 7, 5]",50.58,Reviewing and Providing Feedback,38.43,24.33
+238,Wbypb93,"[6, 6, 8, 6, 10]",65.47,Conducting Research,34.32,51.23
+239,Sdkzv19,"[8, 10, 9]",82.17,Documentation,25.62,78.45
+240,Waorw87,"[4, 4, 1, 1, 5, 2, 2, 3, 1, 3]",35.06,Translation,50.42,2.69
+241,Lbioz25,"[6, 6, 8, 4, 5, 7, 6, 4, 7, 4, 3, 7, 5, 4, 3, 5]",61.79,Conducting Research,38.44,42.34
+242,Wprvv83,"[5, 6, 4, 5, 2, 6, 7, 3, 4, 2, 4, 6, 0, 4, 7]",55.44,Programming,46.65,32.37
+243,Tkgci40,"[8, 5, 6, 6, 5]",57.35,Working with Spreadsheets and Data,40.4,44.73
+244,Uksas71,"[6, 5, 3, 7, 6, 5, 9, 6, 6, 5, 3, 7, 6, 7]",65.23,Translation,29.29,54.14
+245,Qugit82,"[9, 8, 10, 9, 9, 6, 6, 7, 5, 7, 8, 7, 8, 8, 9, 9]",79.56,Reviewing and Providing Feedback,18.87,74.62
+246,Zyvdd60,"[8, 7, 9, 5]",84.23,Reviewing and Providing Feedback,13.06,82.89
+247,Gmvbf55,"[1, 3, 5, 4, 6, 4, 3, 3, 2, 3, 5, 2, 1]",35.74,Finalizing and Submitting Work,51.6,14.83
+248,Bzyqw49,"[8, 7, 5, 7, 6, 5, 7]",74.45,Testing,26.71,62.44
+249,Ysajr36,"[7, 7, 8, 7, 4, 8, 7, 7, 7, 9, 6, 7, 7, 7, 6, 4]",72.07,Programming,26.76,66.23
+250,Xtdej83,"[6, 7, 4, 6]",62.63,Conducting Research,28.8,49.36
+251,Doasy74,"[8, 10, 10, 9]",96.78,Testing,9.97,93.42
+252,Fefla64,"[8, 8, 5, 8, 7]",68.49,Reviewing and Providing Feedback,18.36,65.21
+253,Ntbee66,"[1, 2, 5, 3, 3, 0, 4, 2, 2, 2, 5, 3, 1]",36.11,Programming,54.5,6.75
+254,Ntfax41,"[3, 3, 4, 5, 0, 2, 1, 3, 4, 5, 2, 4, 3, 4, 1, 3, 3, 3]",38.06,Finalizing and Submitting Work,55.34,8.96
+255,Pobow73,"[6, 3, 6, 6, 5, 4, 5, 7, 7, 9, 7, 4, 4, 7, 8, 5, 7, 7]",55.96,Task Assignment and Scheduling,39.53,36.97
+256,Ikuge85,"[4, 3, 3, 3, 5, 4, 6, 4, 3, 0, 2, 2, 4, 4, 2, 0, 2, 3, 3]",35.35,Finalizing and Submitting Work,53.03,5.47
+257,Rcsol73,"[2, 4, 5, 3, 2, 2, 3, 1, 4, 3, 6, 2, 4, 1, 3, 4, 6]",38.94,Programming,47.62,11.61
+258,Ufciz24,"[4, 2, 5, 2, 3, 4, 4, 5]",32.79,Translation,43.59,11.99
+259,Bajrs87,"[4, 4, 6, 2, 4, 0, 4, 0]",39.57,Finalizing and Submitting Work,45.67,17.83
+260,Djxsu12,"[3, 1, 6, 1, 1, 3, 1, 5, 3]",36.22,Documentation,50.84,4.41
+261,Nswjg56,"[0, 5, 3, 4]",50.14,Programming,47.38,27.2
+262,Abtwt92,"[9, 8, 6, 7, 7, 8, 8, 7, 8, 8, 7, 10, 8, 8]",85.27,Creating Content and Visuals,12.79,83.42
+263,Nqkyg26,"[9, 8, 9, 9, 7, 8]",87.55,Translation,13.69,80.84
+264,Yrvqh12,"[8, 7, 9, 10]",95.94,Reviewing and Providing Feedback,5.38,99.0
+265,Budlu40,"[5, 6, 7, 5, 8, 5, 5, 6, 6, 6]",69.98,Creating Content and Visuals,19.72,64.06
+266,Mnhjx27,"[6, 7, 4, 9, 5, 6, 4, 8, 6, 8, 6, 7, 7, 9]",73.54,Creating Content and Visuals,30.22,69.04
+267,Uvyaa39,"[6, 7, 7, 9, 4, 5, 5, 4, 6, 6, 5, 6, 4]",61.91,Programming,28.7,47.17
+268,Rheyq20,"[9, 4, 8, 5, 8, 6, 7, 8, 6, 8]",72.8,Working with Spreadsheets and Data,28.7,64.78
+269,Gyjxs74,"[5, 7, 6, 8, 6, 6, 5, 5, 7, 7, 9, 6]",74.38,Translation,34.09,61.17
+270,Jzzhm78,"[3, 3, 4, 1, 1, 5, 2, 1, 1, 3, 2, 4, 3, 0, 5, 3, 2]",39.82,Conducting Research,67.22,6.61
+271,Oppzx72,"[1, 4, 6, 7, 6]",50.09,Task Assignment and Scheduling,42.38,31.13
+272,Snmsr28,"[10, 6, 9, 7, 6, 8, 7, 10, 10, 10, 7, 8, 10, 7, 7]",78.83,Translation,17.83,73.81
+273,Jergm58,"[10, 7, 9, 7, 8, 9, 5, 9, 9, 10, 7, 8, 9, 7, 8, 10]",77.64,Working with Spreadsheets and Data,10.36,80.35
+274,Cbnkt79,"[6, 6, 7, 5, 7, 5, 9, 7, 9, 8, 7, 8, 6, 7]",63.88,Sending Emails and Communication,26.51,57.67
+275,Llpfu25,"[9, 7, 10, 9, 8, 9, 10, 9, 10, 8, 10, 10, 7]",98.1,Testing,5.4,97.33
+276,Njiaf54,"[7, 8, 7, 6, 6, 5, 6, 7]",70.97,Task Assignment and Scheduling,18.63,71.38
+277,Rhmdo56,"[4, 4, 6]",34.84,Task Assignment and Scheduling,50.99,7.61
+278,Xmayo63,"[7, 6, 6, 8, 7, 4, 7, 7, 5, 4, 6, 9, 7, 8, 6]",68.13,Task Assignment and Scheduling,31.6,62.17
+279,Ubfrb60,"[6, 8, 7, 5, 5, 8, 7, 7, 7, 5, 6, 7, 5, 7, 4]",65.12,Reviewing and Providing Feedback,28.44,47.85
+280,Azjpf45,"[5, 5, 3, 3, 6, 6, 5, 6, 5, 4]",49.42,Task Assignment and Scheduling,48.87,25.48
+281,Mwkug22,"[7, 9, 8, 7]",75.57,Documentation,26.1,70.54
+282,Vgmww73,"[7, 5, 6, 5, 8, 7, 5, 4, 6, 6, 6, 6, 6, 8, 6, 6, 6]",65.51,Reviewing and Providing Feedback,33.73,50.31
+283,Byepy70,"[6, 9, 6, 7, 7, 7, 10, 6, 4, 7]",71.93,Programming,30.84,54.68
+284,Yfizo31,"[8, 5, 6, 5, 8, 5, 8, 4, 7, 7, 7, 4, 7, 8, 4, 5, 5, 7, 5]",58.47,Conducting Research,40.8,46.19
+285,Qywts73,"[3, 2, 5, 3, 6, 4]",37.77,Working with Spreadsheets and Data,47.54,7.51
+286,Ydusm35,"[9, 9, 9, 7, 8, 6, 9, 9, 8, 9, 8, 9, 8, 10, 6, 8, 9, 9]",76.4,Task Assignment and Scheduling,27.15,68.29
+287,Sssrl33,"[6, 5, 3, 6, 7, 5, 6, 4]",68.29,Documentation,30.45,49.19
+288,Wfevn26,"[7, 10, 7, 6, 9, 9]",91.42,Testing,10.61,88.33
+289,Gmegm41,"[9, 10, 8, 9, 8, 7, 9, 8, 8, 9, 8, 10, 10, 9, 10, 9, 9, 10, 9, 9]",91.63,Testing,5.34,98.61
+290,Uupzp31,"[9, 7, 7, 8, 8, 10, 7, 6, 9, 10, 9, 8]",87.04,Programming,8.82,93.13
+291,Pmyzs66,"[3, 5, 2, 7]",57.44,Conducting Research,37.32,43.08
+292,Ktznh60,"[9, 7, 5, 8, 9, 9, 5, 7, 6, 5]",79.33,Programming,23.88,68.44
+293,Ufqwj16,"[3, 2, 2, 3, 3, 3, 2, 6, 1]",37.45,Programming,49.05,7.14
+294,Kkayv84,"[8, 8, 7]",70.05,Reviewing and Providing Feedback,24.66,63.33
+295,Xrnkf73,"[5, 6, 7, 2, 6, 4, 5]",54.92,Reviewing and Providing Feedback,35.94,31.79
+296,Hvvuq70,"[8, 5, 3]",68.1,Conducting Research,31.57,58.48
+297,Pdztv12,"[9, 5, 3, 7, 6, 6, 5, 6, 6, 5, 3]",60.45,Sending Emails and Communication,39.32,45.77
+298,Lvqnr30,"[4, 5, 4, 5, 2, 6, 0, 2, 4, 6]",41.81,Sending Emails and Communication,54.66,13.38
+299,Tctyl49,"[6, 8, 8, 8, 5, 7, 8, 9, 5, 8, 9, 8, 4, 10, 8, 8, 8, 9]",78.19,Reviewing and Providing Feedback,16.72,71.12
+300,Uzqpo57,"[5, 5, 6]",57.43,Documentation,35.81,45.01
+301,Ghslb56,"[5, 5, 5, 5, 6, 7, 6, 6, 6, 4, 6, 5, 4, 3, 4, 5, 7, 4]",50.84,Translation,45.13,38.89
+302,Wsruc83,"[4, 3, 4, 2, 3, 1, 4, 1, 2]",38.05,Task Assignment and Scheduling,58.77,6.43
+303,Nszou97,"[6, 4, 2, 4, 4, 9, 4, 6, 4]",61.91,Creating Content and Visuals,41.11,40.64
+304,Lzdyv85,"[5, 4, 5, 6, 5, 5, 4, 4, 3, 2, 3, 6, 7, 5, 5, 3, 7, 4]",51.85,Task Assignment and Scheduling,43.1,31.3
+305,Umqco45,"[8, 6, 5, 7]",73.93,Task Assignment and Scheduling,23.88,68.72
+306,Foodj52,"[8, 8, 9, 6, 7, 10, 10, 9, 9, 10, 8, 10, 8, 10, 10, 9, 10, 9]",91.8,Sending Emails and Communication,4.45,97.51
+307,Cdvzw79,"[9, 5, 7, 9, 10]",81.17,Testing,17.94,81.24
+308,Sauzh39,"[6, 8, 6, 9, 6, 7, 8, 9]",66.46,Reviewing and Providing Feedback,24.53,59.06
+309,Zkufg42,"[2, 5, 8, 5, 7, 4, 5, 3, 5, 5, 7, 5, 3, 4, 7, 7]",56.18,Conducting Research,36.86,37.73
+310,Ddtvr64,"[8, 5, 8, 6, 9, 7, 7, 9, 8, 7, 7, 8, 8, 10, 6]",71.9,Documentation,29.54,69.98
+311,Ltzzg20,"[5, 10, 10, 8, 6, 6, 9, 8, 8, 6, 9, 7, 7, 9, 7, 10, 6, 6, 8, 10]",86.21,Conducting Research,6.03,84.04
+312,Pcrvw80,"[6, 3, 6, 3, 3, 6, 5, 5, 8, 7, 6, 6]",61.73,Task Assignment and Scheduling,37.95,40.83
+313,Wdztf17,"[7, 4, 8, 6, 7, 4, 6, 4]",65.16,Translation,38.86,49.15
+314,Slsam19,"[9, 7, 6]",87.65,Task Assignment and Scheduling,16.04,83.71
+315,Caiad96,"[5, 2, 6, 4, 0, 3, 3, 5]",41.38,Testing,55.82,21.16
+316,Pyuvd53,"[8, 10, 8, 8]",87.49,Working with Spreadsheets and Data,3.89,87.52
+317,Btznr67,"[6, 5, 7, 3, 6, 7, 5, 4, 7, 7, 6, 8]",60.76,Conducting Research,28.07,49.89
+318,Ntqyk85,"[6, 7, 6]",60.32,Conducting Research,44.94,38.65
+319,Oloxo43,"[6, 10, 9, 7, 9, 8, 8, 7, 9, 6, 10, 8, 7, 5, 6, 8, 8, 9, 9, 6]",75.72,Creating Content and Visuals,23.4,75.9
+320,Pwwqr29,"[9, 10, 10, 6, 10, 10, 10, 9, 9, 9, 7, 7, 6, 8, 7, 10, 10, 10]",88.98,Task Assignment and Scheduling,22.76,85.86
+321,Rmetb32,"[8, 9, 9]",83.51,Reviewing and Providing Feedback,17.83,89.99
+322,Zpmoo23,"[7, 6, 7, 6, 8, 6, 6, 6, 8, 8, 6, 4, 3, 8, 9, 5, 5, 7]",65.26,Sending Emails and Communication,36.71,53.01
+323,Rbgle24,"[4, 5, 4, 1, 2, 5]",41.95,Task Assignment and Scheduling,41.99,15.05
+324,Xirro75,"[10, 8, 9, 10, 8, 8, 10, 10, 9, 10]",93.51,Programming,7.68,95.65
+325,Ifwwj98,"[4, 6, 6, 3, 3, 3, 4, 5, 3, 6, 4, 3, 6, 0, 4, 6, 4, 5, 4, 4]",51.07,Translation,45.33,25.62
+326,Syude87,"[6, 7, 8, 7, 9, 9, 5, 4, 7, 7, 7, 8, 3, 7, 6, 5, 5, 7, 8]",77.77,Sending Emails and Communication,27.03,68.46
+327,Qazgy97,"[9, 9, 6, 10, 7]",79.03,Sending Emails and Communication,14.67,78.25
+328,Zobnh27,"[6, 5, 4, 8, 6, 6, 9]",70.74,Finalizing and Submitting Work,30.05,56.61
+329,Uscjn40,"[10, 7, 9]",83.94,Testing,15.74,85.03
+330,Wrbfv11,"[3, 3, 2, 6, 3, 6, 4]",37.09,Finalizing and Submitting Work,48.31,7.14
+331,Ftffw34,"[9, 2, 5, 6, 8, 4, 5, 6, 9, 8, 8, 10, 8, 8, 9, 7, 6, 6]",76.54,Finalizing and Submitting Work,13.22,70.52
+332,Vhqwi60,"[8, 8, 9, 8, 5, 10, 5, 7, 9, 6, 7]",68.33,Working with Spreadsheets and Data,26.86,64.2
+333,Ipuwp48,"[7, 9, 7, 9, 10, 6, 7, 10, 9, 9, 9, 9]",78.71,Reviewing and Providing Feedback,15.05,82.11
+334,Xltju39,"[8, 5, 6]",64.51,Translation,30.46,48.54
+335,Augqv93,"[8, 10, 10, 8, 9, 10, 10, 10, 9, 8, 6, 9, 8, 9]",83.13,Reviewing and Providing Feedback,16.03,86.64
+336,Fnfjp23,"[8, 9, 8, 6, 7, 4, 6, 8, 7, 7, 7, 4, 6, 5, 6, 6, 6]",71.62,Translation,27.02,59.13
+337,Zxbju37,"[8, 8, 10, 10, 6, 8, 10, 9, 10, 10, 10, 6, 9, 10, 10, 10, 9]",96.14,Reviewing and Providing Feedback,16.94,97.78
+338,Qvnec72,"[8, 5, 4, 5, 7, 6, 6, 7, 4, 6, 3, 5, 4, 6, 6, 8]",59.54,Testing,31.04,46.12
+339,Btlud73,"[5, 3, 1, 0, 3, 1, 4, 5, 2]",33.63,Testing,56.31,4.84
+340,Ifumb35,"[9, 4, 5, 4, 6, 4, 5, 5, 2, 7, 3]",44.41,Creating Content and Visuals,40.42,24.58
+341,Atozz92,"[7, 6, 5, 4, 4, 7, 5, 4, 4, 4, 7, 6, 5]",56.7,Translation,40.73,47.06
+342,Qurxb42,"[3, 6, 5, 3, 8, 6, 9, 5, 5, 8]",73.52,Reviewing and Providing Feedback,25.01,62.17
+343,Jnkkp38,"[4, 3, 2, 7]",32.62,Documentation,57.91,9.04
+344,Vgewb84,"[8, 9, 8, 6, 7, 9, 8, 6, 8, 9, 7, 10, 9, 7, 7, 7, 9, 7, 7]",78.65,Finalizing and Submitting Work,22.75,75.35
+345,Bvwhb62,"[7, 8, 6, 10, 9, 6, 6, 9, 7, 7, 10, 7, 8, 10, 7]",80.1,Testing,24.56,72.29
+346,Tpkkg61,"[3, 3, 8, 7]",60.55,Sending Emails and Communication,38.8,42.51
+347,Iafuf88,"[5, 9, 3, 7, 8, 4, 5, 5, 5, 4]",52.55,Programming,37.52,40.81
+348,Aizbv73,"[9, 9, 9, 9, 10, 7, 9, 9, 8, 9]",84.49,Testing,3.99,93.06
+349,Vhrnr25,"[8, 7, 7, 10, 10, 8, 10, 7, 9, 10, 10, 10, 9, 8, 9, 9, 9]",83.35,Sending Emails and Communication,11.6,85.51
+350,Aslll50,"[10, 9, 6, 8, 6, 9, 8, 9]",86.39,Translation,5.15,84.52
+351,Plzay74,"[2, 7, 6, 3, 5, 6, 8, 7, 3, 3, 2, 6, 2, 6, 1, 3]",56.89,Sending Emails and Communication,44.25,37.22
+352,Agvvx83,"[7, 7, 10, 7, 9, 7, 9]",81.75,Sending Emails and Communication,15.0,74.95
+353,Qbcgt44,"[4, 5, 4, 2, 4, 4, 4, 4, 2, 2, 3, 4, 1, 4, 2, 7, 3, 5]",47.8,Conducting Research,52.6,22.08
+354,Npcip99,"[5, 1, 3, 3, 1]",50.67,Translation,49.38,27.51
+355,Kmdxn36,"[4, 7, 3]",48.98,Working with Spreadsheets and Data,35.35,20.42
+356,Fhzvg22,"[6, 3, 1, 3, 0, 3]",29.51,Sending Emails and Communication,61.54,1.65
+357,Skinu70,"[6, 7, 7, 7, 9, 8, 7, 8, 9, 7, 10, 5, 7, 10, 6, 7, 7, 7]",80.91,Sending Emails and Communication,14.35,83.86
+358,Skepr29,"[5, 4, 3, 5, 2]",54.06,Testing,40.44,31.41
+359,Zdtdx96,"[6, 4, 7, 6, 10, 7, 8, 6, 5, 6, 5, 4, 6, 4, 5, 5, 5, 5, 4]",59.55,Conducting Research,42.45,52.1
+360,Jyjaq33,"[10, 9, 8, 9, 10, 9, 10, 10, 10, 9, 7, 8, 7, 10, 9, 8, 10]",91.43,Reviewing and Providing Feedback,5.53,93.03
+361,Bhpdk14,"[8, 8, 10, 10, 7, 9, 9, 9, 10, 6, 10, 10, 7, 8, 9, 9, 10, 10, 8]",88.36,Documentation,16.37,94.36
+362,Yjxjq58,"[4, 1, 4, 6, 4, 7, 5, 6, 4, 3, 7, 7, 3, 5, 5, 7, 2, 5, 3]",41.67,Finalizing and Submitting Work,47.17,26.71
+363,Mggtr78,"[9, 7, 10, 8, 7]",85.19,Programming,1.0,85.79
+364,Tffca72,"[8, 10, 4, 5, 5, 8, 8, 6, 5, 6]",69.03,Translation,23.93,52.37
+365,Mkvqy13,"[10, 10, 8, 7, 10, 10]",88.27,Task Assignment and Scheduling,18.38,94.61
+366,Jrpmc11,"[6, 3, 2, 5, 6]",50.19,Creating Content and Visuals,46.26,31.32
+367,Rcdsn24,"[8, 4, 5, 5, 6, 6, 3, 7, 4, 5, 4, 6, 5, 5, 6, 4, 5, 5, 4]",51.82,Task Assignment and Scheduling,39.64,34.44
+368,Vbdcu53,"[3, 4, 5, 2, 2, 4, 3, 1, 2, 4, 2, 2, 3, 5, 5, 2, 1, 4]",36.67,Programming,56.04,5.34
+369,Miuhu24,"[8, 7, 7, 7, 6, 5, 5, 5, 7, 6, 5, 6, 7]",56.65,Reviewing and Providing Feedback,37.72,43.31
+370,Brkui83,"[7, 7, 5, 7, 6, 4, 7, 6]",55.69,Finalizing and Submitting Work,32.72,46.43
+371,Bnoha54,"[1, 2, 5, 2, 2, 2, 0]",29.14,Documentation,40.01,8.28
+372,Rtbae30,"[5, 2, 5, 3]",44.81,Testing,51.48,15.87
+373,Ekura65,"[5, 5, 9, 7, 6, 7, 6, 7]",67.4,Sending Emails and Communication,28.43,57.12
+374,Giqkq97,"[3, 7, 2, 5, 6, 6, 4, 5, 4, 5, 4, 3, 2, 2, 4, 4]",41.39,Working with Spreadsheets and Data,45.73,16.84
+375,Vmsji64,"[8, 7, 10, 7, 9, 8, 9, 9, 9, 9, 7, 7, 10, 8]",85.88,Translation,20.08,86.21
+376,Pgqts46,"[7, 10, 10, 10, 7, 10, 9, 9]",96.57,Testing,14.68,92.92
+377,Rijpg75,"[3, 5, 7, 6, 7, 7, 5, 6, 3, 5, 4, 5, 4, 5, 6]",52.15,Finalizing and Submitting Work,38.88,31.07
+378,Zzylv59,"[7, 9, 8, 9, 6, 5, 7, 7, 10, 6]",75.36,Testing,22.96,66.25
+379,Cvsyp30,"[8, 4, 3, 4, 8, 8, 7, 5, 5]",59.2,Conducting Research,32.25,52.84
+380,Hwmyg17,"[2, 5, 2, 1, 3, 2, 2, 3]",31.57,Translation,56.75,8.18
+381,Fhqhq12,"[6, 6, 6, 5, 5, 5]",62.77,Finalizing and Submitting Work,24.63,56.4
+382,Ikevu19,"[3, 9, 8, 10, 9, 7, 9, 8, 8, 10, 7]",74.34,Programming,20.91,72.78
+383,Atohb72,"[5, 5, 1, 1]",38.82,Working with Spreadsheets and Data,53.15,12.15
+384,Fnpsh43,"[3, 7, 6, 5, 8, 7, 8, 6]",67.79,Creating Content and Visuals,26.9,48.03
+385,Nabhs89,"[7, 8, 10, 9, 8, 10, 9, 10, 9, 10, 9]",97.33,Translation,6.29,95.51
+386,Oongz82,"[6, 6, 6, 7, 6]",56.88,Programming,32.69,46.89
+387,Vpeyx70,"[5, 8, 6, 10, 8, 7, 10, 8, 7, 10, 6, 6, 5, 9, 10, 7, 5, 10, 8, 6]",87.16,Working with Spreadsheets and Data,3.51,87.2
+388,Ghefp88,"[3, 3, 4, 5, 4, 2, 1, 4, 3, 4, 5, 3, 1]",46.56,Programming,52.93,16.91
+389,Tugei89,"[4, 2, 3, 2, 4, 0, 2, 2, 5, 1, 3, 3, 1, 4, 2, 3, 2, 3, 4]",36.51,Documentation,57.16,7.01
+390,Bjskd80,"[9, 8, 10, 10, 8, 9, 10, 9, 9, 10]",83.55,Translation,5.2,85.05
+391,Hntbd50,"[4, 5, 3, 4, 3, 1, 4, 4, 3, 2, 2, 2, 3, 3, 2]",35.24,Programming,54.93,9.02
+392,Ctxwv58,"[7, 8, 10, 6, 7, 6]",78.65,Sending Emails and Communication,19.99,72.78
+393,Criwb28,"[7, 6, 4, 5, 3]",51.64,Testing,42.49,31.48
+394,Mipyw84,"[8, 6, 5, 6, 6, 2]",50.03,Working with Spreadsheets and Data,33.89,32.97
+395,Dijaw52,"[6, 7, 7, 5, 6, 6, 5, 9, 5, 6, 6, 7, 9, 7, 6, 5, 6]",73.0,Sending Emails and Communication,31.3,60.42
+396,Exweq22,"[5, 7, 6, 5, 4, 8, 6, 10, 8, 5, 7, 6, 6, 6, 8, 7, 6, 7, 4, 5]",68.47,Conducting Research,33.76,56.46
+397,Xgvpq21,"[5, 1, 1, 4, 0, 2, 4, 3, 3, 3, 5, 1, 0, 2, 2, 3]",32.81,Sending Emails and Communication,56.19,7.76
+398,Mpfrp15,"[7, 8, 9, 8, 8, 6, 7, 7, 5, 7, 7, 10, 9, 9, 6, 5, 6, 7, 10, 7]",77.72,Reviewing and Providing Feedback,28.45,67.97
+399,Whpkx70,"[7, 8, 7, 8, 9, 6, 8, 8, 7, 10, 10, 9]",72.97,Working with Spreadsheets and Data,23.06,68.94
+400,Tuycc43,"[6, 9, 8, 8, 5, 7, 5]",71.85,Reviewing and Providing Feedback,15.74,66.55
+401,Ikami44,"[7, 4, 9, 7, 6, 5, 7, 8, 6, 5, 8, 8, 5, 5, 7, 5]",60.78,Conducting Research,32.49,47.87
+402,Bpztl39,"[6, 5, 5, 7, 3, 4, 6, 9, 6, 6, 8, 8, 6, 6, 7, 6, 5, 6, 6, 3]",60.71,Programming,38.02,54.69
+403,Xmuxz63,"[2, 5, 7, 6, 6, 5, 3, 5, 5, 3, 4, 5, 6, 5, 7, 3, 4, 7, 6]",49.8,Working with Spreadsheets and Data,42.85,33.87
+404,Pxorl22,"[7, 7, 8, 10, 6, 6]",73.85,Translation,18.38,69.66
+405,Qxsko39,"[7, 5, 6, 7, 6, 4, 8, 5, 7, 5, 7, 9, 7]",64.03,Programming,37.7,45.01
+406,Lefec79,"[4, 2, 5, 4, 2, 5, 4, 5, 3, 2, 4, 1, 2, 4, 3, 2, 2, 4]",39.04,Working with Spreadsheets and Data,58.97,7.53
+407,Bftzw33,"[7, 5, 4, 6, 6, 6, 9]",64.22,Documentation,31.5,52.46
+408,Nqaxs17,"[5, 4, 5, 3, 3, 5, 6, 5, 4, 4, 5, 4, 3]",52.99,Working with Spreadsheets and Data,45.53,33.26
+409,Maqrr68,"[7, 4, 5, 8, 7, 6, 7, 7, 7, 6, 5, 6, 5, 7, 9, 9, 8]",62.61,Creating Content and Visuals,36.08,57.53
+410,Ekgqs43,"[4, 2, 6, 5, 4]",40.61,Documentation,59.6,15.45
+411,Nazmk59,"[5, 6, 6, 9, 6, 6, 6, 8, 7, 7, 9, 7]",72.02,Programming,17.87,62.46
+412,Rwhuc48,"[8, 8, 9, 10, 10, 10, 9, 10, 8, 7, 10, 10, 8, 9]",94.88,Finalizing and Submitting Work,16.97,92.09
+413,Ckrjq98,"[1, 3, 4, 3, 6, 4, 0, 4, 4, 3, 3, 1, 5, 3, 2, 3]",45.62,Finalizing and Submitting Work,50.84,16.88
+414,Eruys18,"[7, 6, 6, 4, 7, 4, 10, 2, 7, 6, 5, 5, 6, 6, 4]",66.85,Finalizing and Submitting Work,22.58,56.36
+415,Wtwue16,"[7, 7, 6, 9, 6, 6, 6]",70.5,Working with Spreadsheets and Data,28.53,56.19
+416,Inpnq22,"[4, 2, 6, 6, 5]",53.14,Reviewing and Providing Feedback,38.83,37.87
+417,Nfelt21,"[5, 5, 6]",59.69,Task Assignment and Scheduling,40.34,49.68
+418,Kmaqd99,"[2, 5, 5, 1, 3, 2, 6]",38.93,Translation,58.58,7.04
+419,Cbfdt75,"[10, 8, 5]",78.74,Sending Emails and Communication,18.94,75.21
+420,Bibia44,"[6, 10, 9, 8, 8, 8, 6, 10, 8, 10]",95.77,Documentation,10.82,97.67
+421,Ucdan50,"[2, 5, 2, 7, 6, 4, 4, 4, 4, 4, 3, 1, 2, 4, 2, 3, 3]",35.99,Finalizing and Submitting Work,51.94,16.89
+422,Pusmz11,"[6, 9, 8, 9, 8, 8, 9, 10, 9]",86.92,Reviewing and Providing Feedback,23.33,82.56
+423,Nqlgz63,"[0, 1, 1, 4, 6, 3, 4, 0, 3, 3, 4, 7, 2, 3, 3, 2, 3, 3, 3, 1]",28.71,Conducting Research,61.09,4.69
+424,Fhudh61,"[5, 6, 4, 2, 5, 5, 3, 3, 6, 8, 2, 4, 2, 7]",49.07,Finalizing and Submitting Work,49.1,30.69
+425,Olhoh50,"[9, 6, 6, 6, 6, 5, 10, 6, 5]",68.7,Testing,24.49,61.73
+426,Ssagp44,"[0, 2, 4, 5]",37.23,Reviewing and Providing Feedback,52.04,13.13
+427,Ajofq91,"[5, 2, 6, 6, 4]",47.64,Testing,48.37,24.92
+428,Aoyan16,"[8, 10, 7, 9, 9, 10, 7, 10, 10, 9, 8, 10, 7]",81.15,Documentation,13.4,81.2
+429,Mmgfc29,"[7, 5, 3, 8, 3, 5, 5, 5, 5, 4, 5, 7, 3, 5, 3]",46.2,Reviewing and Providing Feedback,44.3,31.63
+430,Jbarp21,"[5, 3, 7, 5, 6, 6, 6, 6, 10, 4, 5]",61.5,Programming,39.58,48.03
+431,Ajnqv56,"[3, 4, 1, 2, 0, 1, 1, 2, 4, 3, 3, 3, 4, 6, 1]",28.2,Programming,60.97,4.68
+432,Vlppx12,"[3, 8, 7, 7, 10]",68.55,Task Assignment and Scheduling,24.13,58.4
+433,Efzmb23,"[3, 4, 4, 7, 3, 6, 6]",42.12,Working with Spreadsheets and Data,52.69,22.55
+434,Mgyhk63,"[9, 6, 5, 7, 7, 6, 8, 9, 10, 5, 8]",74.38,Finalizing and Submitting Work,21.54,66.76
+435,Yxeuh58,"[7, 6, 6, 6, 7, 5, 4, 7, 6, 5, 5, 7, 7, 9, 8, 7, 6, 7, 6, 8]",67.65,Programming,26.59,56.02
+436,Yrckz52,"[10, 8, 6, 10, 9]",82.28,Task Assignment and Scheduling,8.31,82.03
+437,Sohth64,"[8, 6, 6, 6, 3, 3, 4, 3, 5, 8, 9, 2, 8]",58.42,Testing,36.21,42.53
+438,Oklvr18,"[7, 7, 4, 7, 7, 7, 8, 7, 5]",67.51,Reviewing and Providing Feedback,30.27,55.69
+439,Scsli33,"[2, 5, 3, 4, 0, 2, 3, 4, 0, 2, 0]",32.12,Task Assignment and Scheduling,57.9,1.71
+440,Gkekf75,"[4, 3, 5, 4, 2, 4, 5, 3, 5, 4, 5]",41.77,Task Assignment and Scheduling,48.08,24.45
+441,Pivhd77,"[7, 9, 7, 6, 7, 9, 8, 7, 7, 6]",75.47,Reviewing and Providing Feedback,21.51,67.55
+442,Lmzif10,"[1, 7, 5, 4, 4, 5, 0, 1, 2, 4, 5, 2, 7, 2, 1, 5]",38.26,Translation,57.86,13.63
+443,Dwafr44,"[7, 8, 10, 9, 10, 8, 10, 8, 10, 8, 9, 10]",84.3,Programming,16.63,83.1
+444,Rnfhr16,"[7, 6, 7, 6, 6, 6, 5, 6, 8, 9, 8, 7, 6, 8, 10, 6]",64.17,Finalizing and Submitting Work,33.79,58.17
+445,Qpmrv16,"[3, 8, 6, 6, 6, 5, 6, 5]",58.68,Testing,37.62,45.89
+446,Ipoqe15,"[8, 7, 10, 6, 10, 10, 5, 9, 7, 8, 7, 7, 8]",75.83,Sending Emails and Communication,14.19,73.74
+447,Vtpjm60,"[10, 10, 8, 9, 8, 7, 8, 5, 7, 9, 9, 10]",93.22,Working with Spreadsheets and Data,8.88,88.01
+448,Gfeks67,"[7, 10, 10, 7, 10, 9, 8, 10, 8, 9, 5, 10, 10]",92.25,Reviewing and Providing Feedback,8.26,89.19
+449,Qzdwr68,"[5, 2, 4, 1, 3, 2, 2, 4, 2]",34.72,Creating Content and Visuals,60.04,2.86
+450,Czqco27,"[6, 5, 6, 7, 6, 5, 8, 2, 10, 8, 5, 5, 6, 8, 6, 8, 5]",56.1,Translation,31.44,45.61
+451,Paxas56,"[8, 7, 7, 7, 4, 5, 5, 8, 7, 5, 6, 4, 6, 9, 7, 6, 9]",59.18,Finalizing and Submitting Work,24.75,52.01
+452,Lgycj62,"[5, 7, 8, 8, 9, 7]",74.24,Sending Emails and Communication,28.52,66.41
+453,Ylama76,"[1, 5, 2, 8, 5, 1]",42.01,Documentation,49.96,23.61
+454,Nnahm26,"[8, 8, 8, 7, 6, 8, 7, 9, 7, 9, 7, 5, 5, 8, 7]",69.19,Conducting Research,37.71,66.36
+455,Cgpwa25,"[9, 9, 10, 8, 9, 10, 10, 7, 7, 10, 10, 9, 8]",90.94,Reviewing and Providing Feedback,7.88,96.37
+456,Gqvso70,"[9, 8, 8, 9, 9, 9, 9]",92.26,Finalizing and Submitting Work,15.74,91.94
+457,Ekjkb33,"[5, 7, 6]",71.04,Testing,29.24,56.64
+458,Wlyrx86,"[2, 2, 0, 2, 2, 4, 2, 0, 2, 5, 2]",36.14,Conducting Research,58.34,4.41
+459,Lkenp85,"[2, 4, 3, 4, 4, 5, 3, 3, 4, 4, 4, 5, 4, 3, 4, 2, 4, 6]",43.17,Translation,57.0,16.58
+460,Kwnjg21,"[4, 5, 8, 2, 5, 6, 8, 9, 9, 3, 7, 8, 4, 6, 5, 7, 8, 7, 8]",66.04,Creating Content and Visuals,26.33,62.37
+461,Lycml59,"[2, 5, 3, 3, 3, 3, 2, 4, 3, 2, 3]",34.2,Testing,61.61,5.11
+462,Yumux96,"[4, 3, 3, 5, 3, 5, 3, 7, 2, 3, 5]",39.64,Working with Spreadsheets and Data,58.42,12.36
+463,Lpeqv49,"[4, 3, 6, 5, 5, 6, 7, 7, 7, 7, 5, 4, 3, 3]",53.92,Sending Emails and Communication,47.72,33.44
+464,Rlzgr71,"[5, 8, 10, 8, 8, 7, 6, 8, 6, 5, 8, 5, 6, 8, 6, 6, 9, 5, 10, 6]",81.05,Creating Content and Visuals,19.78,72.7
+465,Rzfdv20,"[8, 8, 7, 9, 8, 8, 6, 7, 5, 7, 10, 10, 4]",82.28,Finalizing and Submitting Work,15.11,76.46
+466,Nxlqy76,"[8, 7, 7]",75.37,Task Assignment and Scheduling,13.22,77.81
+467,Pxytw61,"[8, 8, 7, 10, 8, 4, 5, 5, 8, 5, 7, 6, 4, 6, 8]",59.55,Working with Spreadsheets and Data,30.55,50.83
+468,Aahnm51,"[6, 7, 5, 3, 3, 2]",43.26,Programming,44.92,22.0
+469,Bzhkc92,"[9, 8, 9, 8, 9, 9, 7, 9, 8, 8, 10, 10, 9, 8, 10, 10]",90.81,Testing,12.01,92.57
+470,Xrgmc46,"[4, 4, 6, 3]",36.48,Task Assignment and Scheduling,43.91,16.52
+471,Lyjkn74,"[10, 6, 6, 5, 9, 9, 6, 8, 7, 7]",67.6,Sending Emails and Communication,29.47,63.07
+472,Qkcms20,"[3, 4, 6, 2, 5, 3, 5, 6, 4, 3, 6, 4, 5, 4, 7, 5, 4]",43.1,Programming,45.33,24.25
+473,Lulne89,"[6, 7, 6, 7, 7, 8, 7, 8, 6, 7, 6, 6, 3]",70.57,Creating Content and Visuals,28.15,52.8
+474,Dhzhd49,"[9, 6, 6, 9, 10, 7, 9, 7, 8, 8, 8, 9, 6, 6, 9, 8, 10, 6, 9, 8]",91.23,Finalizing and Submitting Work,12.64,90.11
+475,Mvlyj58,"[9, 5, 8, 7, 7, 6]",71.64,Documentation,21.76,64.45
+476,Nrazs83,"[6, 5, 6, 4, 4, 4, 4, 4, 5, 5]",53.11,Reviewing and Providing Feedback,47.1,31.77
+477,Suuef79,"[4, 3, 4]",53.76,Translation,55.46,33.93
+478,Ijewb14,"[6, 0, 0, 2, 2, 5, 3, 3, 5, 3, 5, 2, 0, 3, 2, 0, 5]",36.78,Testing,59.33,5.66
+479,Vhsgj82,"[9, 8, 8]",70.31,Sending Emails and Communication,26.43,56.68
+480,Axlmn88,"[9, 10, 6, 8, 8, 10, 10, 9, 9, 6]",89.43,Task Assignment and Scheduling,15.01,92.53
+481,Jnhhk61,"[7, 5, 8]",68.07,Finalizing and Submitting Work,32.9,53.52
+482,Xgvyg50,"[5, 5, 4, 3, 6, 3, 6, 6, 5, 5, 6, 6, 5, 6, 2, 4, 0]",48.8,Working with Spreadsheets and Data,37.78,21.3
+483,Afirx25,"[6, 7, 4, 6, 5, 4, 3]",46.93,Documentation,42.32,35.88
+484,Virln29,"[7, 5, 7, 7, 6]",70.36,Sending Emails and Communication,22.69,60.2
+485,Clika84,"[4, 0, 4, 5, 3, 6, 1, 3, 5, 3, 4, 4, 4, 4, 2, 2, 3, 3]",38.34,Reviewing and Providing Feedback,54.31,6.82
+486,Nkpqq72,"[6, 5, 5, 3]",39.34,Finalizing and Submitting Work,53.13,14.51
+487,Nldzt36,"[8, 8, 7, 7, 7, 9, 7, 7, 7, 8, 8, 8, 8, 9]",78.07,Sending Emails and Communication,20.81,75.9
+488,Vwtcb13,"[9, 10, 9, 9]",79.45,Translation,13.27,79.42
+489,Znwhm58,"[4, 3, 4, 4, 6, 5, 4, 3, 6, 4, 5, 3, 5, 4, 4, 5]",44.54,Sending Emails and Communication,43.59,23.8
+490,Eokfi77,"[7, 8, 8, 6]",68.56,Programming,27.88,62.35
+491,Lsdxb19,"[9, 5, 5, 8, 6, 7, 6, 4, 5, 9, 4]",72.19,Working with Spreadsheets and Data,28.76,60.14
+492,Rpipl14,"[5, 3, 4, 3, 2, 3, 2, 5, 1, 1, 0, 3, 2, 2, 0, 6]",31.76,Working with Spreadsheets and Data,55.94,5.22
+493,Rkqeg14,"[6, 3, 3, 3, 3, 5, 0, 3, 5, 3, 5, 4, 4]",39.29,Working with Spreadsheets and Data,45.72,16.26
+494,Ymtow90,"[4, 5, 2, 6, 5, 5, 5, 3, 6, 5, 5, 7, 6, 7, 5, 3, 4, 6, 5, 5]",57.23,Task Assignment and Scheduling,41.35,38.42
+495,Slahk85,"[9, 8, 7, 6, 6, 10, 6, 5, 9, 8, 8, 6, 8, 8, 8, 7, 5, 8, 8, 8]",80.81,Working with Spreadsheets and Data,21.38,71.52
+496,Fyhvl73,"[10, 7, 8, 7, 9, 7, 8, 6, 9, 9, 4, 8, 9, 9, 6, 6, 9, 7, 4, 9]",85.04,Testing,22.2,76.92
+497,Pafsj91,"[4, 4, 4, 5, 5, 4, 5, 4, 6, 2, 4, 3, 3, 4, 5, 6, 5, 5, 5, 5]",50.1,Working with Spreadsheets and Data,41.8,31.35
+498,Dzuvg61,"[3, 4, 4]",39.58,Working with Spreadsheets and Data,66.82,17.42
+499,Cliyg28,"[3, 5, 0, 2, 0, 2]",32.53,Conducting Research,58.78,1.5
+500,Vffhz87,"[7, 5, 7, 4, 3, 5, 5, 4, 4, 4]",52.47,Translation,41.53,34.9
+501,Ailmo97,"[3, 2, 8, 4, 2, 2, 5, 2, 4, 2, 6, 5, 2, 4, 4, 4, 4, 3]",37.24,Programming,55.27,14.44
+502,Bfrdq83,"[9, 8, 10, 7, 7, 8]",85.97,Creating Content and Visuals,15.08,80.02
+503,Rtwve60,"[10, 7, 6, 9, 10, 9, 9, 10, 7]",84.67,Conducting Research,18.53,78.01
+504,Guxxp34,"[7, 6, 6, 7]",68.58,Task Assignment and Scheduling,28.84,52.32
+505,Jdscc33,"[7, 5, 5, 4, 7, 6]",64.82,Sending Emails and Communication,35.22,50.15
+506,Jluex88,"[9, 6, 10, 10, 10, 10, 7, 6, 8, 7, 5, 10, 9, 9, 8, 10, 9, 8]",83.46,Working with Spreadsheets and Data,12.26,89.11
+507,Hvqnd83,"[3, 5, 2, 6, 6, 4, 5, 2, 4, 5, 4, 6, 5, 5, 3, 5, 5, 6]",51.65,Finalizing and Submitting Work,40.14,38.31
+508,Evqks45,"[7, 7, 8, 7, 6, 10, 6, 7]",70.8,Finalizing and Submitting Work,28.44,54.45
+509,Xnltl76,"[5, 4, 6, 5, 2, 3, 4, 3, 6, 2, 5, 5, 6, 3, 6, 5]",48.2,Programming,43.98,26.53
+510,Ftypb38,"[5, 6, 5, 4, 3, 3, 4, 4]",46.58,Testing,50.89,28.06
+511,Auxcd36,"[6, 5, 4, 7, 6, 6, 7, 9, 6, 7, 5, 5, 6, 8, 6, 5, 9, 6, 6, 6]",69.41,Testing,29.32,53.8
+512,Ofwfq87,"[9, 10, 7, 7, 8, 9, 8, 7, 8]",77.81,Documentation,21.13,73.04
+513,Tahcb84,"[5, 9, 6]",90.52,Reviewing and Providing Feedback,14.3,94.83
+514,Hlurc74,"[10, 9, 9, 10, 9, 9, 6, 9, 10, 10, 10, 9, 9, 10, 7]",89.12,Sending Emails and Communication,10.82,85.72
+515,Feklo13,"[8, 8, 10, 7, 10, 8, 10, 9, 9, 10, 7, 9]",81.48,Creating Content and Visuals,10.8,83.73
+516,Ldacr87,"[8, 7, 5, 6, 4, 5, 4, 6]",54.18,Task Assignment and Scheduling,41.77,31.69
+517,Hbwhf17,"[4, 7, 3, 5, 8]",55.97,Working with Spreadsheets and Data,46.92,35.67
+518,Ebdbh41,"[6, 6, 6, 8, 7, 5, 5, 7, 6, 6, 5, 6, 6, 7, 8, 7, 5, 7]",56.2,Working with Spreadsheets and Data,46.13,47.13
+519,Ihjsc68,"[4, 4, 8, 6, 4, 9, 6, 6, 4, 8, 2, 6]",64.06,Programming,41.84,43.56
+520,Jdklt95,"[5, 3, 3, 3, 5, 6, 5, 1, 2, 5, 4, 4, 3, 5, 4, 5, 6, 4, 3]",43.85,Task Assignment and Scheduling,52.25,17.45
+521,Ildar36,"[9, 8, 7, 9, 7]",77.61,Translation,11.45,80.04
+522,Yhwfz89,"[8, 7, 10, 9]",84.06,Sending Emails and Communication,11.52,82.15
+523,Dcicb61,"[4, 4, 3, 3, 4, 4, 6, 6, 5, 5, 5, 4, 4, 3, 4, 5, 4, 7, 3]",51.92,Finalizing and Submitting Work,49.3,30.3
+524,Vvrya34,"[5, 4, 2, 2, 6, 4, 4, 2, 2, 5, 5, 5, 4, 4, 5, 3]",45.48,Sending Emails and Communication,56.21,19.86
+525,Hdlez94,"[6, 3, 6, 3, 3, 2, 3, 1, 5, 3, 3, 1, 4, 5]",33.74,Creating Content and Visuals,54.79,4.47
+526,Gfchk93,"[9, 9, 7, 10]",85.85,Testing,17.2,83.74
+527,Fkoit32,"[6, 4, 3, 5, 4]",52.18,Programming,36.29,35.04
+528,Hcehw30,"[3, 7, 3, 5]",49.45,Documentation,50.52,26.62
+529,Sohye21,"[7, 5, 5, 8, 4, 3, 6, 5, 6, 5, 8, 4, 7, 5, 4]",69.44,Working with Spreadsheets and Data,26.85,60.5
+530,Tvbcq51,"[7, 8, 10, 7]",81.84,Finalizing and Submitting Work,15.57,85.28
+531,Gkndg18,"[6, 7, 6, 5]",63.13,Sending Emails and Communication,31.6,48.16
+532,Nsclj26,"[9, 5, 6, 6, 6, 7, 8, 9, 8, 7, 4, 7, 5, 5]",72.48,Translation,25.71,57.15
+533,Gwsge46,"[2, 5, 6]",35.34,Task Assignment and Scheduling,56.47,16.73
+534,Gwlqw19,"[8, 6, 8, 7, 5, 7, 5, 9, 6, 10, 7]",71.05,Working with Spreadsheets and Data,18.46,68.54
+535,Jczly25,"[5, 5, 6, 5, 6, 5, 7, 5]",65.3,Creating Content and Visuals,25.41,49.17
+536,Ammen53,"[9, 9, 7, 10, 10, 10, 10, 9, 9, 9, 10, 10]",92.52,Finalizing and Submitting Work,3.26,96.81
+537,Mgxdv34,"[8, 6, 7, 8, 4, 5, 9, 7]",65.25,Documentation,18.42,58.56
+538,Ictnd67,"[8, 6, 7, 8, 6, 8, 6, 9, 7, 6, 9, 5, 9, 6]",72.99,Documentation,14.76,68.42
+539,Anofw25,"[3, 5, 6, 5, 6, 6, 7, 5, 4, 4, 4, 3, 5, 4, 6, 3, 5, 4]",58.94,Reviewing and Providing Feedback,42.8,37.03
+540,Vjujf98,"[6, 5, 0, 1, 2, 1, 5, 2, 5, 4, 4, 2, 2, 3, 6, 3, 0, 2]",34.68,Programming,63.23,0.01
+541,Oabwk99,"[10, 8, 10, 5, 7, 6, 6, 6, 7, 9, 6]",74.71,Conducting Research,19.7,66.05
+542,Gmhdf48,"[10, 7, 10]",82.54,Reviewing and Providing Feedback,14.9,73.96
+543,Iduaa46,"[6, 1, 5, 6, 7]",50.94,Task Assignment and Scheduling,45.68,28.86
+544,Vmeiv36,"[4, 7, 10, 10, 7, 8, 10, 10, 8, 7]",87.08,Translation,11.23,79.79
+545,Ibcrl35,"[4, 5, 4, 7, 1, 5, 3, 5, 7, 7, 4, 3, 6]",49.63,Task Assignment and Scheduling,41.01,27.61
+546,Mpqfe17,"[10, 9, 10, 8, 9, 10, 7, 9]",95.98,Working with Spreadsheets and Data,14.13,97.55
+547,Jdxyb14,"[4, 4, 4, 3, 4, 2, 3, 2, 5, 4, 1]",33.22,Conducting Research,61.54,6.32
+548,Ojiga90,"[7, 7, 9, 8, 9, 7, 6]",81.77,Translation,20.3,72.82
+549,Bwlsy23,"[6, 6, 4, 5, 6, 3, 6, 3, 4, 4, 6, 6, 4, 5, 6, 4, 7, 1]",58.32,Testing,34.66,37.97
+550,Uulkk12,"[2, 1, 1, 4, 0, 5, 0, 3, 4, 2, 1, 0, 3, 3, 2, 5, 5, 3]",32.15,Sending Emails and Communication,49.5,5.12
+551,Xonfn83,"[6, 4, 5, 5, 7, 8, 6, 6, 7, 9, 5]",62.2,Reviewing and Providing Feedback,27.53,50.6
+552,Dngvt78,"[3, 7, 5, 5, 6, 4, 5, 5, 4, 7, 7, 7, 4, 6, 5, 5, 6, 7, 5, 6]",52.93,Documentation,49.27,29.65
+553,Luxri58,"[7, 5, 7, 4]",54.96,Documentation,36.72,38.88
+554,Aaufk70,"[8, 10, 8, 8, 9, 7, 10, 8, 9, 7, 9, 7, 8, 9, 8, 8, 8, 10]",80.54,Conducting Research,13.77,84.08
+555,Wuhrb14,"[9, 8, 9, 10, 10, 10, 9, 10, 10, 10, 10, 9]",90.23,Programming,4.08,97.39
+556,Ekwwi73,"[5, 9, 8, 8, 5, 7, 8, 8, 6, 7, 10, 8, 6, 8, 8, 5]",77.69,Documentation,15.6,73.69
+557,Budku27,"[10, 8, 10, 10, 10, 8, 8, 10, 7, 8, 9]",96.01,Sending Emails and Communication,2.06,95.87
+558,Fvtkm52,"[2, 5, 3, 3, 1, 2, 1, 3, 1]",40.33,Finalizing and Submitting Work,50.52,8.69
+559,Kfrug80,"[5, 6, 7, 4, 8, 6, 7, 6, 5, 7, 7, 2, 6, 8, 4, 5, 9, 6, 5]",63.81,Conducting Research,36.48,53.81
+560,Wwejc68,"[6, 9, 4, 4, 3, 4, 7, 7, 4, 7, 5, 6, 6, 5, 8, 3]",56.1,Reviewing and Providing Feedback,30.71,43.53
+561,Pkyhk32,"[10, 7, 8, 9, 6, 6, 6, 7, 10, 6]",89.59,Reviewing and Providing Feedback,12.96,85.09
+562,Bmfxn13,"[8, 7, 10, 8]",84.56,Creating Content and Visuals,24.0,78.92
+563,Gcpwq29,"[4, 7, 4]",49.65,Working with Spreadsheets and Data,38.96,25.18
+564,Sxjxw81,"[5, 5, 7, 8, 4, 6, 4, 7, 3, 4, 6, 5, 6, 6, 7, 6, 5, 4]",57.99,Translation,44.26,42.33
+565,Laijr40,"[5, 2, 5]",41.89,Documentation,41.99,20.21
+566,Tybgj11,"[2, 2, 3, 5, 4, 7, 7, 4, 6, 4, 2, 2, 5]",39.69,Finalizing and Submitting Work,55.45,17.29
+567,Umesx76,"[5, 7, 6, 4, 5, 8, 7]",64.59,Translation,37.61,52.26
+568,Hhwpu63,"[9, 10, 5, 10, 10, 9, 10, 8, 7, 8, 10, 8, 6, 10, 9, 10]",91.56,Reviewing and Providing Feedback,8.22,91.41
+569,Yeffm87,"[7, 8, 8, 7]",83.46,Documentation,17.21,77.88
+570,Kkvso64,"[2, 5, 6, 5, 6, 4, 5, 5, 4, 2, 5]",46.69,Task Assignment and Scheduling,45.26,19.93
+571,Wlasy46,"[5, 1, 4, 4, 3, 5, 5, 2, 2, 3, 4, 2, 3, 4, 3, 3]",32.84,Task Assignment and Scheduling,55.72,3.22
+572,Nkajx84,"[10, 10, 9, 8, 10, 7, 9, 9, 10, 10, 9, 9, 7]",97.56,Conducting Research,6.02,98.57
+573,Dfrks30,"[6, 9, 7, 7, 8, 7, 8, 8, 6, 8, 9, 6, 7]",79.44,Translation,21.34,71.35
+574,Wchen46,"[3, 4, 2, 2, 5]",33.74,Documentation,54.1,1.98
+575,Gbcrp98,"[5, 4, 4, 5, 4, 1, 3, 3, 1, 3, 4, 5, 3, 3, 6, 5, 6, 6, 7, 7]",46.07,Documentation,43.52,28.79
+576,Eplzz34,"[5, 3, 5, 1, 3, 3, 3, 6, 6, 3, 4, 4, 3, 3, 3, 2, 3, 4]",42.03,Documentation,54.08,17.29
+577,Nfkol77,"[7, 9, 5, 4, 7, 10, 10, 9, 6]",88.07,Sending Emails and Communication,16.86,85.25
+578,Ueewv97,"[2, 4, 0, 2, 3]",31.14,Sending Emails and Communication,58.95,4.77
+579,Tzgev78,"[4, 4, 1, 3, 4, 4, 4, 5, 2, 6, 5, 4, 1, 3, 7, 3, 4, 1]",42.82,Programming,52.54,21.33
+580,Zivvr24,"[9, 9, 9, 6, 7, 7, 8, 7, 7, 8, 8]",75.93,Reviewing and Providing Feedback,23.01,72.39
+581,Tqdbs87,"[6, 3, 6, 4, 3, 4, 4, 5, 4, 2, 2]",47.01,Finalizing and Submitting Work,40.29,16.66
+582,Jzpec35,"[7, 7, 9, 10, 8, 7, 9, 7, 10, 9, 7]",85.39,Documentation,9.01,81.53
+583,Arxxv90,"[4, 3, 5, 6, 2, 4, 6, 4, 5, 2, 5, 3, 2, 4, 2, 5, 5]",41.05,Reviewing and Providing Feedback,60.01,13.73
+584,Bfpbo22,"[10, 9, 10, 10, 9]",88.13,Working with Spreadsheets and Data,9.93,87.29
+585,Hcagd84,"[4, 2, 1, 2, 2]",37.28,Reviewing and Providing Feedback,62.05,2.54
+586,Yoxxy38,"[3, 9, 10, 7, 6, 8, 7, 4, 6]",65.03,Sending Emails and Communication,29.96,57.69
+587,Twyeo41,"[6, 2, 1]",38.6,Programming,53.35,11.59
+588,Dpwfi37,"[5, 7, 9, 10, 9, 10, 10]",89.17,Creating Content and Visuals,15.93,95.74
+589,Swxfg98,"[7, 5, 6]",62.56,Finalizing and Submitting Work,23.71,54.16
+590,Rpbhy60,"[6, 3, 5, 8, 9, 5, 7, 4, 8, 9, 5, 4, 7, 8, 6, 7]",63.27,Translation,25.64,57.09
+591,Yhxyw84,"[9, 9, 10, 8, 7, 4, 7, 7, 9, 8, 8, 6, 9, 8, 9, 5, 9]",78.11,Documentation,11.19,74.17
+592,Ifwkm34,"[8, 10, 10, 10, 7, 10, 10, 9, 10, 10, 10, 9, 8, 9, 10, 10, 8]",99.15,Working with Spreadsheets and Data,1.05,99.8
+593,Ryeue93,"[5, 5, 4, 7, 2, 6, 4, 3, 6, 6, 3, 5, 2, 6, 4, 3, 5, 3, 6]",47.37,Task Assignment and Scheduling,37.83,27.12
+594,Otnfs94,"[3, 5, 3, 3, 4, 3, 4]",35.27,Conducting Research,59.92,0
+595,Vmewh99,"[5, 5, 6, 5, 4, 4, 7, 3, 5, 5, 5, 4, 3, 4]",47.61,Reviewing and Providing Feedback,49.86,24.54
+596,Svfsh39,"[5, 9, 10, 6, 7, 10, 9, 10, 10, 10, 10, 9, 10, 9, 10]",94.28,Testing,11.75,95.23
+597,Rozjl96,"[4, 5, 7]",52.85,Reviewing and Providing Feedback,54.46,37.79
+598,Odhpq28,"[5, 10, 7, 9, 6, 10]",64.07,Conducting Research,28.6,54.48
+599,Hiflt92,"[9, 7, 8, 7, 8, 9, 8, 9, 9, 8, 8, 9, 8]",81.55,Translation,15.34,86.43
+600,Vpvbc69,"[7, 7, 8, 9, 8, 6]",86.8,Task Assignment and Scheduling,16.9,80.88
+601,Gfftx43,"[3, 3, 1, 2, 1, 3, 0, 5, 5, 2, 3, 4, 4, 4, 5, 1, 3, 5, 5]",34.64,Translation,66.33,2.05
+602,Puhls15,"[8, 6, 10, 6, 9, 7, 5]",78.69,Testing,9.31,80.79
+603,Efopq81,"[6, 7, 8, 7, 4, 9, 7, 7, 4, 9, 5, 5, 9, 8, 7, 9, 4, 6]",79.98,Sending Emails and Communication,16.19,74.6
+604,Ppjdc57,"[10, 8, 6, 7, 10, 7, 8, 8, 10, 9, 10, 8, 9, 8, 8, 9, 8, 9, 9, 7]",87.27,Sending Emails and Communication,10.97,85.58
+605,Aahlm60,"[2, 4, 2, 3, 4, 4, 1, 4, 3, 2, 3, 0, 3, 3, 4, 2, 5]",33.26,Conducting Research,51.46,11.15
+606,Twvig90,"[8, 8, 8, 6, 8, 10, 8, 10, 10, 8, 6, 6, 9]",83.22,Creating Content and Visuals,12.22,86.16
+607,Cmnzp98,"[8, 7, 8, 7, 6, 7, 8, 7, 7, 6]",82.96,Testing,10.62,82.87
+608,Ovajt47,"[2, 3, 1, 4, 3, 2, 1, 4, 3, 5, 2, 6]",34.97,Documentation,57.83,6.88
+609,Swnzt27,"[3, 1, 5, 3, 2, 3, 5, 4, 5, 4, 4, 5, 3, 4]",39.26,Reviewing and Providing Feedback,54.27,23.43
+610,Ccrer45,"[4, 5, 3, 6, 2, 6, 5, 3, 3, 0, 5, 6, 4, 3, 3]",45.13,Testing,55.01,19.8
+611,Gtifj76,"[6, 8, 9, 10, 10, 8, 7, 10, 8, 10, 9]",95.13,Creating Content and Visuals,0.1,98.25
+612,Drflj42,"[9, 7, 9, 9, 7, 9, 7, 5, 8, 9, 7, 10, 8, 10, 8, 9, 8, 7]",83.69,Reviewing and Providing Feedback,21.79,83.33
+613,Erqae47,"[10, 9, 10, 7, 9, 8, 10, 10, 9, 10, 9, 9, 10, 10, 8, 10, 9, 10]",94.82,Sending Emails and Communication,12.72,92.12
+614,Mgdbb56,"[6, 4, 4, 0, 2, 2, 3]",30.25,Programming,50.36,2.38
+615,Megrc57,"[6, 4, 3, 5, 3, 4, 1, 5, 5]",51.16,Programming,33.71,31.14
+616,Cmtqp80,"[9, 7, 9, 6, 8, 7, 8, 7, 8, 8, 8, 9]",81.26,Testing,15.98,73.52
+617,Cgjic57,"[8, 5, 6, 9]",50.5,Translation,49.08,33.19
+618,Fhecd59,"[4, 4, 4]",43.36,Creating Content and Visuals,50.92,24.45
+619,Rfzlp23,"[8, 5, 6, 7, 6, 5, 8, 7]",64.92,Conducting Research,38.26,50.92
+620,Drtae25,"[10, 6, 9, 10, 9, 10, 8, 8, 9, 10, 8, 10, 10, 9, 10, 8, 9, 8]",96.44,Reviewing and Providing Feedback,10.19,100
+621,Qrmhe58,"[2, 3, 5, 1, 2, 5, 3, 4, 1, 3, 2, 1, 4, 4, 4, 3]",39.92,Sending Emails and Communication,54.87,9.83
+622,Iaybl36,"[5, 4, 7, 7, 4, 6, 7, 7]",62.53,Conducting Research,35.91,45.41
+623,Sjfdm39,"[3, 5, 4, 4]",45.85,Finalizing and Submitting Work,39.27,26.8
+624,Qdkrc88,"[4, 4, 4]",37.37,Creating Content and Visuals,53.29,19.01
+625,Obspm90,"[6, 5, 8, 8, 9, 9]",72.94,Translation,27.44,72.34
+626,Xhkwg33,"[6, 5, 4, 8, 5, 6, 9, 4, 4, 6, 8, 4, 4, 5, 7, 7]",56.48,Task Assignment and Scheduling,33.26,34.5
+627,Lklhu47,"[10, 8, 9, 4, 6]",75.45,Programming,22.04,68.1
+628,Cazrq48,"[9, 8, 9, 4]",77.16,Working with Spreadsheets and Data,18.63,78.27
+629,Myden89,"[8, 7, 5, 5, 6, 8]",61.01,Testing,27.02,55.53
+630,Mlwqv79,"[9, 6, 6, 6, 7, 10, 10, 10, 7, 10, 10, 7, 9]",90.41,Documentation,16.06,83.4
+631,Bfmvo63,"[6, 10, 7, 5, 7]",55.58,Task Assignment and Scheduling,36.91,43.2
+632,Pryur61,"[6, 7, 7, 8, 7, 5, 6, 8, 6, 7]",71.37,Documentation,27.34,64.56
+633,Zytow50,"[5, 5, 6, 6, 4, 5]",52.51,Programming,39.32,33.85
+634,Dvfso71,"[2, 0, 3, 1, 4, 5, 5, 2, 4, 0, 3, 3, 4, 0, 3, 4]",34.44,Documentation,54.8,3.75
+635,Xaqsf99,"[7, 8, 10, 8, 10, 9]",84.97,Translation,12.39,75.82
+636,Oimsl84,"[6, 7, 5, 6, 4, 5, 5, 5]",56.15,Documentation,34.88,44.1
+637,Svyci28,"[4, 7, 3, 8, 8, 7]",65.31,Testing,35.25,51.34
+638,Mousl33,"[10, 7, 10, 8]",94.05,Programming,8.72,94.52
+639,Wrhxp31,"[1, 1, 4, 2, 4, 5]",36.68,Documentation,60.27,10.65
+640,Nzhop37,"[3, 4, 4, 4, 0, 1, 2, 4, 4, 2, 3]",44.87,Testing,54.92,19.17
+641,Fxddl75,"[7, 10, 6, 9, 8, 6, 8, 6, 7, 10, 7, 6, 9, 8, 6]",75.09,Testing,15.16,77.15
+642,Rlbjl30,"[7, 10, 9, 7]",93.81,Testing,10.97,90.75
+643,Tuorg54,"[8, 9, 9, 5, 8, 10, 6, 7, 7, 7, 9, 10, 6, 8, 5, 4, 10, 9, 7, 7]",81.42,Task Assignment and Scheduling,15.49,71.01
+644,Balnt19,"[8, 7, 8, 7, 7, 5, 7, 7, 9, 9, 6, 7, 7, 7]",74.07,Sending Emails and Communication,14.59,67.3
+645,Ofosv78,"[9, 9, 10, 6, 10, 7, 10, 8, 10, 10, 9, 10, 10, 8]",97.96,Sending Emails and Communication,13.41,97.34
+646,Fkdkx70,"[2, 4, 4, 5, 4, 2, 5, 3, 2, 4, 5, 3, 3]",31.86,Testing,57.84,9.68
+647,Oqnxg78,"[0, 5, 2, 3, 3, 7, 7, 4, 5]",39.93,Translation,54.35,19.0
+648,Lgnfr47,"[9, 8, 8, 6, 6, 6, 10, 8, 6, 4, 8]",73.16,Translation,14.76,75.96
+649,Nrnar19,"[8, 7, 8, 7]",82.78,Working with Spreadsheets and Data,7.42,78.39
+650,Dhexy72,"[8, 6, 10, 10, 10, 8, 8, 7]",87.52,Task Assignment and Scheduling,0.1,86.04
+651,Mpgrm42,"[6, 7, 9, 5, 8, 6, 5, 3, 6, 6, 4, 10, 4]",65.79,Task Assignment and Scheduling,23.62,54.14
+652,Bkedo41,"[4, 5, 6, 6, 6, 5, 9, 6, 4, 0, 3, 6, 4, 4]",54.37,Sending Emails and Communication,49.22,38.56
+653,Yukke48,"[2, 4, 2, 4, 4, 4, 3, 4, 5, 3, 7, 4, 5, 1, 2, 3, 4]",39.74,Working with Spreadsheets and Data,54.31,19.29
+654,Ifwlv23,"[7, 6, 3, 7, 5, 4, 6]",61.17,Creating Content and Visuals,36.01,47.98
+655,Bpfdf18,"[4, 4, 6, 3, 9, 6, 4, 5, 5, 6, 7, 5, 8, 4, 8, 3, 6]",59.87,Documentation,35.48,41.55
+656,Zskcj36,"[4, 4, 0, 1, 3]",32.51,Creating Content and Visuals,70.47,4.34
+657,Fhmye91,"[10, 10, 10, 7, 7, 7, 6, 8, 10, 7, 9, 8, 8, 9, 7, 6, 8, 7, 10, 9]",87.06,Reviewing and Providing Feedback,5.3,81.9
+658,Mwugf62,"[3, 4, 2, 3, 4, 0, 3, 0, 4, 4, 5, 3, 6, 1, 3, 2, 3]",33.61,Reviewing and Providing Feedback,50.04,12.76
+659,Zzxiw21,"[9, 9, 8, 7, 7, 8, 7, 9, 7, 7, 6, 6, 6, 6, 10, 8, 7, 9]",77.33,Documentation,20.58,73.85
+660,Uzajv14,"[2, 3, 3, 4, 1, 4, 8, 4]",36.79,Creating Content and Visuals,44.08,11.91
+661,Tdabg84,"[7, 3, 7, 7]",50.94,Testing,44.13,41.73
+662,Fxnje88,"[8, 7, 9, 7, 9, 7, 9, 8, 9, 9, 7, 7, 8, 8, 6, 8, 6, 4]",74.27,Creating Content and Visuals,35.15,72.5
+663,Glqyt10,"[8, 9, 8, 8, 9, 6, 9, 10, 10, 10]",79.26,Creating Content and Visuals,14.61,79.64
+664,Kjhgw30,"[4, 4, 2, 6, 5, 4, 7, 3, 5, 4, 4]",52.24,Creating Content and Visuals,32.48,37.87
+665,Gerwy26,"[8, 8, 10, 9, 9, 10]",97.79,Finalizing and Submitting Work,7.4,97.67
+666,Qqwxk12,"[2, 3, 7, 5, 5, 5, 4, 4, 4, 6, 5, 3]",54.03,Documentation,40.65,29.83
+667,Zjfem36,"[4, 3, 0, 4, 1, 5, 3, 4, 2]",36.45,Sending Emails and Communication,53.1,14.58
+668,Howcp35,"[8, 7, 10]",84.79,Documentation,12.83,83.9
+669,Ickzr12,"[9, 9, 7, 10, 7, 8, 10]",93.73,Finalizing and Submitting Work,4.99,92.79
+670,Jqefh84,"[7, 9, 8, 6, 6, 9, 8, 9, 8, 7, 10, 8]",86.75,Testing,19.87,83.16
+671,Fojoc61,"[7, 9, 9, 9, 10, 10, 8, 7, 7]",81.39,Reviewing and Providing Feedback,11.34,85.84
+672,Madbw57,"[7, 9, 8, 7, 10, 9, 9, 8, 7, 7, 10]",85.43,Finalizing and Submitting Work,9.18,82.72
+673,Wcyuc22,"[8, 7, 5, 5, 5, 10, 8, 8, 5, 7, 10, 5]",73.32,Testing,16.63,69.57
+674,Pjmfz86,"[3, 4, 8, 4, 8]",68.34,Conducting Research,27.57,61.6
+675,Bmcli16,"[3, 3, 3, 2, 1, 3, 0, 3, 4, 2]",34.17,Conducting Research,52.23,10.5
+676,Uysca35,"[5, 5, 4]",61.91,Finalizing and Submitting Work,35.01,49.15
+677,Kcfgb14,"[5, 5, 4, 4, 4, 3, 3, 4, 4, 3, 6, 4, 7, 6, 2, 1]",45.25,Reviewing and Providing Feedback,53.42,23.45
+678,Dtxno83,"[5, 9, 6, 10, 6, 3]",69.7,Conducting Research,22.94,65.33
+679,Zxjua98,"[2, 2, 4, 2, 2, 2, 4, 2, 0, 2, 4, 2, 2, 2, 6, 0, 2, 1, 3, 4]",33.07,Creating Content and Visuals,56.61,5.67
+680,Dcftc68,"[7, 10, 9, 9, 9, 9, 7, 8, 6, 10, 8, 8, 9, 9, 6, 7, 6, 8, 9]",83.86,Sending Emails and Communication,13.05,81.97
+681,Iiasd55,"[7, 7, 6, 6, 8]",68.56,Documentation,22.61,58.39
+682,Szotn61,"[2, 3, 2, 4, 3, 5, 3, 0, 3, 6, 6, 4, 3, 5, 4, 5, 6, 4, 4, 3]",41.34,Creating Content and Visuals,40.73,22.78
+683,Aebnj91,"[5, 10, 8, 8, 7, 7, 9, 6, 10, 4, 8, 8]",73.25,Documentation,27.97,73.62
+684,Pmijk59,"[8, 6, 7, 10, 5]",72.32,Working with Spreadsheets and Data,28.43,67.33
+685,Jdern63,"[6, 3, 3, 2]",44.06,Task Assignment and Scheduling,42.43,22.22
+686,Fgqlq65,"[6, 7, 7, 4, 6, 6, 7, 6]",56.89,Creating Content and Visuals,42.96,42.08
+687,Qvmad97,"[4, 5, 5, 3, 4, 4, 3, 4, 1, 4, 4, 3, 6, 2, 4, 3, 3, 4]",43.82,Translation,51.56,17.58
+688,Hjock38,"[5, 6, 6, 7, 6, 5, 6, 4, 5]",55.34,Conducting Research,31.04,43.86
+689,Lawdd61,"[10, 10, 10, 10, 9, 9, 7, 9, 10, 10, 10, 9, 10, 9, 10, 10]",93.7,Sending Emails and Communication,2.28,93.58
+690,Nqdvx57,"[7, 6, 7, 5]",60.62,Conducting Research,30.98,55.48
+691,Skeiw51,"[7, 6, 6, 3, 3, 7, 6, 6, 5, 8, 2, 6, 6, 4]",57.62,Reviewing and Providing Feedback,40.12,42.23
+692,Bhhtr45,"[7, 10, 10, 8, 8, 6, 8]",80.17,Documentation,14.75,79.81
+693,Uyjnq54,"[2, 2, 3]",28.52,Programming,55.62,5.65
+694,Lnlhj93,"[8, 6, 7]",79.8,Reviewing and Providing Feedback,25.35,68.85
+695,Sypll26,"[8, 9, 10, 8, 7, 5, 9, 7, 8, 8, 4, 9, 7, 8, 10]",80.38,Finalizing and Submitting Work,12.1,74.29
+696,Heagq23,"[7, 7, 8, 7, 7, 5, 6, 7, 5, 6, 7, 7, 6, 8, 7, 7, 7]",66.33,Reviewing and Providing Feedback,21.5,61.93
+697,Xdqzx18,"[6, 5, 6, 6, 6, 4, 4, 4, 5, 7]",57.68,Translation,33.17,43.54
+698,Ujtxx68,"[9, 9, 9, 10, 8, 9, 10, 9]",90.96,Programming,0.37,96.0
+699,Eveoj37,"[3, 5, 3, 7, 5, 4, 6, 8, 4]",55.53,Conducting Research,35.41,43.07
+700,Nnizc45,"[10, 8, 8, 10, 9, 9, 8]",77.84,Documentation,15.06,78.89
+701,Dydyb77,"[2, 2, 4, 4, 4, 0]",45.02,Task Assignment and Scheduling,37.74,27.06
+702,Fatya72,"[5, 5, 4, 5, 7, 6, 5, 8, 5]",64.75,Finalizing and Submitting Work,31.98,50.29
+703,Vdyjd71,"[4, 7, 4, 5, 5, 6, 6, 5, 5, 7]",57.5,Working with Spreadsheets and Data,35.78,38.99
+704,Kcvnf53,"[7, 8, 10]",93.06,Working with Spreadsheets and Data,10.97,92.6
+705,Orrbq96,"[7, 7, 8, 7, 8, 9]",74.69,Finalizing and Submitting Work,8.94,78.98
+706,Cvzjh34,"[4, 1, 1, 2, 0, 1, 3, 3, 6, 1, 3, 3, 0, 3, 4, 1, 2, 2, 5]",26.45,Translation,55.62,0.29
+707,Bchnu80,"[5, 5, 1, 3]",45.76,Programming,45.16,30.02
+708,Mppid91,"[5, 9, 5, 8, 6, 5, 6, 4, 4, 8, 4, 8, 8, 6]",67.17,Task Assignment and Scheduling,30.0,49.65
+709,Zihee81,"[4, 5, 5, 4, 1, 3, 4, 6, 5, 5]",46.69,Reviewing and Providing Feedback,40.83,23.35
+710,Hopps67,"[5, 3, 5, 4, 6, 3, 6, 5, 5]",44.57,Sending Emails and Communication,39.28,22.24
+711,Nrbid58,"[4, 3, 3, 4, 4, 4, 0, 1, 2]",35.46,Sending Emails and Communication,68.0,4.47
+712,Xtabc21,"[1, 4, 3, 5, 4, 4, 2, 4, 2, 2, 1, 6, 7]",37.86,Creating Content and Visuals,48.09,10.55
+713,Cedgs59,"[5, 7, 6, 6, 5, 4, 6, 3, 5, 4, 7, 7, 5, 6, 6, 6, 6, 4]",62.35,Programming,34.99,46.0
+714,Tgniz80,"[7, 6, 5, 8, 6, 8, 6, 7, 8, 5, 9, 9, 6, 6, 7, 8, 6, 8, 9, 7]",74.95,Finalizing and Submitting Work,18.99,65.49
+715,Jukoz84,"[8, 8, 8, 10, 10, 10, 8, 10, 9, 10, 10]",96.09,Programming,9.21,96.55
+716,Sflxo21,"[10, 7, 10, 8, 8, 9, 10, 10, 10, 9, 7, 9]",90.12,Testing,9.15,97.55
+717,Twsvn29,"[6, 8, 6, 4, 5, 6, 9]",62.17,Creating Content and Visuals,37.51,49.61
+718,Gcdjh24,"[9, 9, 9, 9]",75.61,Testing,17.9,76.67
+719,Jnjfh46,"[8, 8, 8, 10, 9, 9, 7, 7, 8, 9, 8, 4, 7, 9, 7, 9]",77.45,Reviewing and Providing Feedback,20.18,73.01
+720,Gnyny97,"[4, 6, 3, 5, 2, 5]",45.59,Documentation,57.05,15.57
+721,Rbalm38,"[6, 5, 5, 9, 6, 3, 7, 3, 6, 4, 3, 4, 5]",53.65,Creating Content and Visuals,35.01,43.21
+722,Pwmrj95,"[5, 0, 4, 3, 5, 7, 5, 3, 2, 5, 4, 4, 3, 5, 4, 5, 6]",48.25,Translation,39.6,29.96
+723,Gjhud59,"[6, 10, 9, 10, 10, 4, 9, 5, 8, 4, 9, 6, 9, 6, 4, 9, 10, 8]",72.22,Documentation,20.76,70.31
+724,Gxoot46,"[7, 8, 7, 7, 6, 6, 9, 5, 9, 8]",73.5,Finalizing and Submitting Work,25.74,67.88
+725,Hkswn20,"[3, 3, 4, 4, 6, 2, 4, 5, 5]",38.43,Sending Emails and Communication,52.69,21.74
+726,Oyrsc72,"[4, 3, 4, 0, 2]",32.07,Documentation,55.55,10.11
+727,Jiehc68,"[7, 6, 7, 8, 7, 7, 8, 6, 8, 6, 6, 8, 9]",78.22,Conducting Research,20.87,75.99
+728,Nrsvc97,"[5, 9, 5, 5, 7, 7, 8, 7, 9, 6, 7, 7, 6, 5, 8, 9, 7, 7, 8, 8]",69.19,Sending Emails and Communication,28.68,65.03
+729,Kucao84,"[10, 8, 5, 9, 9, 8, 8, 6, 8, 9, 7, 5, 9, 8, 8, 7, 8, 9, 10]",83.83,Working with Spreadsheets and Data,13.48,80.51
+730,Kkvlm56,"[9, 6, 6, 7, 7, 9, 8, 8, 9, 8, 8, 7, 8, 8]",83.83,Sending Emails and Communication,16.77,76.86
+731,Canas55,"[5, 7, 5, 6, 4, 6, 4]",55.32,Task Assignment and Scheduling,38.88,43.39
+732,Xqjmk26,"[5, 6, 7, 4, 7, 6, 6, 7, 7]",65.46,Working with Spreadsheets and Data,28.88,50.21
+733,Dyvgp40,"[10, 8, 6, 7, 6, 10, 10, 10, 8, 9]",87.04,Conducting Research,7.01,85.8
+734,Xybnc48,"[7, 8, 7, 7, 5, 8]",77.73,Documentation,24.43,68.02
+735,Vzjrt55,"[8, 4, 3, 6, 9, 3, 4, 6, 3, 7, 3, 7, 5, 3, 6]",52.38,Reviewing and Providing Feedback,42.14,28.5
+736,Zchum48,"[3, 5, 5, 0, 4]",51.7,Task Assignment and Scheduling,40.22,32.46
+737,Gtpez13,"[3, 3, 4, 2, 3, 0, 2, 6, 2, 4, 4, 6, 3, 3, 4]",30.88,Reviewing and Providing Feedback,72,0
+738,Fvuur36,"[2, 0, 2, 2, 3, 4, 4, 1, 4, 4]",39.08,Conducting Research,56.8,9.85
+739,Rxjrp24,"[8, 7, 8, 8, 10, 10, 6, 9, 6, 7, 8, 5, 10, 9, 10, 10, 9]",88.59,Conducting Research,16.26,80.64
+740,Thaik16,"[4, 4, 3, 4]",40.56,Reviewing and Providing Feedback,46.37,16.0
+741,Gixcf48,"[9, 5, 7, 7, 8, 8, 8, 10, 7, 7]",74.34,Conducting Research,22.51,77.22
+742,Qijjb64,"[5, 6, 3, 1, 3, 6, 4, 3, 6, 7, 4, 4, 4, 4, 5, 4, 4, 4]",35.47,Working with Spreadsheets and Data,62.75,15.87
+743,Cxqod87,"[5, 5, 8, 8, 10]",76.98,Creating Content and Visuals,8.04,81.55
+744,Zswuh49,"[8, 9, 10, 9, 10, 7, 10, 9, 8, 9, 10, 7, 10]",90.91,Programming,0.1,98.92
+745,Ingfn85,"[9, 7, 7, 5, 8, 5, 9]",70.77,Testing,33.93,63.34
+746,Vhpfj57,"[4, 6, 3, 3, 4, 7, 5, 5, 4, 1, 5, 7, 4, 2, 5, 3, 2, 5, 5, 5]",45.68,Conducting Research,44.87,21.02
+747,Mkwiq23,"[7, 8, 7, 8, 6, 9, 7, 8, 8]",79.47,Programming,19.54,75.37
+748,Eqbmz80,"[2, 1, 2, 4, 8, 4, 5, 7, 6, 4, 3, 7, 6, 5, 7]",49.2,Working with Spreadsheets and Data,48.4,26.61
+749,Jrrzy13,"[10, 10, 9, 8, 10, 10, 10, 9, 9, 9, 9]",90.52,Creating Content and Visuals,6.67,98.35
+750,Pbmow47,"[5, 5, 5]",59.57,Creating Content and Visuals,29.62,44.5
+751,Nymyk94,"[6, 5, 8, 5, 7, 9, 9, 6, 8, 10, 7]",69.0,Reviewing and Providing Feedback,33.26,58.83
+752,Jwrac11,"[6, 8, 4, 8, 8, 7, 6, 3, 8, 5]",64.11,Working with Spreadsheets and Data,31.35,54.7
+753,Wokfe19,"[9, 10, 10, 7, 9, 8, 7, 10, 8, 10]",86.9,Sending Emails and Communication,19.1,81.55
+754,Imsnw24,"[5, 1, 2, 5, 4, 1, 7, 3, 5, 4, 3, 4, 6, 3, 6, 2, 5, 0, 3, 2]",44.88,Testing,48.41,21.29
+755,Zxqlx29,"[8, 10, 9, 7, 10]",83.96,Finalizing and Submitting Work,8.44,78.64
+756,Lnxhn90,"[4, 5, 8, 7, 3]",52.42,Working with Spreadsheets and Data,44.12,40.96
+757,Honnx71,"[3, 5, 0, 5, 3, 2, 5, 2, 2, 3, 6, 4, 1, 2]",35.91,Working with Spreadsheets and Data,46.83,10.54
+758,Bjrgo26,"[5, 3, 3, 3, 3, 5, 3, 4, 5, 6, 6, 5]",37.35,Task Assignment and Scheduling,53.12,13.38
+759,Aueyi68,"[4, 5, 2, 5, 2, 4, 0, 5, 5, 3, 0, 5, 2, 6, 2, 4]",30.61,Conducting Research,57.42,4.62
+760,Vekrj80,"[4, 6, 4]",45.21,Task Assignment and Scheduling,50.89,18.54
+761,Nbzdn53,"[8, 8, 8, 7, 9]",92.91,Conducting Research,13.1,90.44
+762,Aregw20,"[2, 4, 0, 2, 4, 7]",49.64,Testing,45.63,25.42
+763,Jvijg37,"[3, 3, 0, 4, 5]",32.11,Testing,62.16,0.45
+764,Wxpry38,"[5, 5, 4, 6, 4, 9, 3]",60.63,Conducting Research,38.4,41.2
+765,Rljyg98,"[4, 2, 3, 1, 3, 3, 1, 4, 1, 5, 4, 0, 4]",35.05,Reviewing and Providing Feedback,55.51,7.08
+766,Dhycp81,"[8, 7, 8, 5, 10, 10, 6, 7, 7, 8, 8, 7, 9, 9, 8, 9, 7, 7]",72.21,Programming,11.45,68.65
+767,Ownui77,"[10, 10, 9, 10, 9, 10, 10]",97.31,Conducting Research,2.4,97.65
+768,Wdngi21,"[2, 2, 3, 5, 3, 3, 4, 4, 3]",36.68,Finalizing and Submitting Work,55.71,10.88
+769,Guroq96,"[3, 1, 6, 3, 3, 2, 4, 3, 5, 4, 3, 3, 4, 2, 5, 4, 5, 6, 2, 4]",34.93,Finalizing and Submitting Work,50.92,4.8
+770,Byrnn88,"[4, 1, 3, 6, 1, 7, 4, 2, 2, 5, 4, 2, 2, 5]",41.22,Translation,49.31,15.73
+771,Cbsod81,"[7, 8, 10, 10, 8, 10, 6, 8, 10, 9, 8, 9, 9, 9, 9, 8, 6, 10, 7, 10]",88.4,Translation,17.47,81.26
+772,Bmerh39,"[10, 10, 10, 9, 10, 10, 10, 9, 8, 10]",86.82,Sending Emails and Communication,8.89,91.82
+773,Foobv52,"[5, 5, 8, 6, 5, 8, 5, 5, 4, 6, 7, 7]",64.48,Working with Spreadsheets and Data,43.77,49.32
+774,Fapnn95,"[5, 4, 5, 4, 3, 5, 5, 4, 8]",45.92,Translation,33.62,25.01
+775,Bpwep55,"[6, 6, 9, 9, 9, 7, 10, 8, 9, 6, 10, 9, 7, 8, 8, 4, 4, 7, 9]",85.7,Programming,15.07,81.54
+776,Agoer49,"[10, 10, 8]",90.52,Working with Spreadsheets and Data,0.1,100
+777,Eiilu34,"[9, 8, 8, 6, 6, 8, 10, 9, 10, 7, 10, 9, 9]",82.67,Translation,11.08,87.4
+778,Czoxt30,"[9, 8, 7, 10, 10, 7, 10, 7, 8, 10, 8, 6, 8, 8, 7, 10]",79.57,Working with Spreadsheets and Data,21.71,77.17
+779,Gyjcy30,"[10, 10, 10, 8, 10, 9, 7, 9, 8, 10, 9, 9]",95.02,Task Assignment and Scheduling,4.05,95.64
+780,Smrtc10,"[5, 7, 7, 7, 9, 9, 7, 7, 8, 7, 9, 10]",72.18,Task Assignment and Scheduling,23.93,68.03
+781,Hnnvx57,"[5, 1, 2, 1, 4, 5, 3]",41.05,Reviewing and Providing Feedback,62.63,9.13
+782,Tpqrp76,"[9, 9, 8, 10, 10, 10, 8, 10, 9, 9, 10, 8, 10, 8, 10, 9, 9, 10]",88.65,Working with Spreadsheets and Data,4.28,94.64
+783,Jeedr37,"[7, 6, 4, 3, 7, 4, 6, 3, 7, 5, 5, 6, 6, 1, 4]",55.27,Finalizing and Submitting Work,39.47,29.64
+784,Xamto86,"[4, 1, 3, 4, 1, 2, 2, 2, 3, 2, 2, 5, 4, 6, 3, 6, 4, 5, 3]",34.12,Task Assignment and Scheduling,65.45,1.98
+785,Izkna75,"[6, 10, 8, 10, 10, 9, 9, 9, 9, 7, 8, 7, 9, 9, 7, 9, 10]",96.03,Testing,0.1,98.99
+786,Olwfp46,"[6, 8, 10, 8, 10, 9, 8, 6, 10, 10]",86.93,Finalizing and Submitting Work,20.33,81.79
+787,Saetf39,"[3, 1, 4, 5, 1, 3, 3, 2, 0, 4, 3, 3, 5]",31.69,Documentation,53.56,8.61
+788,Kjvbi87,"[6, 1, 0, 3, 4, 4, 3, 5, 5]",32.28,Sending Emails and Communication,58.02,8.07
+789,Tgoaq59,"[8, 6, 5, 6, 8, 10, 7, 10, 8, 9, 8, 6, 8, 7, 7, 7, 10, 7, 10]",82.28,Sending Emails and Communication,26.29,71.57
+790,Xcnfo42,"[1, 3, 4, 0, 3, 1, 2, 4, 2, 3, 0, 4]",34.25,Working with Spreadsheets and Data,60.49,3.47
+791,Qidhi93,"[5, 4, 2, 2, 3, 3, 4, 2, 4, 5, 3, 6, 4, 3]",48.69,Working with Spreadsheets and Data,38.17,29.52
+792,Lulml78,"[10, 10, 10, 9, 10, 10, 10, 9, 9, 8, 8, 9, 10, 9, 10, 7, 10, 9, 10, 7]",97.07,Programming,3.39,97.91
+793,Lyquc76,"[9, 6, 7, 6, 10, 7, 6, 8, 7, 6, 7, 9]",69.05,Conducting Research,14.75,67.28
+794,Okvvx18,"[4, 2, 7, 5, 7, 6, 5, 7, 5, 5, 5, 5, 2, 1, 4, 4, 6, 5, 4, 4]",48.52,Finalizing and Submitting Work,45.65,24.74
+795,Uzbul50,"[8, 5, 8, 8, 8, 6, 9, 7, 7, 7, 6, 7, 7, 10]",80.6,Conducting Research,25.69,78.39
+796,Kusui78,"[10, 10, 9, 7, 10, 10, 6]",95.35,Sending Emails and Communication,4.67,98.19
+797,Mquxt59,"[9, 8, 6, 8, 10, 9, 7]",78.49,Testing,13.91,73.04
+798,Fcwka83,"[8, 5, 8, 7, 9, 7, 5, 6, 7, 9, 7, 7, 5, 6, 7, 8, 8, 5, 8]",74.89,Documentation,20.99,65.76
+799,Yugtm54,"[7, 7, 2, 4, 4, 2, 5, 6, 4, 3, 2, 5, 3, 4, 7]",48.47,Documentation,47.06,25.12
+800,Tmjkh33,"[9, 10, 9, 10, 10, 8, 8, 7, 10, 8, 7, 8, 8, 9, 10, 6, 9]",87.7,Translation,15.84,88.88
+801,Kuvdi95,"[9, 10, 9, 9, 9, 10, 8, 10, 10, 8, 8, 10, 9, 8, 10, 10, 10]",92.57,Working with Spreadsheets and Data,10.32,98.28
+802,Rzdxk28,"[5, 6, 3, 3, 3, 5, 5, 2, 5, 6, 5, 6]",43.14,Working with Spreadsheets and Data,52.01,28.26
+803,Fnglw34,"[3, 4, 5, 6]",49.78,Working with Spreadsheets and Data,46.14,31.63
+804,Mlyln22,"[8, 7, 8, 9, 7, 8, 9, 7, 9, 9, 9, 7, 8, 8, 6, 8, 8, 10]",85.48,Working with Spreadsheets and Data,15.71,77.63
+805,Jndcv44,"[5, 8, 4, 6, 7, 5, 9]",70.0,Reviewing and Providing Feedback,18.66,67.89
+806,Sndfr91,"[5, 5, 4, 3]",61.0,Creating Content and Visuals,33.22,40.06
+807,Autmg29,"[6, 6, 6, 6, 6, 7, 9, 6, 8]",58.21,Finalizing and Submitting Work,34.69,46.61
+808,Agbuo79,"[5, 4, 3, 3, 4, 3, 3, 1, 7]",41.46,Task Assignment and Scheduling,48.16,23.07
+809,Vqxni36,"[6, 5, 6]",71.51,Reviewing and Providing Feedback,21.7,66.91
+810,Ejwyi33,"[7, 7, 4, 5, 5, 5, 4, 5, 6, 6, 5, 7]",59.19,Translation,41.21,48.25
+811,Gjona43,"[5, 7, 10, 5, 2, 4, 5, 7, 8, 8, 7, 6, 5, 6, 5, 8]",62.25,Creating Content and Visuals,30.98,52.79
+812,Eciia23,"[3, 4, 0]",36.73,Translation,47.8,7.27
+813,Gpzqc61,"[10, 10, 10, 10, 8, 9, 8, 10, 10, 10, 9, 10, 10, 10]",89.13,Reviewing and Providing Feedback,7.12,99.87
+814,Hgpyj30,"[2, 2, 3, 2, 2, 3, 4]",40.14,Translation,52.17,7.4
+815,Fsrhg21,"[4, 5, 7, 6, 4, 7, 6]",56.3,Task Assignment and Scheduling,26.18,47.77
+816,Pdhbn90,"[3, 5, 6, 6, 2, 2, 3, 5, 7, 4, 2, 2, 5, 5, 5, 6]",47.85,Documentation,46.41,30.19
+817,Qcowd72,"[2, 4, 3, 3]",34.36,Working with Spreadsheets and Data,53.12,9.83
+818,Rkxiv31,"[10, 10, 9, 8, 9, 9, 9, 10, 8, 8, 10, 6, 9, 9, 5]",87.0,Task Assignment and Scheduling,7.7,95.73
+819,Whbsx87,"[7, 8, 8, 6, 7, 4, 6, 8, 6, 9, 5, 7, 4, 9]",60.45,Conducting Research,24.31,54.09
+820,Yvoix10,"[6, 5, 9, 8, 10, 9]",81.46,Programming,13.4,88.15
+821,Rukgn34,"[5, 5, 4, 8, 5, 2, 6, 4, 5, 5, 4, 6, 5, 3, 3, 6, 7, 5]",52.73,Finalizing and Submitting Work,44.27,33.88
+822,Ierbv45,"[5, 5, 3, 7, 4, 4, 5, 7, 7, 4, 5, 4, 2, 4, 5, 6, 5, 6, 5, 3]",53.2,Documentation,42.62,31.88
+823,Ylmxu83,"[6, 8, 4, 6, 6, 6, 6, 7, 5, 6, 7, 7, 5, 6, 6, 5, 6]",61.38,Task Assignment and Scheduling,32.3,47.64
+824,Irews82,"[7, 9, 8, 10, 10, 7, 10, 8, 8, 7, 10, 10]",98.29,Testing,8.85,98.23
+825,Ygeai53,"[7, 7, 8, 8, 7, 3, 8, 7, 8, 7]",77.17,Conducting Research,26.08,67.34
+826,Uoava35,"[7, 4, 4, 5, 6, 6, 4]",67.61,Reviewing and Providing Feedback,27.63,51.82
+827,Wckgs31,"[4, 6, 4, 6, 7, 6, 4, 6, 5, 6]",63.37,Translation,28.96,51.61
+828,Dwdwp16,"[1, 3, 2, 5, 3, 1, 5, 0, 4, 0]",27.45,Task Assignment and Scheduling,51.56,0.33
+829,Pypog62,"[9, 8, 6, 7, 8, 10, 10, 9, 6, 10]",90.06,Task Assignment and Scheduling,8.98,87.8
+830,Dfjkg41,"[9, 5, 6, 7, 5, 7, 8, 6, 5]",52.6,Translation,37.13,27.23
+831,Eoqgm77,"[8, 7, 5, 8, 7, 9, 6, 7, 8, 8, 10, 8, 7, 7, 9, 6, 8, 5, 10, 6]",74.51,Creating Content and Visuals,17.77,76.95
+832,Dqtah78,"[10, 8, 8, 10]",89.78,Creating Content and Visuals,19.57,90.41
+833,Ehhwg59,"[1, 4, 2, 2, 4]",33.2,Documentation,71.63,3.88
+834,Urncg32,"[6, 6, 5, 7, 7, 7, 7, 7, 7, 5, 8, 8, 7, 8, 8, 9, 7]",74.98,Programming,25.03,67.36
+835,Srsky64,"[4, 4, 3, 4, 0]",29.77,Programming,60.43,0.38
+836,Bsucr76,"[2, 5, 5, 6, 6, 7, 4, 4, 4, 7, 4, 6]",47.98,Conducting Research,40.46,33.1
+837,Akxmd91,"[1, 1, 1, 3, 1, 4, 2, 1]",36.67,Creating Content and Visuals,56.19,3.02
+838,Ljxvf24,"[2, 4, 5, 1, 1, 5, 3, 3, 2, 0, 1, 2, 5]",28.55,Creating Content and Visuals,56.2,0.93
+839,Wkwlu92,"[9, 10, 8, 10, 9, 10, 9, 8, 6, 10, 10, 10, 9]",91.56,Sending Emails and Communication,8.74,92.91
+840,Lzmvd83,"[3, 3, 4, 4, 7, 5, 2, 5, 3, 3, 4, 3, 5, 5, 5]",47.85,Sending Emails and Communication,46.41,21.78
+841,Tjeuz47,"[7, 9, 7, 5, 5, 6]",67.85,Creating Content and Visuals,31.77,51.76
+842,Zqgnr60,"[0, 3, 0, 3, 3, 6, 2, 3, 2]",29.75,Task Assignment and Scheduling,59.23,3.5
+843,Vpwyw83,"[4, 5, 2, 1, 2, 4, 2, 3, 4, 8, 4, 2, 6, 2, 2, 4, 2, 2]",41.14,Reviewing and Providing Feedback,58.68,14.52
+844,Rackb35,"[8, 10, 9, 10, 9, 10]",89.96,Creating Content and Visuals,18.96,94.85
+845,Kxlpf31,"[9, 9, 7, 7, 9, 7, 9, 10, 7, 7, 9, 9, 7, 8, 9, 9]",87.05,Conducting Research,16.67,84.85
+846,Dldcu98,"[8, 7, 7, 10, 7, 10, 10, 10, 9, 9, 9, 8]",92.34,Creating Content and Visuals,10.84,91.18
+847,Gewmt72,"[6, 1, 2, 4, 3, 3, 4, 4, 5, 7, 3, 4, 4, 4, 2, 5, 2, 2, 4, 4]",49.42,Programming,43.05,22.77
+848,Fqpiu69,"[7, 8, 8, 3, 5, 10, 6, 7, 8]",83.9,Conducting Research,22.66,78.02
+849,Njtdq42,"[4, 6, 8, 6, 5, 7, 6, 7, 6, 8, 6, 7, 7, 8]",65.07,Translation,29.41,56.76
+850,Vhvev29,"[4, 7, 4, 6, 4, 6, 6, 4, 6, 4, 4, 6, 5, 3, 6, 7, 5, 4, 7]",52.83,Finalizing and Submitting Work,37.41,37.36
+851,Wyvyt65,"[7, 4, 4, 4, 5, 7, 4, 4, 7, 6, 5, 9, 5, 8, 7, 6, 5, 4, 8, 6]",61.6,Sending Emails and Communication,28.1,42.28
+852,Kizgp89,"[8, 9, 7, 7, 6, 7, 8, 9, 7, 9, 7, 6, 6, 7, 8, 7, 4, 7, 7, 6]",70.27,Sending Emails and Communication,23.5,62.89
+853,Tysdh64,"[6, 7, 7, 8, 6, 7, 7, 10, 7, 7, 8, 9, 8, 7]",73.21,Reviewing and Providing Feedback,28.4,71.31
+854,Xckbz86,"[7, 8, 10, 8, 10, 9, 9, 10, 9, 9, 8, 10, 10, 10, 7, 8]",86.46,Testing,5.38,87.33
+855,Uwsnk93,"[10, 7, 10, 9, 10, 9, 7, 6, 7, 10]",90.94,Testing,9.55,97.32
+856,Jfrmo59,"[10, 10, 8, 10, 10, 9, 10, 8, 10, 9]",94.24,Testing,4.49,90.63
+857,Kiyzt79,"[9, 10, 6, 9, 8, 10, 8, 7, 6, 6, 10, 8]",78.93,Reviewing and Providing Feedback,18.02,81.38
+858,Eknjo46,"[4, 6, 3, 2, 7, 4, 3, 5, 7, 6, 6, 3, 6]",45.28,Translation,46.01,26.65
+859,Lyeyj69,"[10, 9, 7]",74.98,Reviewing and Providing Feedback,17.99,70.73
+860,Rdyps29,"[6, 5, 3, 5, 7, 6, 7, 4, 7, 5, 5, 5]",49.93,Testing,42.35,33.02
+861,Cdsok98,"[4, 10, 4, 7, 5, 5, 2, 7, 5, 6, 4]",60.94,Programming,30.35,51.23
+862,Xhkhn93,"[9, 7, 7, 5, 6, 6, 5, 7, 4, 6, 6, 6, 3, 7, 8, 4, 6, 6, 5]",53.9,Documentation,32.73,40.38
+863,Unssh77,"[3, 4, 0, 2, 3, 3, 2, 5, 4, 4, 2, 1, 3]",34.02,Documentation,60.68,8.01
+864,Vodbb62,"[9, 6, 7, 9, 8, 9]",76.85,Programming,21.63,72.93
+865,Vuzye30,"[4, 4, 0, 4, 4]",44.6,Sending Emails and Communication,44.44,19.12
+866,Uivbq99,"[3, 4, 2, 2, 6, 6, 2, 3, 3, 4, 1, 3, 2, 3]",38.14,Conducting Research,49.65,3.6
+867,Stcol16,"[5, 6, 6, 8, 6, 8, 4]",59.32,Translation,35.59,52.33
+868,Zuvtk41,"[4, 0, 9, 7, 7, 5]",54.49,Sending Emails and Communication,56.26,33.28
+869,Uorqe33,"[3, 6, 7, 4, 3, 4, 7, 3]",45.49,Task Assignment and Scheduling,45.09,29.68
+870,Oyvdw28,"[5, 4, 4, 5, 7, 5, 5, 5]",51.84,Reviewing and Providing Feedback,47.91,32.61
+871,Uptoj82,"[3, 4, 4, 5, 6, 6, 6, 4, 6, 7, 4, 4, 4, 4, 9, 7, 6, 5]",53.91,Translation,47.26,31.67
+872,Gnffw99,"[5, 2, 5, 3, 7, 6, 4, 3, 4, 6, 3, 5, 4, 8, 3, 4, 2, 7, 3]",43.74,Creating Content and Visuals,54.08,21.33
+873,Wnrgn24,"[7, 2, 6, 5, 5, 3, 4, 5, 2]",51.88,Reviewing and Providing Feedback,42.73,29.94
+874,Gdeqw66,"[6, 6, 6, 6, 6, 6, 6, 4, 6, 8, 6, 4, 9, 4, 5, 3, 6]",58.47,Sending Emails and Communication,34.52,41.33
+875,Lprac28,"[4, 3, 6, 4, 6, 5, 5, 4, 5, 5, 4]",57.07,Conducting Research,46.4,37.51
+876,Xbppr98,"[6, 7, 7, 9, 5, 10, 4, 5, 8, 5, 5, 8, 7, 6, 4, 6, 8, 7]",69.0,Reviewing and Providing Feedback,23.93,61.41
+877,Nihle89,"[10, 10, 8, 6, 6, 8, 6, 10, 8, 10, 9, 5, 8, 10, 6]",76.98,Translation,13.36,79.82
+878,Csina92,"[3, 8, 5, 6, 9, 4, 4, 7, 2, 5, 5, 4, 5, 6]",57.02,Creating Content and Visuals,41.28,44.48
+879,Yzrba92,"[7, 8, 5, 7, 8, 6, 6, 9, 8, 5, 7, 7, 7, 4, 8, 2, 7, 7, 7]",73.27,Documentation,13.43,63.46
+880,Tzwey27,"[4, 3, 3, 2, 3, 1, 6]",27.83,Programming,59.49,1.19
+881,Gtwvp31,"[9, 9, 10, 8, 10, 10, 8, 9, 10, 10, 9, 7, 10, 9, 9, 10, 10, 9, 10, 8]",92.52,Creating Content and Visuals,7.48,96.13
+882,Blsed76,"[8, 9, 8, 6, 8, 9, 6, 9, 9, 10]",91.01,Working with Spreadsheets and Data,15.22,86.79
+883,Ncmck17,"[5, 6, 7, 5, 6, 8, 8, 5, 4]",62.61,Documentation,36.51,54.93
+884,Hdyem92,"[5, 6, 6, 7, 7, 6, 5, 6, 7, 9, 6]",61.01,Testing,40.32,48.3
+885,Jsodg38,"[4, 4, 3, 7, 7, 4, 3, 4, 5, 5, 5, 3, 3, 4, 6, 5, 5, 4, 2]",42.75,Task Assignment and Scheduling,47.0,23.79
+886,Eolld35,"[7, 9, 7, 10, 10, 10, 7, 7, 10, 7, 6, 8, 10]",88.45,Reviewing and Providing Feedback,17.37,83.65
+887,Ovimv69,"[5, 5, 7, 3, 4, 3, 5, 0, 4, 3, 3, 6, 3, 6, 7, 3]",43.69,Testing,46.58,20.51
+888,Aovck49,"[5, 4, 6, 5, 3, 2, 3, 7, 1]",36.58,Sending Emails and Communication,51.49,15.42
+889,Konei40,"[3, 5, 7, 6, 6, 3, 4, 5, 2, 5, 5, 4, 4, 6, 7, 5, 4, 6, 7]",58.73,Reviewing and Providing Feedback,22.91,35.47
+890,Rclyc78,"[8, 7, 6, 8, 8, 8]",66.42,Conducting Research,22.43,61.36
+891,Oxunr56,"[3, 3, 5, 6, 5, 6, 5]",42.76,Translation,43.77,22.5
+892,Xptrq59,"[2, 4, 2, 2, 3]",40.11,Documentation,53.6,14.35
+893,Lssde79,"[9, 6, 9, 6, 9]",76.93,Documentation,14.43,79.53
+894,Dfsew32,"[8, 7, 5, 5, 7, 9, 8, 4, 7, 4, 1, 9, 7, 5, 8, 9]",65.46,Working with Spreadsheets and Data,30.36,55.86
+895,Ggvsv79,"[4, 3, 2, 3, 1, 5, 1, 2, 3, 5, 4, 3, 4, 6]",34.26,Programming,67.33,3.11
+896,Nvohb57,"[2, 3, 6]",33.44,Finalizing and Submitting Work,65.88,1.86
+897,Dehzv92,"[2, 3, 2, 3, 4, 3, 4, 5, 4, 0, 2, 2]",31.38,Translation,57.99,0
+898,Tbplq38,"[8, 6, 7]",75.86,Reviewing and Providing Feedback,17.5,76.91
+899,Ekgab74,"[9, 8, 10, 9, 6, 7, 5, 8, 7, 9, 5, 6, 10, 9, 6, 10, 8, 8, 6, 7]",82.13,Conducting Research,23.17,72.09
+900,Msbmz21,"[8, 3, 5]",49.08,Testing,31.49,35.81
+901,Xhiyj20,"[2, 4, 6, 5, 5, 4, 4, 3, 5, 3, 6]",47.98,Sending Emails and Communication,49.02,26.85
+902,Fygfe46,"[7, 7, 7]",62.86,Testing,30.53,50.83
+903,Kdoym40,"[8, 8, 9, 8, 10, 5, 8, 10, 8, 10, 10]",94.31,Testing,8.83,98.3
+904,Tgyan33,"[10, 9, 7, 9, 9, 8, 8, 8, 10, 8, 10, 9, 8, 9, 8, 9, 10, 9, 8]",92.13,Conducting Research,9.03,98.26
+905,Efrpd92,"[5, 6, 5]",41.95,Documentation,44.86,21.16
+906,Eqmgt78,"[7, 9, 9, 10]",88.8,Reviewing and Providing Feedback,5.19,96.44
+907,Izjil83,"[6, 6, 4, 4, 4, 6]",56.8,Reviewing and Providing Feedback,24.67,41.54
+908,Tfumh31,"[7, 8, 7, 7, 8, 8, 7, 9, 9, 7, 8, 7, 6, 5, 10, 9, 7]",76.36,Conducting Research,18.89,65.11
+909,Uhpdy73,"[7, 5, 8, 6, 4, 6, 6, 5, 6, 5, 5, 6, 6, 1, 7, 7, 2]",63.58,Task Assignment and Scheduling,22.35,53.24
+910,Lppcm33,"[4, 5, 6, 5, 6, 3, 4, 5, 6, 5, 6, 7, 5, 5]",53.38,Creating Content and Visuals,50.37,32.07
+911,Hkidk58,"[10, 10, 8, 8, 10, 10, 9, 10, 10, 10, 8, 7, 10, 9, 10]",90.78,Documentation,12.23,97.82
+912,Dnwyy38,"[5, 3, 6, 5, 3, 7, 6]",50.71,Testing,39.01,31.69
+913,Oevgc15,"[8, 5, 9, 8, 8, 6, 7, 9, 9, 6]",73.32,Reviewing and Providing Feedback,21.93,64.65
+914,Atdrt29,"[3, 4, 3, 3, 2, 2, 3, 4]",30.71,Reviewing and Providing Feedback,66.68,0
+915,Tqajh26,"[3, 4, 3, 4, 1, 3]",38.56,Programming,50.74,14.84
+916,Luouv83,"[9, 9, 6, 8, 8, 5, 8]",71.81,Sending Emails and Communication,28.06,71.45
+917,Hqdoz18,"[6, 6, 6, 6]",56.62,Translation,35.51,40.07
+918,Xonva83,"[5, 5, 7, 9, 5, 7, 6, 6, 7, 9, 4, 7, 8, 9, 6, 7, 9]",66.67,Translation,30.8,49.91
+919,Sbtpn80,"[4, 7, 6, 6, 3, 6, 5, 5, 4, 1, 4, 6, 4, 4]",48.12,Documentation,36.79,29.09
+920,Qsxqc93,"[10, 9, 9, 8, 9, 10]",92.7,Creating Content and Visuals,7.97,97.65
+921,Wwhiz22,"[5, 7, 6, 2, 5, 4, 3, 6, 5, 3, 6, 4, 7, 5, 5, 6]",54.7,Task Assignment and Scheduling,49.38,31.01
+922,Ouglx94,"[10, 10, 7, 8, 7]",87.3,Finalizing and Submitting Work,11.09,92.51
+923,Pduaw78,"[6, 8, 10, 10, 9, 8, 7, 5, 8, 7, 6]",79.14,Reviewing and Providing Feedback,25.29,68.56
+924,Ndsxq56,"[7, 5, 7, 6, 9, 10, 7, 7, 10, 10, 6, 8, 7, 10, 8, 8, 8, 10]",76.05,Working with Spreadsheets and Data,19.79,77.16
+925,Icwhl56,"[3, 4, 5, 6, 4, 4, 3, 3, 7, 8, 5, 3, 6, 7, 5, 5, 6]",58.11,Task Assignment and Scheduling,35.1,39.58
+926,Suojs91,"[8, 6, 10, 7, 8, 7]",65.07,Working with Spreadsheets and Data,20.11,62.96
+927,Sirvc76,"[5, 6, 4, 5, 2]",56.12,Programming,32.22,36.21
+928,Bunmk78,"[9, 8, 8, 5, 7, 9]",80.73,Documentation,13.26,82.72
+929,Fyrha87,"[6, 8, 6, 8, 8, 4, 7, 7, 7, 9, 8, 5]",74.16,Working with Spreadsheets and Data,29.63,59.64
+930,Mcxgq85,"[3, 0, 5, 5, 5]",43.9,Conducting Research,53.44,16.4
+931,Gwfgm56,"[7, 7, 8, 7, 4, 7, 4, 5, 5, 6, 5, 7, 5, 6, 8, 4, 6, 6, 8, 6]",63.08,Documentation,31.18,55.57
+932,Zijvs79,"[7, 4, 5, 9, 5, 6, 4, 6, 8, 5]",72.53,Task Assignment and Scheduling,27.37,63.61
+933,Fnyap38,"[9, 10, 10, 6, 10, 8, 7, 6, 9]",78.3,Documentation,23.51,81.5
+934,Anuyk41,"[6, 3, 7, 3, 3, 8, 5, 8, 6, 5, 6, 6, 7, 3, 8, 3, 6, 4]",51.58,Testing,45.17,37.72
+935,Evtbp41,"[8, 10, 10, 10, 10, 10, 8, 10, 8]",90.96,Testing,13.48,93.57
+936,Arqzq78,"[6, 7, 9, 6, 6, 7, 7, 7, 10, 7, 5, 7, 6, 4]",67.4,Testing,21.63,58.8
+937,Scsxw65,"[5, 5, 8]",65.34,Task Assignment and Scheduling,33.69,56.9
+938,Ixwnq92,"[6, 7, 7, 8, 9, 6, 8, 8, 5, 9]",72.67,Conducting Research,17.3,70.69
+939,Kktxv26,"[7, 6, 9]",79.3,Reviewing and Providing Feedback,17.14,81.76
+940,Kyxll19,"[5, 3, 5, 2, 2, 3, 6, 6, 4, 0]",37.11,Testing,56.44,8.8
+941,Aysmu66,"[7, 9, 7, 10, 10, 8, 9, 9, 8]",87.07,Testing,15.0,79.43
+942,Gkghf42,"[3, 5, 5, 4, 5, 4, 5, 2, 3, 4, 2, 2, 4, 5, 5, 6, 4, 5]",48.12,Task Assignment and Scheduling,41.2,26.19
+943,Tvbtg14,"[4, 4, 2, 6, 2, 6, 4, 2, 3, 7, 8, 2]",41.77,Working with Spreadsheets and Data,49.71,17.35
+944,Hzwlt92,"[6, 5, 6, 7, 7, 5]",63.3,Documentation,24.95,58.68
+945,Ezcpx65,"[8, 8, 9, 10, 10, 7, 8, 9]",89.67,Working with Spreadsheets and Data,7.21,94.29
+946,Pvgqp19,"[6, 4, 3, 4, 8, 4, 4, 3, 5, 4, 6, 5]",49.31,Task Assignment and Scheduling,31.29,38.18
+947,Aowsu98,"[6, 6, 9, 7, 5, 2, 4, 5, 6]",63.19,Translation,31.3,47.31
+948,Rvlhc95,"[10, 8, 6, 6, 10, 10, 10, 9]",78.83,Reviewing and Providing Feedback,17.66,85.25
+949,Ocbjf84,"[7, 8, 9, 7, 9, 9, 8, 7, 10, 9, 9, 10, 10, 7, 6, 9, 9, 10]",92.61,Translation,8.61,87.02
+950,Vtxql48,"[7, 9, 7, 6, 7, 9, 6]",70.25,Reviewing and Providing Feedback,28.18,62.18
+951,Iqyba37,"[3, 8, 7, 8, 7, 8]",69.67,Finalizing and Submitting Work,18.11,69.47
+952,Aogaa29,"[0, 4, 1, 0, 1, 2, 0, 4, 2, 2, 5, 2]",29.39,Conducting Research,68.96,7.71
+953,Kgakn13,"[6, 8, 8, 8, 6, 9, 6, 7, 6, 5, 5, 5, 5, 6, 5]",66.45,Testing,31.36,52.48
+954,Mqkkl35,"[8, 8, 8, 6, 6, 6, 5, 10, 5, 5, 7, 6, 7, 6, 10]",65.4,Working with Spreadsheets and Data,27.87,56.54
+955,Zdxhb37,"[4, 5, 7, 4, 7, 4, 4, 3, 5, 3, 3]",49.53,Translation,41.61,28.55
+956,Uvmgh52,"[6, 6, 4, 4, 3, 4, 6, 5, 7, 5, 4, 4, 3, 5, 3, 3, 7, 7, 7, 7]",48.02,Programming,38.69,31.51
+957,Vdwjn90,"[8, 10, 6, 8, 10, 7, 9, 9, 10, 9, 5, 8, 9, 9, 10, 8]",86.26,Reviewing and Providing Feedback,11.44,81.11
+958,Rared18,"[9, 8, 9, 9, 7, 9, 8, 8, 10]",88.02,Sending Emails and Communication,15.3,86.86
+959,Nrylv76,"[10, 9, 10, 9, 10, 9, 8]",88.44,Working with Spreadsheets and Data,9.91,95.81
+960,Yttde37,"[8, 9, 9, 8, 10, 10, 7, 8, 9, 10, 10, 9, 8, 10, 10, 9]",90.49,Programming,4.18,97.96
+961,Beqvi31,"[6, 3, 6]",55.36,Documentation,39.1,38.33
+962,Vqlyt85,"[8, 5, 7, 7, 7, 5, 4, 5, 7, 5, 6, 7, 6, 7, 8, 1]",63.69,Programming,37.05,43.79
+963,Zneht84,"[3, 6, 4, 6, 3, 5, 3, 7, 5, 4, 8, 3]",58.25,Documentation,40.07,35.46
+964,Xmipt48,"[6, 7, 5, 4, 3, 6, 7]",66.0,Documentation,27.28,54.3
+965,Xbrsm81,"[3, 7, 3, 6, 4, 1, 4, 2, 4, 3, 4, 7]",39.06,Finalizing and Submitting Work,58.71,13.52
+966,Iwbfs84,"[10, 8, 10, 9]",80.89,Testing,8.1,76.8
+967,Qrbfx29,"[5, 7, 5, 7, 5, 8, 6, 9, 5, 9, 8, 5]",79.67,Documentation,20.76,68.65
+968,Nskvz32,"[9, 10, 8, 9]",87.87,Testing,18.83,87.54
+969,Hilab78,"[6, 4, 3, 6, 5, 4, 9, 5, 9, 4, 9, 8]",71.91,Task Assignment and Scheduling,22.4,67.3
+970,Haprr23,"[5, 7, 6, 3, 5, 4, 4, 8, 3, 4, 3, 6, 5, 5, 6, 5]",58.91,Task Assignment and Scheduling,35.37,45.58
+971,Fksko80,"[6, 8, 7, 7, 6, 7, 5, 4, 8, 5, 5, 5, 5]",57.94,Conducting Research,29.71,41.92
+972,Yfdff51,"[5, 3, 5, 9, 9]",72.9,Creating Content and Visuals,28.73,60.76
+973,Vtswf78,"[8, 8, 9, 10, 9, 5]",79.95,Working with Spreadsheets and Data,16.06,71.96
+974,Sqvyg97,"[7, 4, 9, 10, 8, 6, 10, 10, 7, 9, 9, 9, 7, 10]",91.76,Testing,3.66,94.67
+975,Iftav71,"[9, 7, 10, 9, 4, 8, 7, 10, 6, 6, 6, 8, 8, 9, 6, 8, 8, 7, 8]",72.21,Reviewing and Providing Feedback,13.09,75.14
+976,Kuoun60,"[6, 7, 9, 5, 7, 6, 9, 5, 8, 9, 9, 9, 8, 7, 8, 5, 9, 6, 6]",74.74,Working with Spreadsheets and Data,15.84,64.18
+977,Hltwe49,"[6, 5, 5, 7, 7, 7, 9, 8, 7, 5, 8, 7, 7, 7, 7, 7, 5, 9]",68.93,Programming,24.92,61.47
+978,Dsaif95,"[8, 8, 7, 4, 8, 4, 7, 6, 5, 7, 9, 7, 8, 5, 6, 9, 6, 7, 9]",71.02,Reviewing and Providing Feedback,20.5,61.92
+979,Wsbch35,"[10, 8, 7, 9, 7, 10, 10, 8, 10, 10, 6, 5, 7, 9]",91.0,Testing,12.74,90.25
+980,Mmyua61,"[8, 7, 10, 10, 8, 6]",97.18,Sending Emails and Communication,7.05,97.41
+981,Adnnh90,"[6, 10, 8, 6, 8, 10, 8, 6, 7, 5]",75.26,Testing,11.52,72.73
+982,Igdtd40,"[6, 7, 9, 6, 6, 5, 4, 6, 1, 4, 7, 8, 6, 6, 6, 5, 8]",65.55,Documentation,29.67,49.06
+983,Zctfb29,"[5, 8, 8, 7, 7, 7, 7]",64.91,Reviewing and Providing Feedback,32.21,57.86
+984,Jacvz89,"[7, 5, 4, 5, 6, 5, 5, 4, 9, 5, 4, 4, 3, 3, 6, 5]",51.94,Sending Emails and Communication,38.62,39.06
+985,Oiuut56,"[10, 8, 10, 10, 5, 9, 10, 10, 6, 9]",93.79,Documentation,1.05,94.03
+986,Jeiyk24,"[7, 7, 8, 7, 10, 6, 7, 7, 6, 4]",80.8,Programming,18.36,74.25
+987,Vtmsm27,"[4, 3, 4]",38.14,Testing,57.03,9.39
+988,Uliza56,"[8, 9, 7, 8, 9, 10]",84.37,Documentation,5.07,84.11
+989,Wyuji27,"[4, 2, 4, 5, 5, 3, 5, 2, 2]",44.17,Testing,55.8,21.86
+990,Fuisu72,"[4, 5, 5, 3, 3, 2, 3, 2]",33.51,Documentation,60.24,8.56
+991,Qcjri31,"[2, 3, 2, 4, 2, 3, 2, 2, 2, 2, 3, 6, 1, 1, 1, 3, 5]",36.61,Conducting Research,56.65,4.27
+992,Hzztj80,"[3, 5, 4, 4, 2, 8, 1, 2, 4, 3]",44.9,Sending Emails and Communication,50.9,21.44
+993,Racsw76,"[5, 3, 6, 5, 3, 2, 6, 2, 4, 4, 3, 2]",41.77,Working with Spreadsheets and Data,53.52,15.19
+994,Suxfh89,"[9, 9, 10, 7, 9, 7, 8, 8]",81.42,Conducting Research,7.07,81.56
+995,Xkxun56,"[5, 9, 9, 5, 8, 7, 7, 6, 6, 5, 7, 6, 8, 9, 5]",66.32,Creating Content and Visuals,25.62,63.09
+996,Ktlwe15,"[6, 5, 4, 5]",53.6,Finalizing and Submitting Work,31.45,30.05
+997,Yzbmd43,"[5, 7, 6, 2, 7, 6, 3, 4, 6, 5, 6, 5, 6]",49.58,Finalizing and Submitting Work,35.05,32.19
+998,Tnons19,"[8, 7, 4, 3, 7, 7, 6, 3, 7, 5, 6, 7, 9]",67.65,Finalizing and Submitting Work,32.53,52.42
+999,Vcdci37,"[5, 8, 6, 6, 9, 6, 4, 5, 8, 3, 6]",75.13,Documentation,23.48,67.74
+1000,Cyxvi90,"[8, 4, 9, 6, 9, 8, 5, 7, 10, 6, 8, 9, 5, 9, 10, 4, 8]",76.7,Reviewing and Providing Feedback,17.63,70.53
