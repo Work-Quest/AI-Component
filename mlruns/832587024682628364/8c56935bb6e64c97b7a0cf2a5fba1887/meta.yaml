@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/832587024682628364/8c56935bb6e64c97b7a0cf2a5fba1887/artifacts
+end_time: 1746806563587
+entry_point_name: ''
+experiment_id: '832587024682628364'
+lifecycle_stage: active
+run_id: 8c56935bb6e64c97b7a0cf2a5fba1887
+run_name: K-means Role Categorization Version 1
+run_uuid: 8c56935bb6e64c97b7a0cf2a5fba1887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746806558939
+status: 3
+tags: []
+user_id: PC

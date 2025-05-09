@@ -10,7 +10,7 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
 from mlflow.models import infer_signature
 from mlflow.pyfunc import PythonModel
-
+import joblib
 
 EXPERIMENT_NAME = "K-means Role Categorization"
 ARTIFACT_DIR = "artifacts"
@@ -235,9 +235,9 @@ def main():
             sample_output = model.predict(model_input=sample_input)
             signature = infer_signature(sample_input, sample_output)
 
-            joblib.dump(kmeans, os.path.join(ARTIFACT_DIR, "kmeans_model.pkl"))
-            joblib.dump(scaler, os.path.join(ARTIFACT_DIR, "scaler.pkl"))
-            joblib.dump(pca, os.path.join(ARTIFACT_DIR, "pca.pkl"))
+            joblib.dump(kmeans, os.path.join("model", "kmeans_model.pkl"))
+            joblib.dump(scaler, os.path.join("model", "scaler.pkl"))
+            joblib.dump(pca, os.path.join("model", "pca.pkl"))
             with open(os.path.join(ARTIFACT_DIR, "role_mapping.json"), "w") as f:
                 json.dump(role_mapping, f)
             with open(os.path.join(ARTIFACT_DIR, "feature_names.json"), "w") as f:

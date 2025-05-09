@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/work%20project/workquest/AI-Component/mlruns/0/10d9a233a39a49f88e324705e5042a2c/artifacts
+end_time: 1746809746441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10d9a233a39a49f88e324705e5042a2c
+run_name: KMeans_PCA_GPT_Pipeline
+run_uuid: 10d9a233a39a49f88e324705e5042a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746809743824
+status: 3
+tags: []
+user_id: PC
