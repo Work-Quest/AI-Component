@@ -132,7 +132,7 @@ def plot_metrics_comparison(metrics, output_path):
 
 def main():
     # Load dataset
-    dataset_path = "./data-mockup/task-category-dataset.csv"
+    dataset_path = "./dataset/task-category-dataset.csv"
     df = load_data(dataset_path)
     df = df.dropna()
 
@@ -160,7 +160,7 @@ def main():
         mlflow.log_param("test_size", len(df))
         
         # Create output directory for artifacts
-        output_dir = "model_comparison_results"
+        output_dir = "model_comparison_results/task_classification/v1"
         os.makedirs(output_dir, exist_ok=True)
         
         # Evaluate each model

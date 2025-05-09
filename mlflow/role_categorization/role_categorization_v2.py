@@ -41,7 +41,7 @@ work_categories = [
 EXPERIMENT_NAME = "K-means Role Categorization"
 ARTIFACT_DIR = "artifacts"
 TRACKING_URI = "http://127.0.0.1:8080"
-CSV_INPUT = "./data-mockup/k-means-train-data.csv"
+CSV_INPUT = "./dataset/k-means-train-data.csv"
 N_CLUSTERS = 7
 
 # Setup MLflow
