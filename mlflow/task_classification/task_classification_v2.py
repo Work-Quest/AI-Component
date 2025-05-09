@@ -18,13 +18,22 @@ MODELS = [
 ]
 
 # Work categories to predict from
+# work_categories = [
+#     "Research", "Writing", "Presentation Design", "Presenting", "Planning",
+#     "Programming", "Graphic Design", "Spreadsheet Work", "Problem Solving",
+#     "Content Creation", "Script Writing", "Reviewing", "Documentation", "Testing",
+#     "Report Formatting", "Translation", "Drawing/Illustration", "Code Review",
+#     "Diagram Creation", "Flowchart Design", "Mockup Design", "Storyboarding",
+#     "Email Writing", "Peer Review", "Reference Finding", "Submitting"
+# ]
+# Select label from confusion
 work_categories = [
-    "Research", "Writing", "Presentation Design", "Presenting", "Planning",
-    "Programming", "Graphic Design", "Spreadsheet Work", "Problem Solving",
-    "Content Creation", "Script Writing", "Reviewing", "Documentation", "Testing",
-    "Report Formatting", "Translation", "Drawing/Illustration", "Code Review",
-    "Diagram Creation", "Flowchart Design", "Mockup Design", "Storyboarding",
-    "Email Writing", "Peer Review", "Reference Finding", "Submitting"
+    "Research", "Presentation Design", "Planning",
+    "Programming", "Graphic Design", "Spreadsheet Work",
+    "Content Creation", "Reviewing", "Documentation", "Testing",
+    "Translation", "Drawing/Illustration", "Writing"
+    "Diagram Creation", 
+    "Email Writing", "Reference Finding", "Submitting"
 ]
 
 def load_data(file_path):
@@ -132,7 +141,7 @@ def plot_metrics_comparison(metrics, output_path):
 
 def main():
     # Load dataset
-    dataset_path = "./dataset/task-category-dataset-v1.csv"
+    dataset_path = "./dataset/task-category-dataset-v2.csv"
     df = load_data(dataset_path)
     df = df.dropna()
 
@@ -160,7 +169,7 @@ def main():
         mlflow.log_param("test_size", len(df))
         
         # Create output directory for artifacts
-        output_dir = "model_comparison_results/task_classification/v1"
+        output_dir = "model_comparison_results/task_classification/v2"
         os.makedirs(output_dir, exist_ok=True)
         
         # Evaluate each model
