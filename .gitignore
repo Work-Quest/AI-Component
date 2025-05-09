@@ -78,15 +78,15 @@ coverage.xml
 *.sqlite
 *.db
 
-# MLflow, models, experiments
-mlruns/
-mlartifacts/
-artifacts/
-*.pkl
-*.joblib
-*.json
-*.csv
-*.png
+# # MLflow, models, experiments
+# mlruns/
+# mlartifacts/
+# artifacts/
+# *.pkl
+# *.joblib
+# *.json
+# *.csv
+# *.png
 
 # OS files
 .DS_Store
