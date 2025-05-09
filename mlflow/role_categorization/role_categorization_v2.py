@@ -155,6 +155,7 @@ class TeamRoleClusteringModel(PythonModel):
             print(f"Error during prediction: {e}")
             raise
 
+
 def main():
     """Main function to execute the K-means role categorization."""
     try:
@@ -244,7 +245,7 @@ def main():
                 index=False
             )
             
-            mlflow.log_artifact("kmeans_role_categorization_assignments_v2.csv")
+            mlflow.log_artifact("output-data/kmeans_role_categorization_assignments_v2.csv")
 
     except Exception as e:
         print(f"Error during the main execution: {e}")

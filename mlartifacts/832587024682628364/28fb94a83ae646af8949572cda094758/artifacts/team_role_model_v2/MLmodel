@@ -1,0 +1,71 @@
+artifact_path: team_role_model_v2
+flavors:
+  python_function:
+    artifacts:
+      feature_names_v2:
+        path: artifacts\feature_names_v2.json
+        uri: artifacts\feature_names_v2.json
+      kmeans_model_v2:
+        path: artifacts\kmeans_model_v2.pkl
+        uri: artifacts\kmeans_model_v2.pkl
+      pca_v2:
+        path: artifacts\pca_v2.pkl
+        uri: artifacts\pca_v2.pkl
+      role_mapping_v2:
+        path: artifacts\role_mapping_v2.json
+        uri: artifacts\role_mapping_v2.json
+      scaler_v2:
+        path: artifacts\scaler_v2.pkl
+        uri: artifacts\scaler_v2.pkl
+    cloudpickle_version: 3.1.1
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.13.2
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 42372
+model_uuid: 77d9fc2f3c704621bd8f1ce81a899a49
+prompts: null
+run_id: 28fb94a83ae646af8949572cda094758
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "avg_workload", "required": true}, {"type":
+    "double", "name": "team_work", "required": true}, {"type": "double", "name": "work_speed",
+    "required": true}, {"type": "double", "name": "overall_quality_score", "required":
+    true}, {"type": "double", "name": "work_category_Code Review", "required": true},
+    {"type": "double", "name": "work_category_Content Creation", "required": true},
+    {"type": "double", "name": "work_category_Diagram Creation", "required": true},
+    {"type": "double", "name": "work_category_Documentation", "required": true}, {"type":
+    "double", "name": "work_category_Drawing/Illustration", "required": true}, {"type":
+    "double", "name": "work_category_Email Writing", "required": true}, {"type": "double",
+    "name": "work_category_Flowchart Design", "required": true}, {"type": "double",
+    "name": "work_category_Graphic Design", "required": true}, {"type": "double",
+    "name": "work_category_Mockup Design", "required": true}, {"type": "double", "name":
+    "work_category_Peer Review", "required": true}, {"type": "double", "name": "work_category_Planning",
+    "required": true}, {"type": "double", "name": "work_category_Presentation Design",
+    "required": true}, {"type": "double", "name": "work_category_Presenting", "required":
+    true}, {"type": "double", "name": "work_category_Problem Solving", "required":
+    true}, {"type": "double", "name": "work_category_Programming", "required": true},
+    {"type": "double", "name": "work_category_Reference Finding", "required": true},
+    {"type": "double", "name": "work_category_Report Formatting", "required": true},
+    {"type": "double", "name": "work_category_Research", "required": true}, {"type":
+    "double", "name": "work_category_Reviewing", "required": true}, {"type": "double",
+    "name": "work_category_Script Writing", "required": true}, {"type": "double",
+    "name": "work_category_Spreadsheet Work", "required": true}, {"type": "double",
+    "name": "work_category_Storyboarding", "required": true}, {"type": "double", "name":
+    "work_category_Testing", "required": true}, {"type": "double", "name": "work_category_Translation",
+    "required": true}, {"type": "double", "name": "work_category_Writing", "required":
+    true}]'
+  outputs: '[{"type": "string", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-09 15:34:49.656857'

@@ -1,0 +1,1001 @@
+id,user_name,work_load_per_day,team_work,work_category,work_speed,overall_quality_score,assigned_role
+1,Fbqve63,"[10, 9, 10, 9, 8, 10, 6, 10, 10, 8, 9, 10, 10, 6, 7, 8]",85.63,Code Review,12.05,87.75,Leader
+2,Xhjnp94,"[8, 9, 8, 8, 10, 9, 6, 9, 10, 8, 5, 10, 10]",81.42,Email Writing,15.67,79.92,Perfectionist
+3,Llbls85,"[8, 6, 8, 9, 7, 8, 9, 9, 6, 10, 5, 6, 7, 8, 8, 8, 7, 8]",76.11,Translation,15.78,81.24,Perfectionist
+4,Vzwfg53,"[5, 7, 4, 5, 2, 6, 4, 6, 8, 5, 4, 5, 4, 5]",48.03,Reviewing,39.98,34.01,Genelarist
+5,Tuasl37,"[3, 3, 1, 6, 3, 4, 2]",37.76,Research,50.57,13.84,Lone Wolf
+6,Hvnnr41,"[7, 4, 5, 3]",52.03,Presentation Design,54.88,28.55,Task finisher
+7,Uafmu62,"[5, 5, 4, 5, 6, 5]",53.98,Email Writing,38.19,34.59,Genelarist
+8,Dgvmw95,"[10, 4, 7, 2, 7, 5, 8]",60.31,Research,32.9,48.36,Balancer
+9,Snxhm75,"[10, 8, 8, 10, 10, 10, 10]",94.99,Reviewing,5.59,98.22,Leader
+10,Bgbmx35,"[5, 4, 2, 4, 5, 4, 4, 3, 5, 4]",47.55,Drawing/Illustration,49.52,27.4,Task finisher
+11,Utxgl18,"[6, 3, 3, 3, 2, 3, 6, 4, 4, 0, 4, 6, 4, 5]",51.49,Documentation,44.24,26.69,Task finisher
+12,Pqglf99,"[8, 10, 8, 6, 8, 10, 7, 10, 9, 8, 6, 9, 10, 8, 7, 10]",84.69,Mockup Design,16.41,84.63,Perfectionist
+13,Swqmx76,"[6, 5, 7, 3, 2, 3, 6, 4, 3, 5, 4, 4, 3, 3, 3, 2, 4]",39.65,Script Writing,54.82,12.5,Lone Wolf
+14,Oxsxt47,"[2, 6, 3, 6, 3, 2, 5, 2, 6, 6, 5, 5, 6, 5, 5, 3, 5, 6]",54.1,Research,43.7,34.06,Genelarist
+15,Phatu26,"[6, 8, 7, 9, 5, 8, 8, 5, 8, 5, 7, 8, 3, 8]",68.11,Testing,24.66,55.24,Helper
+16,Rheja44,"[7, 8, 10, 7, 6, 8, 7, 9, 9, 5, 10, 6, 9, 5, 7, 5, 6]",67.15,Presentation Design,24.08,64.39,Helper
+17,Jfulw79,"[4, 3, 5, 2, 4, 5, 5, 2, 2]",43.96,Reviewing,49.1,18.57,Task finisher
+18,Ejqjn28,"[7, 7, 6, 6, 5, 6, 7, 7, 5]",65.27,Testing,36.31,53.45,Balancer
+19,Ciede80,"[7, 8, 6, 7, 5, 5, 6, 8, 7]",75.57,Research,27.77,68.12,Helper
+20,Rkvcw21,"[5, 6, 4, 5, 7, 4]",46.38,Spreadsheet Work,45.87,35.07,Genelarist
+21,Qpifq50,"[9, 9, 10, 9, 10, 10, 8, 8, 8, 10, 7, 8, 5, 8, 8, 6, 6, 5]",78.02,Problem Solving,19.44,71.24,Perfectionist
+22,Uksvb12,"[8, 5, 5, 3, 6, 8, 8, 6, 3, 6, 5, 6, 6]",59.5,Research,41.47,49.08,Genelarist
+23,Tuenk83,"[1, 6, 3, 3, 1, 1, 3, 3, 4]",31.16,Drawing/Illustration,61.17,8.86,Lone Wolf
+24,Ustpz48,"[5, 4, 6, 5, 4, 4, 6, 4, 6]",55.32,Documentation,42.94,29.31,Genelarist
+25,Jvjej43,"[3, 3, 3, 2, 3]",28.47,Flowchart Design,61.94,4.44,Lone Wolf
+26,Nibyo74,"[5, 6, 9, 7, 8, 4, 6, 6, 6, 8, 7, 5, 6, 6]",65.2,Graphic Design,37.04,51.4,Balancer
+27,Kdmma83,"[7, 6, 6, 7]",68.46,Reviewing,31.69,54.86,Balancer
+28,Xtkgd65,"[6, 5, 6, 6, 3, 9]",63.36,Spreadsheet Work,28.91,48.57,Balancer
+29,Fhzqr56,"[7, 4, 6, 8, 6, 6, 8, 2, 4, 5, 7, 7]",63.45,Storyboarding,36.53,50.63,Balancer
+30,Clwcp72,"[3, 4, 4, 3, 0, 2, 1, 3]",26.37,Storyboarding,66.54,0.0,Lone Wolf
+31,Rolkd44,"[3, 5, 5, 5, 4, 2]",44.53,Script Writing,55.16,20.77,Task finisher
+32,Vggyr53,"[4, 5, 4, 5, 3, 5, 7, 5, 5, 4, 7, 5, 5, 4]",47.73,Spreadsheet Work,50.17,31.47,Task finisher
+33,Qxvnp70,"[6, 8, 9, 5, 6, 5, 4]",76.37,Graphic Design,25.26,66.53,Helper
+34,Cxfgb87,"[5, 6, 5, 5, 5, 6, 4, 7, 5]",62.01,Writing,48.11,47.68,Genelarist
+35,Dxefp19,"[6, 7, 6, 8, 9, 8, 8, 6, 6, 7, 6, 5, 5, 10, 7, 10]",69.43,Flowchart Design,28.72,56.09,Helper
+36,Hnqsf87,"[1, 3, 5, 2, 2, 3, 2, 2, 4, 2, 0, 1, 3, 0, 3, 3, 5, 1]",35.89,Mockup Design,54.85,2.92,Lone Wolf
+37,Axzjo59,"[4, 3, 3, 4, 3, 5, 5, 6, 4, 8, 4, 4, 7, 4, 7, 5, 5, 6, 4]",52.75,Mockup Design,42.35,36.45,Genelarist
+38,Jntrj41,"[10, 10, 9, 10, 10, 10, 8, 9, 10]",88.85,Presenting,11.01,90.33,Leader
+39,Nfczd62,"[6, 7, 8, 5, 6, 6, 5]",76.84,Report Formatting,27.84,64.66,Helper
+40,Qbfsl71,"[3, 4, 4, 1, 4, 3, 4, 2, 4, 1, 2, 2, 4]",32.51,Reference Finding,53.68,10.13,Lone Wolf
+41,Cpcso52,"[6, 4, 8, 5, 6, 3, 5, 9, 6, 10, 6, 7, 6, 5, 7, 6, 6, 3, 6, 6]",59.28,Reviewing,32.32,42.58,Balancer
+42,Dwwdz65,"[5, 4, 5, 1, 3, 4, 5, 3, 3, 3, 4, 3, 3, 3, 3, 4, 1, 3, 3, 3]",37.45,Reference Finding,50.27,19.49,Lone Wolf
+43,Aobec82,"[7, 8, 8, 7, 10, 7, 9, 7, 10, 7, 6]",72.28,Content Creation,22.88,74.55,Helper
+44,Cfury63,"[6, 5, 5, 4, 2, 5, 6, 6, 4, 4, 3, 7, 3, 4, 3, 5]",48.19,Programming,46.92,29.36,Task finisher
+45,Gnsfe79,"[8, 7, 8, 9, 9, 10, 10, 8, 7, 9]",81.94,Mockup Design,13.72,85.37,Perfectionist
+46,Flphw69,"[5, 7, 6, 7, 6, 7, 3, 6, 5, 4, 5, 4]",50.13,Flowchart Design,50.23,36.53,Genelarist
+47,Iltsx13,"[5, 6, 5, 7, 1, 6, 7, 7, 7, 6, 5, 5, 7, 9, 5, 5, 5, 5, 4]",59.35,Content Creation,33.13,41.56,Balancer
+48,Wmzsf44,"[3, 1, 4, 3, 1, 3, 1, 4, 2, 3, 2, 4, 6, 2, 3, 4, 5, 3, 1]",35.29,Testing,53.5,8.1,Lone Wolf
+49,Bwkpg96,"[3, 4, 3, 2]",29.7,Content Creation,54.14,3.97,Lone Wolf
+50,Psohy13,"[1, 2, 3, 3, 2, 4]",31.66,Diagram Creation,56.26,6.5,Lone Wolf
+51,Moses61,"[5, 4, 5, 3, 6, 3, 4, 5, 2, 4, 3, 3, 4, 6, 3, 2, 3, 5, 5]",43.68,Storyboarding,51.05,22.86,Task finisher
+52,Kihfn85,"[7, 8, 5, 9, 8, 9, 4, 5, 4, 8, 6, 6, 7, 4]",64.52,Translation,37.02,52.43,Balancer
+53,Fnvol75,"[5, 7, 8, 6, 7, 6, 8, 8, 6, 6, 8, 6, 6, 9]",68.34,Script Writing,31.99,50.94,Balancer
+54,Ckghl18,"[6, 7, 5, 7, 6, 5, 5, 9, 4, 6, 10, 10, 6, 5, 7]",69.73,Writing,15.67,70.65,Helper
+55,Pylze64,"[4, 4, 3, 8, 7, 8, 4, 6, 8, 4, 4, 5, 4, 5, 6]",60.19,Graphic Design,39.08,44.6,Genelarist
+56,Gltoc51,"[8, 6, 7, 8, 8, 6, 7, 8, 6, 5, 7, 10, 6, 4, 5]",70.87,Presentation Design,29.15,56.27,Helper
+57,Xqwzc86,"[8, 7, 6, 5, 10, 6, 6, 5, 9, 5, 6, 8, 8, 7, 7, 5]",67.62,Content Creation,35.66,57.29,Balancer
+58,Xtaok93,"[0, 4, 2, 4, 5]",33.18,Writing,59.83,12.71,Lone Wolf
+59,Qxnmd37,"[6, 7, 10, 8, 4, 9, 9, 9, 6, 6, 6, 10]",71.27,Code Review,24.08,71.78,Helper
+60,Hycrn27,"[9, 9, 9, 7, 10, 7, 8, 8, 9, 6, 7]",81.81,Flowchart Design,11.02,78.83,Perfectionist
+61,Pnxnm39,"[8, 6, 5, 6, 7, 7, 7, 8, 10, 6, 6, 7, 3, 7, 7, 7, 6, 8, 8]",73.36,Testing,24.64,59.09,Helper
+62,Riywc38,"[6, 4, 4, 3, 7]",51.99,Testing,41.0,39.54,Genelarist
+63,Jsoih39,"[4, 5, 5, 7, 5]",53.65,Code Review,34.52,38.48,Genelarist
+64,Iqnjf12,"[8, 7, 5, 5, 6, 6, 5, 8]",61.09,Graphic Design,24.74,46.48,Balancer
+65,Oxcdu37,"[8, 9, 7, 8, 6, 9, 8, 9, 5, 9, 7, 10, 8, 8, 10, 6, 8, 7, 6]",85.43,Research,15.55,85.0,Perfectionist
+66,Falol96,"[9, 7, 5, 6, 8, 7, 9, 9, 7, 8, 10, 8, 8, 10, 8, 9]",74.11,Reviewing,18.69,72.14,Perfectionist
+67,Orwcl52,"[9, 8, 7, 8, 8, 7, 9, 8, 9, 8, 7, 7]",77.55,Documentation,24.98,65.3,Helper
+68,Uamrn25,"[6, 6, 4, 6, 8, 6, 5]",65.75,Testing,28.86,58.32,Balancer
+69,Nlgtc28,"[10, 8, 8, 7, 9, 9, 9, 9, 10, 9, 9, 9]",89.41,Spreadsheet Work,1.85,96.96,Leader
+70,Qrncc54,"[5, 2, 6, 6, 6, 3, 4, 6, 6, 6, 4, 3, 4]",47.61,Spreadsheet Work,46.39,34.36,Task finisher
+71,Ztlkt17,"[7, 6, 5, 5, 5, 7, 6, 6, 3, 7, 1, 5, 6, 4, 6]",51.59,Presentation Design,28.37,41.86,Genelarist
+72,Bjjsn89,"[5, 5, 5, 6, 5, 5, 6, 5, 3, 6, 4, 7]",63.37,Reference Finding,36.28,54.46,Balancer
+73,Dvhap31,"[1, 2, 1, 3, 0, 0, 1, 2, 5, 3, 1]",28.71,Report Formatting,44.95,3.71,Lone Wolf
+74,Vkcfy33,"[6, 4, 4, 4, 3, 8, 5, 7, 6, 5, 5, 7, 6, 3, 3, 8, 5]",53.93,Drawing/Illustration,38.21,33.8,Genelarist
+75,Rjmwc86,"[8, 8, 8, 10, 10, 9, 7, 10, 10, 10, 10, 9, 10]",94.24,Research,8.74,97.26,Leader
+76,Jfdvw57,"[6, 10, 8, 9, 8, 9, 6, 9, 9, 10, 10, 10]",85.2,Presenting,16.29,82.22,Perfectionist
+77,Itpdj55,"[9, 9, 8, 10, 8, 10, 10, 10, 8, 9, 10, 9, 8, 8, 8, 9, 7, 9, 9]",90.16,Presenting,7.23,94.0,Leader
+78,Ibxli76,"[4, 4, 9, 6, 5, 1, 8, 6, 4, 3, 4, 7]",53.66,Presenting,31.97,37.78,Genelarist
+79,Btwnm10,"[4, 7, 6, 5, 5, 7, 5, 4, 6, 5, 4, 4, 5, 3, 5, 3, 3, 5, 5]",47.25,Flowchart Design,52.5,25.24,Task finisher
+80,Nmbmg82,"[10, 8, 7, 9, 6, 7, 7, 10, 9, 8, 7, 7, 7, 9]",83.8,Content Creation,7.82,82.77,Perfectionist
+81,Yflib26,"[4, 3, 4, 3, 7, 5, 6, 4, 5, 5, 8, 5, 4, 7, 7, 3, 7]",56.75,Code Review,38.48,41.99,Genelarist
+82,Ikiqw72,"[5, 9, 10, 8, 6, 7, 8, 4, 9, 8, 7, 9, 7, 9, 7, 9, 8, 9, 9]",78.99,Writing,19.69,83.63,Perfectionist
+83,Cwvgg62,"[10, 10, 9, 8, 8, 7, 7, 10, 9, 10, 6]",86.13,Research,4.64,92.11,Leader
+84,Qevuq42,"[9, 8, 8, 9, 7, 10, 7, 8, 8, 5, 9, 7, 10, 4, 10, 6, 7, 8]",81.1,Documentation,20.82,70.44,Perfectionist
+85,Ujfnj56,"[10, 9, 8, 7, 6, 4, 5, 8, 5]",69.8,Code Review,22.55,60.6,Helper
+86,Uyphg92,"[5, 5, 6, 5, 2, 3, 3, 4, 2, 3, 2, 2, 2, 6, 4, 3, 3]",29.94,Problem Solving,49.5,6.22,Lone Wolf
+87,Tnwpz90,"[3, 4, 6, 5, 4, 8, 4, 4, 7]",52.5,Research,43.35,31.98,Genelarist
+88,Bnqbk93,"[8, 8, 7, 7, 6, 7, 8, 6, 7, 10, 6, 10, 6, 8, 7, 10]",78.53,Mockup Design,15.81,73.69,Perfectionist
+89,Qeqhq98,"[9, 6, 7]",58.17,Peer Review,22.9,46.83,Balancer
+90,Suvbn14,"[2, 5, 8, 3, 4, 5]",45.55,Reference Finding,45.53,29.66,Task finisher
+91,Retuf45,"[3, 8, 5, 4, 9, 6, 3, 5, 4, 7, 5, 5, 6]",55.39,Programming,33.21,33.67,Genelarist
+92,Hjvem47,"[9, 7, 7, 7, 7, 8, 6, 5, 5, 7, 6, 8, 9, 10, 9, 6]",68.32,Research,25.59,64.97,Helper
+93,Qeilt37,"[2, 3, 3, 3, 7, 8, 3, 4, 2, 6]",46.7,Reviewing,55.5,24.7,Task finisher
+94,Hklfb76,"[8, 8, 3, 6, 8, 5, 5, 7]",69.54,Report Formatting,30.93,55.21,Balancer
+95,Oylvs32,"[4, 4, 4, 3, 4, 5, 6, 6, 5, 4, 5, 4, 4, 2]",49.15,Translation,43.24,33.82,Task finisher
+96,Keprz32,"[5, 0, 5, 5, 5, 0, 4, 3, 4, 5, 2, 2, 1, 5, 3, 4, 3, 5, 5, 4]",32.68,Translation,46.23,14.22,Lone Wolf
+97,Udhji46,"[4, 1, 3, 5, 4, 3, 3, 4, 4, 3, 1, 5, 3, 5, 5]",41.0,Content Creation,51.14,17.32,Task finisher
+98,Fshnc52,"[10, 10, 8, 8, 9, 10, 9, 10, 7, 6, 6, 9, 9, 7]",77.64,Spreadsheet Work,6.25,82.32,Perfectionist
+99,Tkkvi78,"[5, 9, 7, 6, 9, 8]",72.72,Content Creation,15.56,67.52,Helper
+100,Niqzu15,"[4, 2, 5, 4, 5, 2]",41.69,Diagram Creation,57.03,19.25,Lone Wolf
+101,Hqpeg68,"[8, 7, 8, 5, 5, 7, 7, 6, 6, 8, 5, 6, 10]",72.44,Graphic Design,22.12,68.54,Helper
+102,Ehhjp69,"[9, 8, 8, 7, 9, 7, 7, 9, 8, 8, 10, 8, 10, 7]",93.79,Email Writing,1.25,98.78,Leader
+103,Rkprt13,"[2, 5, 3, 3, 6]",38.95,Drawing/Illustration,47.95,18.5,Task finisher
+104,Citli81,"[9, 7, 10, 9, 7, 9, 9, 8, 7, 8, 7, 7, 10]",86.22,Presenting,7.76,93.63,Leader
+105,Ggmba29,"[3, 7, 4, 4]",42.31,Email Writing,47.45,28.61,Task finisher
+106,Htszi14,"[10, 7, 9, 10, 9]",97.17,Graphic Design,6.64,96.18,Leader
+107,Drlod39,"[6, 8, 5, 5, 3, 3, 5, 5, 6, 6, 3, 6, 5, 6, 2, 10]",56.6,Translation,40.86,46.43,Genelarist
+108,Erfun93,"[6, 7, 6, 7, 4, 5, 3, 8, 5, 6, 6, 4, 3, 3, 4]",50.12,Programming,43.46,36.28,Genelarist
+109,Hnonl74,"[8, 6, 6, 6, 6]",69.49,Mockup Design,25.63,58.03,Helper
+110,Adspw44,"[7, 7, 8, 5, 5, 9, 5, 5, 8, 5, 6]",53.88,Content Creation,33.57,39.65,Balancer
+111,Ignee69,"[8, 8, 9, 10, 10, 7, 7, 7, 8, 9, 10, 8, 9, 9, 7, 10, 8]",88.25,Report Formatting,7.32,98.52,Leader
+112,Uzmcd88,"[7, 9, 6, 8, 6, 7]",79.22,Documentation,13.38,69.66,Perfectionist
+113,Zprbd55,"[7, 3, 6, 6, 5, 3, 6]",63.19,Spreadsheet Work,41.65,43.66,Genelarist
+114,Kaagl65,"[5, 4, 5, 3, 5, 5, 4, 6]",57.65,Problem Solving,36.1,40.99,Genelarist
+115,Mknul49,"[8, 10, 10, 9, 10, 8, 8, 10, 6]",98.99,Testing,0.5,100.0,Leader
+116,Ncapr22,"[6, 5, 5, 4, 2, 5, 3]",42.34,Email Writing,43.52,24.28,Task finisher
+117,Tfnkb20,"[6, 5, 7, 5, 4, 7, 4, 5, 5, 6, 5, 6, 7]",58.48,Code Review,36.59,40.5,Genelarist
+118,Amfwp12,"[9, 9, 7, 7, 5, 7, 6]",81.35,Content Creation,28.98,69.8,Helper
+119,Qqgiq84,"[8, 10, 6, 8, 9, 7, 9, 8, 9]",74.37,Drawing/Illustration,24.25,73.39,Helper
+120,Gxpxl44,"[10, 9, 8, 8, 8, 10, 7, 6, 10, 7, 10]",89.59,Content Creation,13.05,87.81,Leader
+121,Ghfgg44,"[5, 5, 3, 5, 3, 4, 4, 2, 6, 3, 2, 4, 5, 3]",34.69,Research,51.99,10.72,Lone Wolf
+122,Xujhq56,"[2, 0, 5, 1, 3, 5, 2, 2, 4, 0, 3, 1]",34.59,Reference Finding,58.15,5.41,Lone Wolf
+123,Uauql84,"[4, 5, 5, 3, 4, 4, 7, 6, 4, 5, 3, 6, 6, 7, 4, 5, 5, 5, 2, 6]",55.97,Testing,39.37,33.66,Genelarist
+124,Jfhrz92,"[5, 6, 7, 5, 7, 4, 5, 6, 4, 6, 6, 6, 8, 6, 6, 8]",65.6,Problem Solving,33.06,54.46,Balancer
+125,Gbopt84,"[0, 2, 1, 5, 2, 1, 4, 1, 3, 2, 1, 4, 1, 0, 2, 3, 4]",30.89,Peer Review,57.31,2.61,Lone Wolf
+126,Rpszz20,"[2, 2, 4, 2, 3, 2]",32.72,Graphic Design,59.67,4.58,Lone Wolf
+127,Cmewm37,"[7, 5, 1, 5, 5, 5, 5]",56.76,Research,45.74,33.07,Genelarist
+128,Hwrey79,"[6, 5, 5, 8, 7, 9, 5, 10, 6, 6, 4, 8, 5, 6, 6, 4, 7, 6, 6]",69.24,Translation,20.85,60.59,Helper
+129,Jkcpl78,"[7, 7, 6, 8, 7, 4, 5, 4, 4, 7]",56.25,Testing,38.05,43.93,Genelarist
+130,Opimo38,"[5, 7, 6, 9, 4, 5, 5, 5, 6, 9, 8, 7, 8, 5, 6, 9, 9, 5]",74.49,Research,27.01,66.47,Helper
+131,Jqxgk82,"[9, 10, 10, 8, 9, 8, 10, 8, 9, 9]",94.52,Problem Solving,3.87,97.11,Leader
+132,Iseuk31,"[6, 7, 6, 7, 7, 6, 9, 7, 3, 7, 7, 5, 4, 7, 6, 6, 10, 8, 8, 9]",72.06,Peer Review,29.12,57.01,Helper
+133,Cyemu17,"[3, 4, 3, 0]",35.05,Diagram Creation,52.24,14.92,Lone Wolf
+134,Qwfnq28,"[9, 9, 8, 9, 7, 10, 8, 9, 10]",83.98,Storyboarding,20.02,82.85,Perfectionist
+135,Lgzwd40,"[3, 6, 5, 5, 5, 3, 8, 5, 5, 8, 8, 6, 2, 5, 3, 6, 5, 3, 7]",49.02,Reference Finding,37.43,35.62,Genelarist
+136,Mtlbt20,"[8, 9, 4, 9, 5, 5, 7]",69.51,Reviewing,25.29,63.55,Helper
+137,Dtkru20,"[5, 8, 8, 4, 5, 8, 4]",58.49,Graphic Design,43.79,41.28,Genelarist
+138,Oiabq41,"[2, 4, 6, 4, 5, 1, 4, 7, 5, 3, 5]",44.6,Script Writing,41.59,24.69,Task finisher
+139,Kclar38,"[2, 4, 2, 4, 5, 2]",39.99,Report Formatting,46.12,14.93,Task finisher
+140,Dypna15,"[8, 7, 10, 9, 7, 10, 10, 10, 10, 9, 10, 10, 9, 10, 9]",93.99,Report Formatting,8.16,93.34,Leader
+141,Xjhcx28,"[7, 5, 6, 3]",55.21,Reference Finding,44.39,40.01,Genelarist
+142,Fvker90,"[4, 4, 2, 3, 8, 3, 5, 6, 4, 5]",56.57,Presenting,32.44,37.1,Genelarist
+143,Ciycm24,"[7, 5, 9, 3, 7, 4, 6, 6, 5, 5, 6, 8]",60.18,Storyboarding,29.24,51.59,Balancer
+144,Lvmmx90,"[7, 9, 5, 5, 7, 7, 7, 7, 8, 8, 10]",82.39,Reference Finding,24.07,78.05,Perfectionist
+145,Nrpmr95,"[7, 6, 6, 7, 8]",61.18,Code Review,28.49,53.29,Balancer
+146,Dclwd73,"[9, 9, 8, 9, 10, 9, 10, 6]",85.28,Storyboarding,15.72,85.05,Perfectionist
+147,Evwed18,"[4, 3, 6, 3, 5, 3, 2, 5, 2, 3]",51.06,Peer Review,37.8,25.62,Task finisher
+148,Nieis82,"[5, 5, 5, 7, 5, 4, 6, 4, 6, 5]",62.85,Writing,24.77,44.19,Balancer
+149,Nnwrt94,"[3, 5, 3, 2, 1, 3, 3, 4, 3, 5, 4, 1, 2, 3, 2, 3]",33.59,Planning,58.58,11.7,Lone Wolf
+150,Wqjiv11,"[5, 5, 6, 7, 7, 8, 5, 6, 5, 6, 5, 3, 7, 8]",58.86,Problem Solving,35.13,45.98,Balancer
+151,Yzxtf36,"[7, 10, 10, 9, 8, 8, 9, 9, 10, 8]",85.28,Research,6.35,90.52,Leader
+152,Nryno98,"[4, 2, 3, 1, 2, 7, 3, 4, 4, 4, 3, 2, 8, 8, 5, 2, 7, 4, 3]",46.09,Peer Review,53.39,19.9,Task finisher
+153,Hiijh35,"[5, 4, 5, 7, 3, 7, 4, 8, 8, 4, 7, 6, 5, 6, 6, 8]",65.53,Mockup Design,30.45,51.41,Balancer
+154,Zaajn39,"[8, 10, 9, 8, 9, 7, 6, 8, 6, 7, 5, 8, 8, 8, 8]",76.52,Storyboarding,27.97,74.64,Helper
+155,Fjgnx86,"[7, 9, 9]",87.2,Research,15.51,89.01,Perfectionist
+156,Bjiwq75,"[9, 6, 9, 6, 7, 8, 7, 5]",68.97,Script Writing,28.9,57.67,Helper
+157,Uzxgq93,"[7, 10, 8, 5, 6, 7, 6, 7, 8, 7, 7, 8, 9, 10, 7, 9]",68.39,Translation,19.88,64.11,Helper
+158,Qmhjk50,"[6, 5, 2]",44.67,Writing,46.85,20.07,Task finisher
+159,Wuouw48,"[10, 5, 7, 4, 5, 7, 5]",69.25,Planning,22.69,62.17,Helper
+160,Mqkim23,"[7, 5, 9, 4, 8, 7, 7, 7, 4, 8, 7]",66.06,Testing,28.55,60.77,Helper
+161,Exnkd91,"[7, 6, 1, 4]",44.69,Presentation Design,41.16,24.53,Task finisher
+162,Xspgv10,"[6, 9, 9, 6, 9]",79.8,Peer Review,24.87,77.81,Perfectionist
+163,Ljrqz22,"[7, 8, 7, 4, 7, 7, 6, 5, 6, 7, 7, 6, 5, 7, 6, 7, 8, 9, 4, 5]",72.06,Storyboarding,17.71,64.32,Helper
+164,Btdsc16,"[9, 8, 7, 7, 5, 7, 8, 6, 8, 8]",74.57,Documentation,28.52,64.35,Helper
+165,Bigiw56,"[7, 9, 7, 7, 6, 5, 5, 8, 7, 8, 6, 6]",61.21,Presenting,33.32,57.28,Balancer
+166,Rymrh67,"[4, 3, 3, 3, 2, 5, 6, 6, 6, 2, 4, 5, 4, 6, 3, 6, 3, 6]",43.88,Presenting,48.95,25.39,Task finisher
+167,Knxgo72,"[9, 6, 8, 8, 9, 8, 8, 7, 10, 10, 10, 9, 10, 10, 7, 10]",87.02,Diagram Creation,5.13,90.01,Leader
+168,Nswhi62,"[4, 2, 5, 5, 4, 2, 5, 6, 4, 4, 6, 6, 5, 6, 3, 4, 5, 3, 7, 3]",47.72,Reviewing,40.18,27.72,Task finisher
+169,Jxtbk94,"[8, 7, 7, 8, 5, 6, 7]",78.09,Writing,27.1,69.48,Helper
+170,Jqzou60,"[10, 9, 9, 9]",79.58,Drawing/Illustration,25.0,78.08,Perfectionist
+171,Kxzzx44,"[8, 7, 6, 6, 9, 7, 10, 6, 7, 7, 6, 6, 8]",74.71,Documentation,15.64,61.91,Helper
+172,Zevbf17,"[5, 5, 0, 1, 3, 5, 3, 2, 4, 5, 3]",33.89,Presentation Design,58.77,6.35,Lone Wolf
+173,Cszvc21,"[5, 5, 3, 6, 3, 5, 6, 3, 7, 4, 4, 4, 4, 4, 4, 8, 2]",48.26,Mockup Design,53.67,21.75,Task finisher
+174,Xaoxm44,"[7, 8, 9, 8, 4, 7, 9, 7, 6, 7, 8, 5, 7, 6, 7, 8]",78.53,Flowchart Design,26.57,74.18,Helper
+175,Hjpxf24,"[5, 4, 7, 7, 6, 5, 7, 7, 7, 4, 5, 4, 4, 6, 8, 6]",56.65,Presenting,45.08,36.34,Genelarist
+176,Etgjo29,"[8, 8, 9, 10, 7, 8, 6, 5]",65.03,Script Writing,30.31,58.4,Helper
+177,Bkfdk16,"[5, 4, 4, 3, 3]",33.53,Documentation,56.19,10.03,Lone Wolf
+178,Jrzbo82,"[7, 7, 7, 6, 5, 8, 10, 8, 10, 7, 7, 9, 9, 10, 7]",84.55,Script Writing,10.79,87.94,Perfectionist
+179,Ejwzr95,"[2, 5, 4, 0, 6]",40.6,Presentation Design,49.09,19.45,Task finisher
+180,Vrnsb94,"[2, 3, 2, 3, 4, 4, 2, 4, 2, 3, 5, 1, 3, 3]",27.47,Flowchart Design,57.72,0.81,Lone Wolf
+181,Xdjyj38,"[0, 1, 2, 2, 2, 0, 4, 1, 4, 2, 1]",30.01,Reviewing,59.65,2.21,Lone Wolf
+182,Eroeq27,"[7, 10, 6, 10, 8, 8, 10, 9, 7, 9, 9, 10, 10, 9]",83.64,Report Formatting,1.72,88.36,Leader
+183,Wlifq33,"[10, 9, 8, 9]",88.09,Translation,6.48,93.74,Leader
+184,Ivkis27,"[8, 10, 10, 10, 8, 10, 9, 9, 7, 8]",87.22,Research,14.6,91.08,Leader
+185,Jiufr62,"[9, 9, 8, 8, 10, 10, 8, 10, 10, 8, 10, 10, 8, 9, 8, 10, 7, 10, 10, 8]",90.26,Testing,4.54,91.61,Leader
+186,Fkcth46,"[7, 5, 7, 7, 4, 5, 6, 6, 4, 6, 9, 6, 6, 7]",65.64,Drawing/Illustration,25.73,57.5,Balancer
+187,Kgyqt80,"[3, 1, 0, 5, 3, 3, 4, 4, 3, 4, 4, 5, 3, 2, 5, 1, 2, 4, 4]",42.89,Diagram Creation,51.18,15.57,Lone Wolf
+188,Bonsu81,"[3, 6, 5, 3, 5, 5, 7, 5, 8]",54.19,Code Review,48.87,37.58,Genelarist
+189,Jqgeg13,"[9, 7, 6, 4, 5, 9, 5, 7, 7, 6, 4, 6, 2, 5, 7, 6]",67.38,Research,42.22,51.34,Balancer
+190,Kvysi32,"[4, 0, 4, 0, 6]",38.29,Flowchart Design,61.64,3.99,Lone Wolf
+191,Sdwgs98,"[3, 1, 5, 4]",45.42,Spreadsheet Work,37.56,27.61,Task finisher
+192,Epfkx45,"[7, 9, 3, 8, 7, 5, 5, 4, 6, 8, 4, 8, 6, 10]",73.85,Documentation,25.67,58.6,Helper
+193,Yiawg16,"[6, 6, 5, 5]",71.23,Graphic Design,32.86,58.16,Balancer
+194,Xsans60,"[5, 4, 7, 3, 3, 3, 3, 3, 4, 5, 5, 2, 3, 3, 6, 4, 4]",38.5,Peer Review,47.39,20.98,Task finisher
+195,Usdnk31,"[5, 6, 3, 2, 6, 3, 4, 4, 4, 3, 5, 1]",37.45,Code Review,54.24,10.22,Lone Wolf
+196,Vrkaq88,"[10, 9, 10, 10, 6, 8, 8]",84.26,Script Writing,12.89,85.97,Perfectionist
+197,Xikdm98,"[8, 7, 7, 10, 9, 10]",81.54,Code Review,14.7,84.05,Perfectionist
+198,Blzdx57,"[4, 3, 0, 4, 3, 2, 5, 6, 2, 5, 3, 2, 4, 2, 3, 4, 3, 4]",36.28,Email Writing,58.49,4.61,Lone Wolf
+199,Fclhe28,"[9, 9, 7, 9, 9, 10, 7, 6, 9, 8, 9, 10, 8, 6, 9, 10, 8]",84.82,Diagram Creation,19.51,78.86,Perfectionist
+200,Ablia50,"[3, 7, 8, 8, 5, 4, 4, 2, 5]",64.66,Flowchart Design,30.6,48.69,Balancer
+201,Qxgga64,"[9, 9, 9]",90.26,Code Review,7.17,93.99,Leader
+202,Jvcth14,"[4, 4, 7, 5, 1, 1, 2, 5, 5, 2, 3, 3, 3, 3, 2, 3, 2]",38.67,Research,54.68,13.21,Lone Wolf
+203,Acema19,"[4, 6, 4, 0, 4, 4, 4, 6, 3, 1, 3, 2, 3]",27.97,Content Creation,47.43,2.47,Lone Wolf
+204,Ynyvo45,"[5, 4, 4, 4, 6, 8, 7, 6]",54.58,Translation,42.41,40.01,Genelarist
+205,Apiau35,"[10, 10, 10, 10, 10, 10, 9, 7, 9, 9, 9, 8, 10, 10, 9, 9, 10, 8, 8, 10]",93.7,Spreadsheet Work,8.28,100.0,Leader
+206,Wadke74,"[9, 10, 9, 10, 10, 8, 10, 10, 10, 7, 7, 10, 9, 9, 9, 10, 10]",95.41,Spreadsheet Work,14.66,97.47,Leader
+207,Vgtvb91,"[7, 8, 5, 5]",63.6,Report Formatting,35.22,51.67,Balancer
+208,Ntevc12,"[5, 5, 6, 4, 5, 7, 5, 1]",51.44,Writing,43.27,24.42,Task finisher
+209,Snfbk21,"[5, 7, 8, 7, 7, 7, 8, 6, 10, 7, 9, 8, 8, 7, 7, 5, 9, 6, 5]",72.32,Reference Finding,34.14,60.69,Helper
+210,Assps11,"[9, 7, 10, 7, 7, 9]",79.58,Report Formatting,17.11,79.64,Perfectionist
+211,Pceeu23,"[3, 2, 2, 3, 4, 3, 5, 5, 1, 6, 8, 7, 6, 3, 5]",49.66,Research,49.34,27.65,Task finisher
+212,Hicfh72,"[7, 7, 7, 3]",49.98,Presenting,50.23,35.95,Genelarist
+213,Zrlcd64,"[4, 3, 5, 0, 3, 6, 2, 4, 5, 2, 6, 5, 3]",46.93,Storyboarding,43.81,19.82,Task finisher
+214,Grfow58,"[5, 7, 3, 5, 5, 8]",58.75,Problem Solving,43.37,42.78,Genelarist
+215,Suhsc45,"[8, 8, 8, 7, 8, 10, 6, 8, 5, 5]",76.6,Peer Review,24.96,72.0,Helper
+216,Uvmtx95,"[7, 10, 10, 9, 8, 9, 10, 9, 10, 8, 7, 8, 9, 10, 9, 10, 8]",89.49,Translation,9.56,99.39,Leader
+217,Fjnlk72,"[7, 9, 7, 10, 6, 8, 6, 10, 5]",80.53,Documentation,8.29,73.99,Perfectionist
+218,Zmuwp36,"[8, 10, 10, 8, 9, 10, 9, 10]",86.57,Report Formatting,0.1,94.12,Leader
+219,Aqkxg46,"[1, 5, 3, 1, 2, 4, 3, 5, 4, 4, 2]",30.03,Email Writing,60.16,2.27,Lone Wolf
+220,Udyjc70,"[8, 9, 10, 8, 8, 9, 6, 8, 7, 10, 8]",79.69,Report Formatting,27.85,72.3,Perfectionist
+221,Nvpvb66,"[4, 6, 5, 7, 5]",48.69,Presenting,57.23,26.53,Task finisher
+222,Aflno27,"[7, 3, 4, 6, 6, 6, 4, 5, 5, 4, 5, 3, 6, 5, 6, 7, 8, 6, 8, 9]",59.04,Programming,49.15,37.04,Genelarist
+223,Vqouc57,"[0, 4, 3, 3, 6, 4, 4, 4, 6, 0]",44.32,Drawing/Illustration,55.69,17.9,Lone Wolf
+224,Mxbjy94,"[8, 7, 6, 6, 6, 6, 6, 7]",70.27,Drawing/Illustration,23.11,59.06,Helper
+225,Ifjhc77,"[5, 4, 3, 4, 6, 4, 3, 3, 1, 3, 6, 2, 4, 3, 5, 2, 3, 7]",45.99,Drawing/Illustration,50.58,24.48,Task finisher
+226,Cqkut41,"[8, 4, 5, 8, 5, 3, 7, 2, 5, 4, 4]",52.88,Email Writing,35.1,36.51,Genelarist
+227,Ttubn24,"[8, 7, 7, 6, 9]",72.21,Writing,27.34,68.83,Helper
+228,Wsdni73,"[7, 7, 9, 10, 8, 9, 8, 5, 8]",71.45,Code Review,17.77,70.01,Helper
+229,Xkwxl65,"[2, 4, 7, 3, 6, 5, 5, 6, 4, 7, 4, 6, 5, 3, 6, 3, 6, 5, 5, 5]",54.7,Flowchart Design,44.0,34.94,Genelarist
+230,Azzwa27,"[5, 5, 4]",54.42,Presentation Design,47.52,32.75,Genelarist
+231,Wumtb38,"[10, 8, 9, 10, 9, 9, 6, 7, 10, 10, 8, 10, 10]",88.87,Script Writing,0.1,90.07,Leader
+232,Lxljw90,"[5, 10, 7, 7, 7, 7, 7, 7, 5, 5]",71.96,Graphic Design,22.59,61.06,Helper
+233,Htjex90,"[4, 4, 3, 3, 2, 4, 1, 1, 0, 2, 4, 3, 3, 2]",34.2,Graphic Design,48.17,7.75,Lone Wolf
+234,Eyjzc22,"[7, 7, 3, 4, 4]",57.83,Presenting,32.6,48.4,Genelarist
+235,Jhkfc86,"[5, 5, 6, 5, 6]",49.22,Email Writing,42.43,33.43,Genelarist
+236,Kawnr71,"[8, 9, 9, 9, 8, 9, 10, 9]",84.03,Flowchart Design,3.63,85.1,Leader
+237,Vhpkq78,"[3, 2, 3, 3, 6, 3, 6, 4, 2, 3, 7, 4, 4, 6, 4]",54.88,Graphic Design,40.59,31.03,Genelarist
+238,Tlfmc59,"[6, 4, 3, 5, 6, 5, 8, 6, 5, 4, 7, 9, 7, 6]",55.15,Peer Review,32.03,44.84,Balancer
+239,Kanfz81,"[5, 9, 6, 7, 10, 5, 6, 6, 8, 7, 7, 6, 10, 8, 6, 5, 7]",78.04,Research,17.9,66.75,Helper
+240,Hgtdf80,"[8, 7, 9, 6, 8]",68.32,Drawing/Illustration,31.45,55.08,Helper
+241,Hxmds70,"[7, 5, 6, 5, 6, 4, 7, 5, 3]",67.09,Graphic Design,23.08,48.9,Balancer
+242,Rawii66,"[10, 7, 8, 7, 10, 8, 10, 9, 10, 10, 10, 9, 10, 7, 9, 7, 9, 9, 10]",91.92,Problem Solving,7.21,94.88,Leader
+243,Fgfgg30,"[4, 2, 4, 4, 5, 8, 8, 2, 4, 5]",45.4,Graphic Design,41.58,26.49,Task finisher
+244,Zouxq78,"[8, 7, 5, 7, 10, 8, 8, 5, 7, 10, 9, 9]",84.98,Reference Finding,10.14,82.16,Perfectionist
+245,Jmbju62,"[10, 8, 5, 8, 8, 10, 6, 9, 6, 8, 7, 9, 6, 7]",75.12,Spreadsheet Work,15.75,78.81,Perfectionist
+246,Xvfzw16,"[9, 8, 10, 7, 9, 9, 7, 8, 10, 8, 7, 7, 8, 6, 9]",84.34,Translation,18.97,77.58,Perfectionist
+247,Ybewt42,"[8, 10, 10, 7, 10, 8, 8, 10, 9, 10, 9, 7, 9, 7, 10, 7, 9, 7, 8]",92.08,Code Review,12.91,87.4,Leader
+248,Zzasb98,"[3, 6, 5, 3, 3, 2]",47.83,Drawing/Illustration,38.5,35.2,Task finisher
+249,Lfhbt16,"[2, 4, 4, 3]",29.17,Testing,53.59,3.23,Lone Wolf
+250,Tglmv94,"[6, 5, 7, 6, 5, 9, 7, 7, 6, 5]",65.22,Script Writing,25.09,56.51,Balancer
+251,Gosyv25,"[2, 2, 4, 2, 4, 5, 2, 1, 4, 0, 2, 5, 6, 2, 3, 2, 2, 5, 5]",34.75,Code Review,49.48,0.77,Lone Wolf
+252,Ixpnp36,"[3, 4, 4]",30.94,Graphic Design,61.0,1.41,Lone Wolf
+253,Wucez61,"[4, 6, 6, 5, 5, 5, 4, 6, 3, 3, 3, 6]",49.35,Peer Review,57.7,24.92,Task finisher
+254,Tvcgc95,"[5, 5, 5, 4, 5, 3, 6, 6, 5, 5, 5, 6, 6, 2, 4, 6, 6]",57.32,Script Writing,33.71,41.23,Genelarist
+255,Viyux85,"[5, 5, 6, 7, 9, 9, 5, 4, 7, 4, 4, 7, 5, 3, 5, 5, 7, 5, 5]",58.3,Documentation,41.45,40.45,Genelarist
+256,Lsqjh27,"[9, 9, 6, 7, 10, 8, 10]",90.61,Problem Solving,10.06,91.08,Leader
+257,Geosb89,"[3, 3, 1, 4, 2, 4, 4]",31.67,Documentation,61.59,0.0,Lone Wolf
+258,Ulcnq98,"[4, 7, 5, 7, 8, 5, 5, 5, 5, 4, 3, 8, 7, 1, 3, 6]",55.55,Peer Review,34.76,43.08,Genelarist
+259,Xbdoo97,"[8, 10, 10]",91.18,Presenting,2.63,99.75,Leader
+260,Ipuqh88,"[8, 5, 8, 8, 6, 7, 9, 10, 9, 8]",77.59,Translation,24.08,71.43,Helper
+261,Cswpv43,"[4, 4, 5, 4, 4, 5, 5, 4, 4, 4, 5, 4, 6, 9, 5, 3, 6, 5, 4, 2]",42.34,Problem Solving,47.95,23.62,Task finisher
+262,Boeky68,"[8, 10, 10, 8, 10, 6, 10, 6, 6]",85.18,Report Formatting,18.78,80.64,Perfectionist
+263,Hbqpl17,"[7, 2, 10, 7, 6, 8, 7, 5, 7, 7, 8, 7, 6, 6, 7, 7, 8]",64.7,Report Formatting,29.82,54.96,Balancer
+264,Qbgjq69,"[10, 8, 10, 8]",78.65,Drawing/Illustration,19.58,72.66,Perfectionist
+265,Xwexw54,"[9, 9, 9, 8]",75.59,Peer Review,22.04,75.13,Perfectionist
+266,Koiij15,"[10, 8, 9, 8, 6, 6]",66.37,Writing,20.49,57.21,Helper
+267,Vmozx89,"[2, 4, 1, 2, 6, 3, 3, 7, 5, 4]",37.4,Reference Finding,52.53,11.93,Lone Wolf
+268,Sroth57,"[2, 3, 2, 5, 2, 3, 3, 3, 2, 4, 4, 4, 1, 4, 2]",31.95,Script Writing,59.99,4.66,Lone Wolf
+269,Dqzdv98,"[7, 6, 5, 3, 5, 4, 3, 1, 5, 4, 6, 7, 4, 5, 3, 6, 6, 5]",51.5,Report Formatting,46.08,32.67,Genelarist
+270,Pbxsn69,"[5, 5, 6, 4, 7, 4, 7, 6, 4, 6, 6, 5, 4, 7, 5, 7, 6, 4]",52.44,Testing,36.58,40.83,Genelarist
+271,Ccqmj84,"[6, 3, 5, 7, 3, 6, 7, 5, 6, 5, 2, 6, 8, 6, 6, 6, 4, 6, 4]",56.53,Mockup Design,25.08,44.4,Balancer
+272,Zxzwc50,"[8, 5, 10]",86.37,Email Writing,20.78,81.57,Perfectionist
+273,Obbmy72,"[5, 3, 5, 1, 4, 5, 3, 2, 3, 4, 4, 2, 2, 1, 5, 2]",31.24,Mockup Design,48.65,8.7,Lone Wolf
+274,Adzgv62,"[10, 9, 10, 8, 10]",87.64,Content Creation,0.1,93.21,Leader
+275,Xprya96,"[6, 6, 4, 5, 7, 7, 5]",56.12,Email Writing,41.17,33.66,Genelarist
+276,Gsofm52,"[8, 5, 3]",47.06,Graphic Design,50.83,22.57,Task finisher
+277,Cbkdy81,"[5, 5, 3, 2, 2, 2, 4, 4, 4, 1, 7, 3, 4, 5, 6, 2, 5, 4, 2, 3]",38.21,Flowchart Design,40.94,18.13,Task finisher
+278,Bwrex71,"[7, 9, 8, 9, 8, 9, 9, 10, 8, 9, 7, 7]",85.76,Flowchart Design,8.51,90.96,Leader
+279,Mklme56,"[4, 5, 5, 5, 6, 4, 6, 5, 6, 5, 6, 5, 3, 7, 5, 4, 3, 4]",57.5,Mockup Design,27.29,43.98,Balancer
+280,Hrarv94,"[5, 3, 2, 5, 5, 5, 5, 4, 5, 6, 5, 7, 4, 6, 3, 2, 3, 6]",58.19,Report Formatting,43.4,34.62,Genelarist
+281,Mlweg26,"[1, 3, 3, 3, 2, 0, 6, 5, 1, 3, 5, 3, 1, 3, 2, 4, 3, 4]",36.65,Programming,49.21,10.0,Lone Wolf
+282,Preyw40,"[10, 9, 10, 9]",94.34,Reviewing,6.16,100.0,Leader
+283,Nejjv95,"[4, 3, 9, 6, 1, 6, 2]",46.85,Graphic Design,45.12,21.07,Task finisher
+284,Avisc87,"[4, 5, 6, 4, 8, 4, 4, 4, 5, 6]",54.3,Spreadsheet Work,36.24,35.38,Genelarist
+285,Kyohj13,"[4, 5, 2, 6, 6, 5, 6, 8, 6, 7, 6, 5, 7, 7, 6, 5, 5, 7, 7]",61.76,Writing,35.41,48.45,Balancer
+286,Khxki76,"[5, 5, 6, 5, 7, 7, 6, 5, 6, 6, 7, 7, 6, 6, 5, 5, 5, 7]",55.26,Reviewing,37.03,44.86,Genelarist
+287,Udsoq25,"[8, 8, 6, 6, 7, 8, 6, 7, 5, 9, 8, 6, 4]",70.34,Flowchart Design,32.14,62.55,Helper
+288,Ygpxg93,"[7, 6, 7, 8, 7]",66.46,Planning,24.43,59.87,Helper
+289,Oizgw48,"[6, 4, 4, 5, 4, 4, 4, 5, 5, 1, 8, 5, 3, 3, 3, 3, 4, 5, 4, 5]",50.35,Flowchart Design,52.48,26.92,Task finisher
+290,Orfjg54,"[8, 7, 8, 9, 8, 7, 4, 10]",68.62,Code Review,30.03,67.75,Helper
+291,Qikxf19,"[5, 9, 8, 7, 7]",67.64,Problem Solving,30.21,64.38,Helper
+292,Uksvt47,"[6, 6, 5, 8, 6, 7, 7, 6, 9, 6]",69.46,Translation,16.33,68.16,Helper
+293,Zwdxo83,"[3, 7, 8, 5, 4]",59.32,Programming,40.56,42.94,Genelarist
+294,Mocls16,"[7, 5, 6, 4, 6, 0, 9, 5, 7, 4]",48.17,Reference Finding,40.39,28.07,Genelarist
+295,Hfzgv60,"[6, 8, 9, 7, 8, 8, 10, 4, 6, 5]",72.93,Content Creation,19.36,63.11,Helper
+296,Nnfxb39,"[10, 8, 9, 9, 10, 9, 9, 10, 6, 10, 8, 7, 10, 8, 10]",90.14,Diagram Creation,6.24,91.83,Leader
+297,Yrqjl25,"[5, 1, 2]",28.18,Research,59.16,4.72,Lone Wolf
+298,Ibmfg55,"[2, 4, 3, 3, 1, 4, 4, 2, 3, 5, 4, 4]",39.19,Spreadsheet Work,50.03,16.68,Lone Wolf
+299,Dunkx19,"[9, 5, 7, 7, 6, 9, 8, 8, 10, 5, 8, 6, 7, 7, 7, 5, 4, 7, 8, 9]",62.24,Graphic Design,29.15,56.1,Balancer
+300,Kfuud85,"[10, 9, 10, 8, 9, 9, 9, 4, 8, 10, 10, 8, 7, 9, 9, 9, 10, 9]",88.29,Mockup Design,15.48,83.89,Perfectionist
+301,Hlmrk72,"[5, 4, 7]",56.17,Presentation Design,39.28,34.66,Genelarist
+302,Pfpwu24,"[9, 5, 9, 9, 6, 7, 9, 8, 9, 5, 8, 10, 9, 10, 8]",80.34,Presenting,13.55,81.24,Perfectionist
+303,Gjvyc86,"[7, 10, 10, 8, 7, 8, 9, 8, 10, 10, 9, 10, 8, 10]",89.36,Peer Review,14.39,89.48,Leader
+304,Kazeg98,"[8, 8, 7, 8, 8, 9, 9, 9, 7, 7, 10, 10, 9, 9]",86.71,Writing,4.76,91.82,Leader
+305,Depbo30,"[5, 9, 7, 8, 7]",77.19,Script Writing,28.2,72.27,Helper
+306,Bgbwk94,"[3, 8, 8, 5, 6, 4, 6, 7, 3]",62.46,Presentation Design,23.96,50.87,Balancer
+307,Rtfja39,"[5, 7, 8, 7, 7, 6, 8, 5]",66.76,Programming,21.7,65.29,Helper
+308,Ibmgo65,"[7, 9, 10, 9, 10, 5, 8, 8, 8, 10]",82.97,Reviewing,18.16,85.0,Perfectionist
+309,Jpmto63,"[7, 10, 10, 9, 7, 6, 9, 10, 9, 10, 8]",93.25,Documentation,6.18,94.04,Leader
+310,Ssdhw56,"[5, 5, 6, 7, 5, 3, 4, 5, 4, 6, 3]",60.74,Spreadsheet Work,39.02,48.42,Genelarist
+311,Vbiqv11,"[8, 6, 8, 6, 8, 7, 5]",66.07,Peer Review,28.93,62.77,Helper
+312,Mjayk31,"[3, 5, 5, 4, 6, 6, 5, 4, 5, 4, 6]",57.49,Reference Finding,32.61,49.59,Genelarist
+313,Jjozy91,"[9, 9, 9, 9, 6, 7, 8, 9]",84.47,Reviewing,14.99,88.24,Perfectionist
+314,Eureq62,"[5, 7, 9, 5, 6, 8, 5, 6, 6, 7]",72.25,Mockup Design,19.73,64.02,Helper
+315,Eemus31,"[8, 4, 4]",56.22,Content Creation,35.66,43.11,Genelarist
+316,Rotuv67,"[6, 6, 7, 7, 6]",62.42,Report Formatting,38.83,44.84,Balancer
+317,Nlaxb22,"[9, 7, 10, 8, 10, 9, 10, 9, 10, 10, 7, 10, 9, 8, 8, 5, 10]",88.55,Storyboarding,10.88,99.81,Leader
+318,Loudp14,"[6, 4, 2, 6, 1, 6, 5, 1, 5, 2, 4, 5, 1, 7, 5, 5, 5, 3]",47.15,Testing,39.9,22.93,Task finisher
+319,Xhmey48,"[2, 3, 0, 3]",32.75,Drawing/Illustration,58.15,3.79,Lone Wolf
+320,Loeob25,"[9, 10, 10, 10, 8, 9, 10, 8, 10, 10]",91.98,Flowchart Design,14.32,95.2,Leader
+321,Byskr92,"[10, 8, 6]",77.61,Documentation,21.34,72.06,Perfectionist
+322,Hucpl63,"[4, 6, 4, 5, 1, 4, 5, 3, 4, 4, 1, 8]",34.96,Programming,59.08,14.23,Lone Wolf
+323,Brnvk97,"[7, 7, 4, 9, 8, 5, 6, 8]",74.95,Mockup Design,24.87,64.04,Helper
+324,Ejfat12,"[9, 7, 9, 10, 10, 8, 9, 9, 8, 10, 9, 8]",89.62,Flowchart Design,8.21,98.62,Leader
+325,Ygben43,"[8, 9, 8, 9, 7, 7, 6, 8, 8, 6, 3, 8, 10, 6, 10, 6, 7, 9]",71.71,Reviewing,26.2,62.91,Helper
+326,Wbtzf53,"[6, 6, 7, 8, 4, 9, 9, 7, 9, 6, 4]",68.34,Reviewing,28.34,54.64,Helper
+327,Iqxjv78,"[3, 4, 5, 3, 6]",52.16,Planning,51.78,25.8,Task finisher
+328,Ekhku69,"[7, 4, 10, 6, 7, 7, 8, 8, 8, 5, 5, 8, 7, 6, 10, 5, 8, 8, 4, 10]",75.06,Diagram Creation,18.43,70.03,Helper
+329,Szdfn67,"[1, 3, 5, 2, 3, 5, 3, 2, 4, 2, 4, 3, 5, 3, 4, 1, 3, 3, 3, 2]",32.76,Script Writing,61.85,0.65,Lone Wolf
+330,Jugsg74,"[3, 5, 3, 3, 4]",33.3,Problem Solving,59.28,4.5,Lone Wolf
+331,Qpszd67,"[7, 5, 8, 3, 8, 4, 6, 7, 4, 9]",62.66,Graphic Design,34.58,56.47,Balancer
+332,Yavgn77,"[5, 7, 7, 5, 8, 9]",62.39,Research,31.68,55.19,Balancer
+333,Maehd55,"[2, 1, 4, 3, 2, 1, 2, 2, 3, 5, 3, 0, 3, 4, 1]",30.78,Spreadsheet Work,57.44,0.0,Lone Wolf
+334,Itpgx69,"[8, 10, 10, 9, 8, 10, 10, 10, 10, 9]",91.79,Storyboarding,21.32,89.37,Leader
+335,Wfxmk88,"[3, 5, 2, 4, 3, 2, 6, 3, 5, 5, 5, 6, 4, 2, 2, 6, 6, 2]",49.87,Graphic Design,36.81,28.16,Genelarist
+336,Ftuhp93,"[5, 7, 7, 10, 10, 9, 8, 7, 6, 7, 8, 6, 7, 5, 5, 8, 9]",76.33,Drawing/Illustration,22.04,75.91,Helper
+337,Xghlc53,"[6, 5, 4, 6, 6, 7, 7, 6, 8, 4, 7, 6]",70.31,Peer Review,23.6,65.77,Helper
+338,Wmicy35,"[4, 2, 2, 6, 5, 1, 0, 3, 3]",30.94,Spreadsheet Work,55.16,3.4,Lone Wolf
+339,Aqjel85,"[0, 5, 4, 2, 4, 4, 6, 4, 5, 6, 3, 2, 5, 3, 4, 5, 6]",46.75,Graphic Design,48.23,22.73,Task finisher
+340,Fsgen79,"[7, 7, 10, 10, 10, 9, 7, 6]",77.13,Script Writing,22.96,79.14,Perfectionist
+341,Kvvmz90,"[8, 9, 6, 9, 8, 8, 10, 9, 10, 8, 7, 10, 8, 7, 7, 7, 10, 10]",85.35,Storyboarding,18.01,84.53,Perfectionist
+342,Eerwv38,"[7, 9, 7, 7, 10, 10, 8, 10, 7, 8, 9, 6, 8, 10]",80.68,Problem Solving,23.8,76.25,Perfectionist
+343,Ppfsz98,"[8, 7, 10, 6, 10, 10, 10, 10, 9, 9, 8, 9]",86.55,Storyboarding,6.96,96.48,Leader
+344,Nopky24,"[3, 4, 7, 5, 5, 4, 3, 6, 6, 6]",55.65,Email Writing,49.01,43.33,Genelarist
+345,Jensh10,"[5, 1, 2, 3, 6, 9, 4, 6, 1, 2, 2, 2, 4, 3, 5, 3, 1]",32.35,Drawing/Illustration,59.35,13.35,Lone Wolf
+346,Whguv44,"[9, 9, 5, 7, 8, 9, 9, 9, 10, 10, 9, 10, 7]",93.17,Mockup Design,7.15,90.47,Leader
+347,Gnggh73,"[4, 1, 5, 4, 5, 3, 5, 3, 3, 8, 5, 4, 6, 5, 5]",42.41,Research,38.96,24.71,Task finisher
+348,Itpyt28,"[7, 8, 6, 7, 5, 8, 5, 8, 5, 5, 8, 8]",69.96,Storyboarding,34.95,56.87,Balancer
+349,Sxnqc47,"[9, 6, 8, 9, 7, 6]",84.77,Reviewing,26.31,75.79,Perfectionist
+350,Wgbbt82,"[1, 4, 4, 2, 4, 4, 5, 6, 2]",48.56,Peer Review,46.96,20.52,Task finisher
+351,Ignmu26,"[10, 10, 7, 8, 8, 7, 9, 8, 9, 10, 10, 9]",86.28,Documentation,17.13,88.08,Perfectionist
+352,Dnbbx89,"[7, 6, 8, 4, 8, 6, 4, 8, 7, 5, 7, 5, 6, 7, 6, 8, 5, 6, 7]",66.63,Research,39.41,49.26,Balancer
+353,Vxjli60,"[4, 5, 4, 4, 3, 1, 5, 6, 6, 6, 5, 1]",50.99,Presenting,36.44,31.87,Genelarist
+354,Oekst57,"[7, 6, 4, 10, 6, 8, 8, 9, 9, 8, 6, 8, 9, 10, 8, 9, 9, 7, 8, 10]",76.07,Code Review,12.28,78.64,Perfectionist
+355,Zpaub94,"[3, 4, 3, 5, 4, 2]",38.69,Presenting,47.43,18.03,Task finisher
+356,Ybdel15,"[7, 5, 6, 8, 6, 3, 5, 7, 6, 7, 4, 7, 5, 6, 6, 7, 6, 8, 6]",62.75,Script Writing,25.13,52.11,Balancer
+357,Betdd84,"[6, 5, 5, 7, 7, 7, 4, 4, 8, 5]",62.73,Spreadsheet Work,29.55,52.93,Balancer
+358,Adthu14,"[5, 5, 3, 3, 4, 3, 6, 7, 4]",37.94,Programming,56.15,8.18,Lone Wolf
+359,Omgqf48,"[5, 6, 6, 5, 5, 5, 6, 7, 4, 6, 5, 8, 4, 8]",55.11,Documentation,39.08,44.57,Genelarist
+360,Yehpz65,"[5, 3, 4, 5, 7, 5, 4, 3, 5, 4, 6, 5, 4, 7, 4, 5, 8, 3]",52.58,Spreadsheet Work,39.52,34.3,Genelarist
+361,Qqsjg32,"[4, 6, 4, 4, 3, 5]",47.59,Content Creation,39.62,18.19,Task finisher
+362,Dkynx51,"[2, 3, 4, 4]",40.85,Writing,56.44,16.7,Lone Wolf
+363,Msdbw87,"[7, 3, 3, 4, 5, 3, 5]",48.43,Programming,34.16,31.82,Genelarist
+364,Rymbs96,"[4, 7, 5, 2, 3, 4, 2, 5, 4, 2, 5, 5, 4]",37.12,Spreadsheet Work,45.68,15.87,Task finisher
+365,Numvi87,"[8, 8, 7, 9, 9, 9, 8, 6, 7, 6, 4, 8, 6, 9, 10, 7]",85.8,Email Writing,11.81,90.92,Perfectionist
+366,Qhfgc95,"[5, 4, 5, 5, 7, 2, 6, 6, 8, 6, 5, 5, 6, 5, 4, 5, 4, 6, 7]",53.24,Problem Solving,31.18,34.39,Genelarist
+367,Yjznh25,"[7, 7, 9, 7, 8, 7, 7, 8, 9, 8, 9, 8]",79.22,Research,15.92,79.91,Perfectionist
+368,Zoedq21,"[5, 4, 4, 9, 2, 7, 4, 2, 5, 4, 7, 5, 4, 4, 4, 6]",53.58,Spreadsheet Work,52.05,30.08,Task finisher
+369,Buodo73,"[5, 1, 3, 3, 6, 2, 2, 4, 2, 4, 3, 1, 1, 3]",33.31,Mockup Design,63.29,1.67,Lone Wolf
+370,Utzdr34,"[8, 7, 4, 6, 7, 10, 7, 9, 5, 7, 7, 8, 9, 10, 8, 8, 9, 8]",75.48,Spreadsheet Work,18.74,73.31,Perfectionist
+371,Rsvhl30,"[4, 2, 4, 3, 4, 4, 3, 5, 2, 4]",37.71,Report Formatting,57.12,10.12,Lone Wolf
+372,Vhnhz93,"[4, 3, 4, 7]",51.22,Graphic Design,41.24,33.29,Genelarist
+373,Rfrzt39,"[5, 2, 2, 1, 4, 5, 5, 4, 5, 3, 4, 4, 5, 3, 3, 7, 4, 2]",44.4,Spreadsheet Work,48.22,24.89,Task finisher
+374,Unenm30,"[4, 9, 9, 8, 6, 10, 8, 8, 9, 10, 8, 10]",83.58,Documentation,19.3,78.34,Perfectionist
+375,Gryta92,"[5, 6, 5, 5, 9, 8, 7]",68.49,Mockup Design,33.46,51.56,Balancer
+376,Gffus49,"[7, 5, 6, 7, 6, 10, 4, 5, 6, 7, 7, 6]",65.08,Script Writing,37.45,55.31,Balancer
+377,Rmpjm88,"[6, 6, 2, 2, 3, 3, 3, 3, 2, 3, 2, 3]",38.78,Graphic Design,53.44,11.47,Lone Wolf
+378,Cbtyd30,"[10, 10, 10, 8]",91.64,Content Creation,5.17,96.62,Leader
+379,Aerwr60,"[10, 10, 10, 9, 9]",86.16,Drawing/Illustration,11.33,89.24,Leader
+380,Wbqzq30,"[10, 6, 7, 7, 8, 8, 10, 9, 10, 8, 9, 9, 10, 9, 7, 6, 9, 10]",85.06,Mockup Design,9.26,89.85,Leader
+381,Zgcls60,"[3, 2, 6, 6, 4, 7, 4, 6, 8, 6, 6, 4, 6, 7, 7, 5, 6, 6]",64.95,Code Review,40.97,50.08,Balancer
+382,Yebaf19,"[7, 8, 10, 8, 9, 10, 10, 6, 8, 8, 6, 8, 8]",88.2,Script Writing,9.78,81.49,Perfectionist
+383,Cxhhc41,"[8, 5, 10, 9, 8, 9, 8, 8, 8, 8, 7, 6, 7]",76.18,Reference Finding,19.85,70.53,Perfectionist
+384,Akmta69,"[4, 2, 4, 4, 3, 4, 5, 5, 2, 2, 5, 2]",49.74,Script Writing,48.24,21.75,Task finisher
+385,Ramoc19,"[5, 7, 10, 4]",82.06,Content Creation,13.64,81.05,Perfectionist
+386,Fqgon26,"[5, 3, 2, 3, 4, 2, 4, 3, 5, 4, 3, 3, 5, 4, 3, 3, 5, 4]",35.28,Storyboarding,54.09,7.74,Lone Wolf
+387,Xeogm75,"[10, 9, 10, 8, 10, 10, 9, 9, 9, 7]",86.71,Programming,18.04,86.37,Perfectionist
+388,Gqtkj47,"[6, 2, 4, 5]",39.13,Script Writing,55.76,8.58,Lone Wolf
+389,Jhdal68,"[5, 6, 5, 3, 5]",53.89,Reference Finding,46.23,28.49,Genelarist
+390,Cxzff47,"[4, 5, 6, 7, 5, 6, 3, 7]",50.02,Diagram Creation,38.37,38.79,Genelarist
+391,Kilgw21,"[5, 2, 6, 5, 5, 3, 3, 5, 6, 4, 1, 4, 4, 5, 6, 4]",43.68,Translation,45.25,25.89,Task finisher
+392,Njeca97,"[8, 10, 10, 9, 9, 9, 10, 10, 10]",89.73,Mockup Design,9.12,93.58,Leader
+393,Ptdfg19,"[3, 3, 3, 4, 4, 5, 4, 4]",43.99,Spreadsheet Work,51.84,16.73,Task finisher
+394,Dpoze50,"[7, 6, 7, 4, 7, 4, 6, 8, 5, 6, 7]",67.16,Code Review,29.8,51.16,Balancer
+395,Aqbui23,"[5, 2, 5, 5, 6, 9, 4, 4, 6, 5, 2, 4, 2, 7, 8]",61.44,Flowchart Design,29.7,46.24,Balancer
+396,Vtmos27,"[9, 5, 7, 9, 10, 6, 8, 8, 8, 7, 3, 9, 7, 5, 7, 8]",78.51,Drawing/Illustration,7.64,71.69,Perfectionist
+397,Xskpa22,"[4, 1, 5, 5, 3, 4, 3, 4, 6, 5, 4, 4, 5, 4, 2, 3, 4, 4, 3]",32.33,Mockup Design,52.03,7.2,Lone Wolf
+398,Onthu21,"[8, 9, 9, 7, 9, 7, 8, 5, 7, 8, 6, 10, 8, 8]",81.75,Presentation Design,14.23,75.03,Perfectionist
+399,Inifs57,"[7, 8, 6, 4, 7, 7, 8, 8]",74.62,Flowchart Design,28.1,64.56,Helper
+400,Risoi11,"[7, 7, 7, 8, 7, 9, 6, 5, 4, 3, 4, 5, 7, 5, 6]",64.73,Writing,33.68,49.8,Balancer
+401,Rjqxz51,"[3, 6, 8, 3, 7, 6, 6]",65.66,Planning,33.86,52.6,Balancer
+402,Hqjtc77,"[8, 3, 8, 4, 7, 3, 5, 4, 5, 5, 2, 4, 5, 5, 3, 8, 7]",54.62,Documentation,35.78,41.68,Genelarist
+403,Pjutz62,"[7, 4, 5, 9, 7, 6, 5]",62.58,Code Review,32.9,47.46,Balancer
+404,Pnsze19,"[9, 8, 10, 10, 8, 7]",80.38,Research,23.14,71.5,Perfectionist
+405,Uahvp70,"[7, 5, 3, 6, 6, 6, 6, 7, 5, 7, 8, 5, 8, 10, 6, 7, 6, 7, 7]",74.06,Problem Solving,23.99,66.45,Helper
+406,Mjkye42,"[9, 6, 9, 9, 8, 10, 7, 10, 9, 8, 8, 8, 9, 7, 9]",84.15,Graphic Design,15.18,88.11,Perfectionist
+407,Nyhxb60,"[10, 7, 8, 8, 7, 8, 7, 10, 10, 9, 10, 9]",78.29,Spreadsheet Work,19.14,80.5,Perfectionist
+408,Qmfib24,"[3, 4, 6, 3, 3, 6, 5, 2, 4, 5, 2, 3, 4, 6, 4, 6, 3, 1, 1]",45.72,Peer Review,51.4,20.46,Task finisher
+409,Ugfdq20,"[2, 5, 2, 2, 3, 1, 4, 6, 3, 1, 3, 3, 2, 4, 2, 3]",33.66,Presentation Design,60.85,0.81,Lone Wolf
+410,Ixqwy43,"[5, 3, 5, 6, 3, 6, 5, 7, 8, 6, 6, 7, 6, 6]",62.56,Diagram Creation,30.81,43.33,Balancer
+411,Vxwjx67,"[5, 6, 4, 4, 2, 4, 3, 5, 3, 1, 2, 1, 3, 3, 3, 2, 2, 2, 3]",41.88,Writing,44.15,16.91,Task finisher
+412,Kadlb44,"[6, 8, 9, 9, 8, 8]",80.59,Problem Solving,10.74,80.01,Perfectionist
+413,Bikvf42,"[8, 5, 4, 4, 7]",63.9,Drawing/Illustration,25.62,51.53,Balancer
+414,Ltkfj17,"[10, 9, 9, 8, 9, 9, 8, 10, 10, 9, 10]",96.76,Problem Solving,0.1,98.88,Leader
+415,Sykks98,"[4, 1, 4, 7, 5, 6, 6, 4, 3]",42.35,Drawing/Illustration,42.2,21.42,Task finisher
+416,Guxex70,"[10, 7, 7, 8, 10, 10, 10]",82.91,Script Writing,17.8,85.75,Perfectionist
+417,Qqwsl39,"[7, 9, 9, 8, 8, 7, 10, 8, 10, 6, 8]",81.79,Diagram Creation,22.31,82.06,Perfectionist
+418,Sridl43,"[4, 6, 4, 6, 5, 4, 5, 7, 5, 4, 8, 5, 7]",58.03,Translation,42.4,36.96,Genelarist
+419,Dnthr65,"[2, 6, 6, 6, 3, 4, 4]",48.71,Writing,53.18,22.14,Task finisher
+420,Mdxqc99,"[5, 0, 2, 2, 5, 4, 5, 3, 3, 3, 3, 1, 6]",37.0,Diagram Creation,54.65,6.61,Lone Wolf
+421,Syhrk59,"[2, 10, 7, 9, 3, 6, 5, 7, 7, 5, 5, 7, 4, 5, 4, 6, 3, 6, 5]",60.49,Storyboarding,35.96,51.24,Balancer
+422,Rhioq44,"[5, 9, 6, 5, 6, 8, 7]",71.25,Problem Solving,28.97,59.68,Helper
+423,Ujwjn73,"[6, 5, 5, 7, 7, 5, 6, 6, 7, 6, 6, 6, 7, 7, 8, 6, 7]",63.94,Planning,32.44,55.63,Balancer
+424,Pkmur87,"[1, 2, 2, 2, 4, 2, 4, 3]",34.17,Mockup Design,62.82,0.0,Lone Wolf
+425,Tsrhx25,"[7, 6, 9, 6, 8, 6, 7, 8, 9, 6, 6, 10, 6, 7, 6, 8, 7]",68.63,Documentation,26.42,66.16,Helper
+426,Omhgn33,"[9, 9, 9, 8, 10, 9, 10, 9, 10, 10, 9, 8, 8, 8, 8, 10, 10, 6]",95.19,Planning,4.1,95.9,Leader
+427,Ddslc14,"[5, 5, 7, 4, 1, 5, 7, 4, 6, 6, 4, 7, 4, 6, 8, 6, 7, 6]",54.94,Testing,45.99,37.56,Genelarist
+428,Vthsf97,"[3, 5, 1, 7, 6, 3, 4, 5]",40.1,Flowchart Design,45.04,18.76,Task finisher
+429,Wsdvd94,"[8, 3, 7, 7, 6, 9, 5, 5, 4, 6, 6, 5, 6, 6, 6, 6, 7, 4, 6]",56.99,Planning,36.14,48.09,Balancer
+430,Awkmv59,"[6, 6, 5, 9, 6, 8, 7, 8, 8, 7, 8, 7, 10, 5, 10, 6, 6, 6]",81.45,Graphic Design,13.66,73.54,Perfectionist
+431,Scqkb76,"[5, 3, 4, 4, 3, 0, 3]",40.77,Diagram Creation,59.87,11.25,Lone Wolf
+432,Xpuar14,"[4, 4, 5, 7, 4, 6, 7, 9, 7, 6, 5, 8, 5, 6, 6]",63.46,Presentation Design,37.92,50.78,Balancer
+433,Aaldo34,"[4, 6, 2, 2, 6, 6, 4, 4, 6, 3, 6, 3, 5, 4, 2, 3, 6, 4, 6, 0]",37.83,Problem Solving,46.3,17.96,Task finisher
+434,Mkjtz28,"[6, 1, 5]",50.03,Writing,44.64,24.05,Task finisher
+435,Vhsmv18,"[5, 6, 5, 5, 5, 4, 4, 5, 4, 2, 4, 3, 4, 1, 2]",42.47,Research,47.18,18.79,Task finisher
+436,Azkbk13,"[6, 7, 2, 6, 4, 5, 5]",53.32,Testing,37.67,39.17,Genelarist
+437,Lvxhj85,"[5, 6, 3, 2, 1, 3, 4, 2, 5, 1, 4, 5, 3, 3]",37.06,Reference Finding,58.3,11.73,Lone Wolf
+438,Mpquv14,"[7, 9, 7, 10, 8, 6, 9, 10, 9, 8, 10, 9, 10, 9]",86.81,Email Writing,4.75,83.19,Leader
+439,Wqgpn65,"[2, 6, 7, 5, 6, 6, 4, 8]",61.27,Presenting,26.2,53.98,Balancer
+440,Bqzlm41,"[0, 9, 3, 2, 5, 4, 2, 3, 2, 4, 6, 6, 5, 2]",42.76,Testing,43.44,19.26,Task finisher
+441,Piarh24,"[4, 6, 6, 8, 8, 7, 7, 3, 8, 6, 6]",66.19,Code Review,34.01,52.27,Balancer
+442,Suwrp37,"[10, 10, 9, 10, 7, 10, 9, 8, 9]",92.03,Content Creation,6.43,92.16,Leader
+443,Agetu61,"[4, 1, 4, 5, 4, 2, 3, 7, 6, 6, 5, 4, 3, 5, 5, 3]",40.01,Script Writing,48.33,14.79,Task finisher
+444,Dkkur53,"[7, 7, 9, 8, 8, 9]",81.48,Email Writing,20.85,75.57,Perfectionist
+445,Anybu49,"[2, 5, 4, 4, 5, 5, 6, 7, 5, 5, 7, 8]",56.05,Storyboarding,30.44,41.01,Genelarist
+446,Gmkuy25,"[4, 4, 5, 5, 7, 4, 6, 3]",52.22,Problem Solving,39.84,32.58,Genelarist
+447,Jctkj83,"[4, 5, 4, 1, 2, 5, 3, 2, 6, 5, 2, 6, 3, 2, 6, 5, 5, 4, 2, 4]",39.18,Peer Review,38.91,20.43,Task finisher
+448,Dztto62,"[7, 10, 10, 9, 6, 9, 8, 8, 9, 9, 7, 8, 7, 10, 9, 8, 10, 10]",85.4,Drawing/Illustration,8.9,84.79,Leader
+449,Xfcah37,"[6, 4, 5, 4, 4, 2, 4]",62.99,Testing,32.78,44.22,Genelarist
+450,Apdsy79,"[4, 3, 5, 6, 8, 7, 4, 4, 6, 7, 7, 7, 6, 6, 8, 8]",65.81,Testing,37.74,55.15,Balancer
+451,Hrijc73,"[7, 8, 6, 8, 7, 7, 7, 9, 5, 6, 7, 5, 7, 9, 8, 7, 6]",75.02,Content Creation,26.87,65.02,Helper
+452,Nsxod38,"[5, 6, 4, 4, 4, 7, 2, 5, 4, 4, 7, 5, 3, 6, 5, 1, 5, 5]",46.56,Flowchart Design,38.21,31.72,Genelarist
+453,Lpnvp58,"[6, 5, 7, 7, 5, 3, 7, 8, 4, 3, 9, 5, 8, 5, 7, 5]",58.66,Reviewing,41.4,47.62,Genelarist
+454,Jlwsc94,"[4, 4, 2, 2, 4, 3, 0, 2, 3]",38.5,Reviewing,58.55,8.91,Lone Wolf
+455,Dvwxb98,"[6, 6, 5, 7, 4, 6, 6, 6, 6, 6, 5, 7, 7, 7, 5, 8, 7, 7, 8]",66.28,Peer Review,33.68,46.4,Balancer
+456,Drszd93,"[8, 10, 5, 9, 8, 8, 9, 7, 5, 7, 7, 7, 6, 8, 9, 6, 6, 9, 7]",70.06,Flowchart Design,30.6,66.91,Helper
+457,Souey67,"[6, 2, 4, 4, 6, 4, 6, 5, 7, 4, 6, 4, 3, 6, 4]",52.46,Planning,38.9,42.51,Genelarist
+458,Qlkpr11,"[7, 9, 10, 8, 8, 8, 10, 10, 9, 10]",96.45,Peer Review,0.1,99.41,Leader
+459,Cyzmd31,"[6, 3, 6, 7, 5, 7, 7, 4, 6, 4, 5, 8, 4, 4, 7, 7, 7, 4]",58.53,Reviewing,30.99,49.11,Balancer
+460,Tpnpq88,"[8, 6, 4, 4, 3, 4, 7, 5, 5, 6, 8, 6, 8]",58.49,Flowchart Design,30.95,49.04,Balancer
+461,Joait53,"[3, 4, 4, 4, 3, 7, 7, 4, 6, 6, 6, 5, 2, 2, 7, 2]",50.39,Programming,40.57,34.68,Genelarist
+462,Wurgc45,"[5, 6, 6, 5, 5]",68.5,Report Formatting,35.14,54.63,Balancer
+463,Jphga14,"[5, 6, 8]",76.33,Planning,19.4,67.07,Helper
+464,Hazfa94,"[1, 3, 1, 3, 4, 2, 0]",38.17,Graphic Design,52.05,4.85,Lone Wolf
+465,Fiohf61,"[3, 4, 4, 6, 4, 5, 2, 5, 3, 4, 5, 5, 7, 5, 4, 3]",48.97,Graphic Design,47.59,23.92,Task finisher
+466,Pymkm27,"[5, 5, 5, 3, 6, 4]",35.63,Email Writing,41.82,13.13,Task finisher
+467,Qcwxy43,"[6, 3, 5, 6, 6, 6, 6, 7, 6]",60.84,Spreadsheet Work,29.65,56.0,Balancer
+468,Xhrca12,"[5, 5, 4, 2, 4, 4, 4, 3, 3, 5, 5, 3]",48.19,Research,45.75,30.74,Task finisher
+469,Pvjbo24,"[5, 2, 7, 6, 5, 4, 3, 5, 2, 6, 7, 5, 5]",56.89,Testing,38.71,38.44,Genelarist
+470,Kfara10,"[10, 8, 10, 8, 8, 10, 10, 9, 10, 9, 10, 10, 8, 7]",87.46,Drawing/Illustration,13.99,94.14,Leader
+471,Ayugu49,"[5, 7, 5, 5, 5, 5, 3, 4, 3, 4, 6, 6, 3, 4, 4, 5, 7, 4, 6]",52.29,Reviewing,38.41,32.65,Genelarist
+472,Qllyy26,"[9, 4, 9, 6, 7, 8, 8, 10, 5, 8, 9, 6, 9, 7, 7, 8, 6]",72.98,Drawing/Illustration,25.89,66.82,Helper
+473,Cwfqd10,"[4, 5, 3, 5, 4, 6, 4, 6, 5]",43.78,Code Review,51.29,22.43,Task finisher
+474,Zlqqc44,"[6, 5, 4, 4, 6, 9, 4, 5, 7, 6, 5, 6, 3, 6, 6, 8]",60.99,Graphic Design,29.93,40.72,Balancer
+475,Oljys87,"[8, 5, 7, 8, 4, 5, 7, 3, 4, 4, 6, 5, 4, 3, 7, 6]",56.29,Peer Review,43.89,44.42,Genelarist
+476,Vyxrk89,"[5, 5, 6, 7, 8, 7, 5, 5, 4, 4, 5, 6, 6, 7, 3, 4, 8]",61.36,Drawing/Illustration,34.8,45.95,Balancer
+477,Filuk57,"[4, 5, 3, 3, 3, 4, 3, 4, 5]",37.79,Report Formatting,54.52,16.34,Lone Wolf
+478,Vqxjz61,"[5, 5, 3, 5, 5, 3, 6, 5, 5, 3, 4, 7]",47.4,Mockup Design,50.02,29.71,Task finisher
+479,Jcqvk84,"[6, 6, 7, 7, 5, 10, 7, 8, 9, 6, 6, 8, 6, 5, 4, 8, 7, 8, 7, 10]",71.7,Diagram Creation,22.95,64.98,Helper
+480,Ndfhg95,"[5, 5, 7, 6, 6, 5, 7, 6]",61.6,Writing,31.16,49.99,Balancer
+481,Uwglm77,"[7, 6, 7, 8]",72.88,Presenting,31.91,69.81,Helper
+482,Vdrxa89,"[7, 3, 5, 5, 4, 8, 6, 6, 6]",50.72,Reference Finding,38.58,38.47,Genelarist
+483,Rmxis36,"[5, 5, 2, 4, 2, 4, 5, 3]",41.88,Presentation Design,46.92,17.79,Task finisher
+484,Qkazu77,"[8, 8, 10, 9, 6, 6, 10, 10, 10]",85.13,Documentation,10.01,87.99,Leader
+485,Nftrw60,"[10, 9, 8, 7, 10]",81.75,Presentation Design,13.14,88.91,Perfectionist
+486,Lzmzz40,"[8, 7, 9, 6, 6, 6, 6, 8, 9, 7, 7, 9, 7, 8, 9]",76.93,Storyboarding,18.47,80.38,Perfectionist
+487,Wgnta74,"[8, 6, 8, 8, 8, 10, 10, 8, 10, 8, 9, 10, 9, 10, 7, 10]",90.55,Diagram Creation,9.35,96.39,Leader
+488,Bimsd48,"[7, 5, 9, 4, 5, 6, 6, 6]",63.32,Script Writing,35.69,52.53,Balancer
+489,Itmgw23,"[8, 7, 7, 8, 8, 7, 6, 8, 8]",89.79,Drawing/Illustration,15.86,87.98,Perfectionist
+490,Cyokt30,"[7, 9, 6, 10]",80.34,Programming,12.96,86.83,Perfectionist
+491,Ocpld59,"[2, 4, 3, 2, 1, 1, 4, 2, 4, 5, 2, 3, 4, 5]",41.22,Flowchart Design,65.1,9.17,Lone Wolf
+492,Zhvrz95,"[7, 7, 5, 9, 6, 6, 8, 8, 8, 8, 6, 5, 6]",67.99,Script Writing,19.61,61.69,Helper
+493,Israa55,"[10, 10, 9, 9, 7, 9]",87.12,Report Formatting,14.21,90.45,Leader
+494,Pxjrj38,"[7, 8, 9, 9, 6, 7, 6, 8, 8, 6, 8, 8]",83.22,Code Review,23.25,80.87,Perfectionist
+495,Kohwq73,"[2, 5, 3, 3, 3, 2, 4, 0, 5, 2, 0, 1]",35.84,Translation,67.74,3.26,Lone Wolf
+496,Hqbes28,"[8, 9, 6, 6, 6, 5, 6, 5, 6, 4, 5, 5]",61.14,Mockup Design,26.25,54.41,Balancer
+497,Kwsrd30,"[7, 8, 9, 4, 5, 10, 2, 7, 4, 8, 6]",62.73,Flowchart Design,32.41,52.72,Balancer
+498,Ypytv96,"[5, 1, 3, 3, 3, 4, 5, 2, 4, 1, 5, 6, 6, 3, 3, 5, 4, 3, 3, 4]",38.36,Problem Solving,55.99,14.14,Lone Wolf
+499,Msewe88,"[8, 5, 6, 7, 7, 7, 7, 9, 10, 7, 10, 9, 6, 8, 7, 8]",72.73,Testing,17.79,70.13,Helper
+500,Glyky54,"[6, 6, 7, 7, 7, 7, 6, 6, 8, 7, 5, 6, 6]",60.96,Translation,29.95,51.62,Balancer
+501,Zlcqw87,"[8, 6, 6]",62.83,Documentation,35.87,47.76,Balancer
+502,Wigkt97,"[8, 8, 9, 10, 9, 6, 7, 10, 8, 9, 10, 10, 7, 8, 8, 8, 9, 10, 10, 8]",82.19,Spreadsheet Work,8.81,88.53,Leader
+503,Whgcz10,"[10, 9, 9, 9, 10, 6, 8, 7, 9, 7, 10, 7, 7, 7, 9, 9, 8, 7, 8]",86.56,Spreadsheet Work,16.39,83.5,Perfectionist
+504,Mibhg54,"[5, 7, 8, 7, 6, 7, 4, 4, 5, 3, 6, 5, 4, 3]",47.62,Email Writing,43.72,27.5,Genelarist
+505,Gbabn11,"[8, 9, 7, 10, 8, 8, 10, 10, 10, 9, 9, 10, 10, 9, 10, 10, 10, 8]",88.34,Mockup Design,7.8,99.99,Leader
+506,Uznpf50,"[3, 6, 2, 2, 4, 3, 4, 1, 2, 1, 3, 3, 3, 3, 2, 0, 3]",29.94,Email Writing,52.22,2.72,Lone Wolf
+507,Btaid16,"[4, 4, 7, 5, 4, 4, 5, 5, 5, 6, 5, 3, 5]",47.65,Code Review,43.55,28.33,Task finisher
+508,Nzuct70,"[8, 3, 6, 7, 5, 4, 8, 4]",50.36,Email Writing,39.53,33.22,Genelarist
+509,Wqwqe71,"[7, 6, 4, 4, 5]",55.71,Script Writing,31.82,43.55,Genelarist
+510,Tyagv46,"[10, 9, 5, 9, 10, 9, 7, 7, 8, 9, 8, 7, 10, 9, 9]",83.22,Reference Finding,20.14,76.49,Perfectionist
+511,Ckqqp56,"[7, 5, 8, 6, 5, 6, 4, 7, 6]",58.54,Documentation,35.7,47.67,Balancer
+512,Kiavm20,"[7, 8, 6, 7, 5, 10]",79.12,Mockup Design,18.07,77.1,Perfectionist
+513,Zvzts46,"[2, 5, 0, 8, 3, 4, 3]",42.73,Presenting,36.36,23.56,Task finisher
+514,Dyxiv63,"[6, 9, 8, 4, 5, 9, 8, 6, 7, 7, 9, 4, 6, 8, 5, 7, 9, 8, 7]",67.81,Storyboarding,21.17,62.7,Helper
+515,Dtkwo37,"[7, 9, 9, 9, 6, 5, 7, 9, 4, 10]",76.0,Documentation,17.91,72.48,Perfectionist
+516,Kxptr88,"[4, 5, 5, 7, 6, 6, 6, 6, 5, 4]",50.57,Presenting,45.77,34.66,Genelarist
+517,Ddmzb48,"[6, 10, 9, 9, 9, 10, 10, 9, 8, 8, 7, 9, 10, 9, 9, 10, 10]",90.55,Research,8.22,95.87,Leader
+518,Twhce85,"[8, 6, 6, 4, 6, 4, 8]",68.89,Report Formatting,29.76,55.47,Balancer
+519,Jqxfw51,"[2, 6, 2, 4, 4, 2, 7, 4, 3, 2]",48.85,Planning,42.91,25.41,Task finisher
+520,Dewav92,"[4, 1, 5, 3, 3]",40.04,Reviewing,48.98,21.54,Task finisher
+521,Aihhv47,"[10, 7, 7, 8, 8, 8, 10]",88.99,Drawing/Illustration,12.04,92.36,Leader
+522,Oryhw99,"[9, 8, 9]",87.46,Testing,17.4,91.7,Perfectionist
+523,Rcera24,"[7, 5, 5, 7, 6, 8]",66.15,Drawing/Illustration,28.06,58.59,Balancer
+524,Wwoqv37,"[4, 7, 8]",67.39,Code Review,35.84,55.01,Balancer
+525,Kgmgm49,"[6, 8, 7, 5, 5, 9, 8, 8, 7, 7, 7, 9]",80.16,Research,23.72,73.19,Helper
+526,Zpibo86,"[5, 5, 8, 6, 3, 7, 6, 6, 7]",61.7,Flowchart Design,37.9,43.27,Balancer
+527,Iqbxn99,"[8, 6, 9, 9, 6, 5, 10, 7, 5, 6, 8]",73.86,Code Review,19.63,62.16,Helper
+528,Yuajo98,"[6, 3, 5, 7, 6]",62.26,Script Writing,36.75,53.7,Balancer
+529,Njlzx28,"[9, 4, 6, 6, 8, 5, 6, 7, 10, 7, 7, 6]",69.43,Planning,27.9,60.61,Helper
+530,Otcjm48,"[2, 6, 4, 1]",45.8,Code Review,61.92,19.64,Lone Wolf
+531,Cqxlj98,"[3, 4, 4, 3, 4, 5, 7, 4, 6, 6, 4, 2, 4, 3, 2, 4]",40.08,Presentation Design,43.19,18.34,Task finisher
+532,Zcpcp40,"[7, 7, 6, 5, 4, 7, 6, 4, 6, 10, 6, 6, 7, 6, 5, 6, 4, 8, 7]",65.39,Peer Review,25.59,57.46,Balancer
+533,Dyulv80,"[9, 5, 10, 4, 7, 6]",86.55,Report Formatting,2.72,83.71,Perfectionist
+534,Jimvp76,"[6, 8, 5, 6, 4, 5, 7, 8, 8, 6, 6]",67.76,Code Review,33.91,58.24,Balancer
+535,Pelpl18,"[4, 6, 6, 2, 6, 6, 5, 6, 3, 4, 7, 6, 2]",47.2,Script Writing,39.16,31.55,Genelarist
+536,Rdwgj24,"[7, 8, 5, 10, 10, 10, 10, 9, 9, 10, 10, 10, 9, 7, 9, 10, 10, 10, 10, 6]",94.67,Mockup Design,9.15,96.28,Leader
+537,Jtxtk75,"[7, 6, 7, 7, 6, 6]",65.14,Documentation,37.3,51.77,Balancer
+538,Cpbqh78,"[5, 7, 7, 8, 4, 6, 8, 6, 7, 4, 6, 8, 10]",59.15,Script Writing,30.65,50.25,Balancer
+539,Yqosg52,"[10, 8, 10, 8, 9, 9, 10, 8, 9, 9, 10]",91.55,Email Writing,14.38,90.51,Leader
+540,Xjjai41,"[10, 8, 9, 5, 8, 7, 8, 9, 8, 9, 9]",84.24,Translation,18.16,90.46,Perfectionist
+541,Yreig66,"[1, 0, 4, 4, 2, 5, 1, 2, 1, 3, 3, 2]",30.56,Drawing/Illustration,65.01,1.24,Lone Wolf
+542,Vlrwr69,"[2, 0, 5, 1]",36.78,Programming,47.72,11.0,Lone Wolf
+543,Ereii40,"[4, 5, 6, 5, 5, 4]",49.14,Research,42.24,29.24,Genelarist
+544,Rdaso44,"[8, 7, 7, 8, 6, 8, 6, 5, 6, 8, 6, 5, 5, 7, 6, 8, 6]",71.4,Storyboarding,25.5,56.27,Helper
+545,Hdkxc95,"[3, 6, 1, 2, 4, 4, 4, 2, 5, 3]",34.97,Code Review,57.36,10.55,Lone Wolf
+546,Cedgn53,"[6, 5, 3, 7, 7, 4, 4, 7, 6, 6, 3, 6, 3, 5, 6, 6, 2, 4, 7, 5]",57.06,Drawing/Illustration,43.84,39.95,Genelarist
+547,Uwwwj43,"[5, 6, 3, 6, 3, 4, 5]",44.43,Drawing/Illustration,44.77,19.41,Task finisher
+548,Yczvv12,"[4, 4, 6, 2, 6, 4, 6, 4, 4]",39.76,Translation,51.37,14.36,Task finisher
+549,Hbxsh33,"[2, 6, 2, 6, 4, 2, 4, 2, 4, 3, 6, 1, 4]",35.31,Mockup Design,55.37,18.02,Lone Wolf
+550,Ycgvo16,"[0, 5, 4, 1, 4, 4, 0, 3, 4, 5, 3, 4, 4, 0, 2, 4]",35.21,Presentation Design,63.82,11.49,Lone Wolf
+551,Noytx90,"[6, 5, 4, 6, 3, 7, 9, 7, 6, 5]",62.31,Translation,24.38,54.91,Balancer
+552,Envxp80,"[5, 6, 6, 3, 4, 7, 2, 3, 2, 3]",52.95,Spreadsheet Work,42.41,27.11,Task finisher
+553,Mrdwe11,"[8, 8, 9]",90.26,Presenting,4.75,89.72,Leader
+554,Dphfx80,"[9, 8, 10, 7, 8, 6, 9, 6, 8, 6, 7, 9, 9]",77.38,Writing,5.5,74.61,Perfectionist
+555,Cfnva24,"[9, 9, 6, 7, 8, 6, 6, 8, 10, 8, 8, 6]",75.49,Diagram Creation,25.19,68.88,Helper
+556,Jeypx43,"[6, 8, 7, 8, 6, 6, 7, 6, 7, 5, 8, 6]",69.25,Email Writing,29.17,51.15,Balancer
+557,Fzgck98,"[3, 1, 2, 2, 5, 2]",31.53,Testing,51.33,0.71,Lone Wolf
+558,Llupn53,"[2, 2, 3, 6]",42.39,Code Review,38.0,21.91,Task finisher
+559,Ubrzx43,"[7, 7, 9]",77.82,Graphic Design,18.87,77.46,Perfectionist
+560,Gualt74,"[2, 5, 4, 3, 3, 4, 5, 6, 5, 6, 6]",47.61,Reference Finding,51.0,22.14,Task finisher
+561,Kcvlz55,"[9, 3, 8, 6, 3, 6, 4, 5, 2, 4, 4, 7, 2, 4, 4, 2, 5, 5, 4]",55.65,Presenting,43.57,34.55,Genelarist
+562,Ybpgs73,"[8, 5, 6, 7, 5, 5, 9, 8, 7]",77.14,Mockup Design,21.33,71.35,Helper
+563,Qhoda29,"[6, 8, 10, 9, 10, 9, 6, 10, 9, 9, 10]",91.05,Problem Solving,7.91,85.86,Leader
+564,Ghtyf60,"[4, 4, 3, 6, 4, 5, 6, 6, 6, 3, 5, 3, 7, 5, 6, 6, 6, 3, 7, 6]",57.36,Flowchart Design,34.26,47.63,Genelarist
+565,Odyln75,"[5, 5, 6, 5, 5, 5, 6, 7, 5, 8]",58.72,Presenting,40.59,48.6,Genelarist
+566,Nrnyb31,"[5, 2, 1, 6, 6, 2, 6, 6, 5, 6, 4, 4, 5, 6, 4, 4]",46.85,Writing,46.7,30.85,Task finisher
+567,Aacml79,"[10, 6, 10, 7, 7, 8, 7, 8, 7, 7, 8, 10, 10, 6, 6, 10, 10, 7]",81.35,Content Creation,18.89,79.29,Perfectionist
+568,Zjapr23,"[4, 8, 6, 5, 5, 7, 6, 4, 6, 5, 7]",59.05,Script Writing,43.38,40.86,Genelarist
+569,Ftvpe81,"[10, 10, 9, 8, 8, 10, 10, 9, 10]",90.52,Flowchart Design,10.98,99.72,Leader
+570,Zkefl62,"[10, 10, 9, 6, 10, 7, 10]",90.77,Diagram Creation,2.25,91.45,Leader
+571,Kjzjy35,"[5, 4, 3, 5, 1, 5, 3]",53.35,Drawing/Illustration,41.37,30.21,Task finisher
+572,Bafuj78,"[1, 4, 2, 5, 6, 4, 3, 4, 3, 4, 4, 3, 4, 3, 3, 0, 3, 2, 4]",32.79,Storyboarding,52.68,6.64,Lone Wolf
+573,Sxeap28,"[8, 10, 8, 9, 9, 10, 7, 10, 10, 10, 8, 9, 9, 9, 8, 10, 8, 7, 10, 9]",86.85,Report Formatting,4.24,88.16,Leader
+574,Vujow34,"[7, 2, 5, 3, 5, 3, 2, 1, 4, 2]",34.01,Code Review,47.08,12.64,Lone Wolf
+575,Sbavh34,"[6, 3, 4, 6, 5, 2, 6, 4, 6, 4, 3, 6, 5, 6, 4, 8, 6]",45.88,Writing,48.17,24.5,Task finisher
+576,Ziuzv14,"[3, 3, 5, 3, 6, 2, 5, 3, 7, 2, 4, 3, 4, 4, 5, 3, 4]",43.49,Spreadsheet Work,45.4,17.75,Task finisher
+577,Rtees72,"[2, 5, 3, 3, 4, 5, 4, 5, 4, 2, 3, 4, 3, 4, 3, 3]",38.47,Planning,54.44,18.68,Lone Wolf
+578,Jfsgf53,"[7, 10, 9, 9, 8, 10, 9, 7]",96.94,Writing,0.1,99.24,Leader
+579,Cfhkf36,"[3, 3, 7, 3, 4, 3, 5]",42.8,Spreadsheet Work,56.99,11.52,Lone Wolf
+580,Xhbsh62,"[8, 8, 6, 3, 3, 7, 4, 6, 6, 4, 5, 10, 7, 4, 7, 5, 6, 9, 2, 8]",59.95,Report Formatting,42.41,43.21,Genelarist
+581,Gbnpf58,"[4, 7, 4, 3, 4, 3, 6, 2, 7, 5, 3, 4, 6, 4]",54.53,Problem Solving,37.32,36.09,Genelarist
+582,Wacrq49,"[7, 7, 8, 7, 5, 8, 7, 7, 5]",72.93,Spreadsheet Work,17.48,69.7,Helper
+583,Ncxzo26,"[7, 6, 6, 5, 8, 7, 8]",67.03,Documentation,22.5,63.9,Helper
+584,Uhste54,"[4, 2, 3, 3, 4, 1, 2, 3, 1, 4, 1]",40.78,Problem Solving,46.99,12.7,Lone Wolf
+585,Zdzso78,"[8, 8, 9, 7, 7, 8, 8, 10, 9, 7, 6, 9, 5, 8, 9, 7, 10, 6]",79.89,Content Creation,15.95,80.71,Perfectionist
+586,Jpwzm17,"[6, 4, 3, 3, 4, 5, 4, 2, 2, 3, 2, 4, 3, 3]",34.26,Presentation Design,44.19,10.53,Lone Wolf
+587,Crkno23,"[7, 9, 8, 6, 6]",74.66,Planning,8.22,75.55,Perfectionist
+588,Qwbqz84,"[7, 9, 4, 10, 9, 10, 10, 8, 8, 8, 9, 7, 8, 8, 7, 9, 10]",82.78,Programming,16.17,83.01,Perfectionist
+589,Tlbqg51,"[8, 7, 8, 9, 9, 8, 9, 10, 10]",85.16,Email Writing,13.61,83.12,Perfectionist
+590,Pptmj96,"[10, 7, 10, 10, 10, 9, 10, 10]",83.82,Drawing/Illustration,9.36,89.46,Leader
+591,Kigdr44,"[4, 2, 5, 4, 4, 5]",57.98,Presenting,45.2,37.96,Genelarist
+592,Twber51,"[10, 9, 9, 7, 10, 10, 9, 8, 9, 8, 9, 5, 9, 8, 5, 7, 6, 8, 7, 8]",82.09,Code Review,20.32,76.77,Perfectionist
+593,Badao58,"[4, 5, 4, 2, 3, 5, 3, 3, 6, 2, 6, 7, 5, 4, 2, 1, 2]",39.56,Flowchart Design,45.23,11.55,Task finisher
+594,Ogchn77,"[10, 10, 10, 10, 9, 10]",87.77,Script Writing,10.56,93.35,Leader
+595,Lzmxo87,"[3, 6, 4, 5, 5, 2, 5, 6, 6]",42.16,Script Writing,46.83,28.77,Task finisher
+596,Irfff30,"[6, 6, 6, 5, 6, 3, 2, 8, 5]",51.28,Writing,35.95,40.57,Genelarist
+597,Wzkoq15,"[6, 7, 5, 4, 6, 7, 6, 3, 4, 9, 7, 5, 6, 5, 6, 3, 8, 6, 5, 6]",56.73,Storyboarding,30.57,47.34,Balancer
+598,Mwzsa36,"[1, 4, 1, 4, 6, 5, 4, 4, 4]",34.29,Programming,49.84,9.29,Lone Wolf
+599,Ryzoc78,"[8, 8, 10, 7, 9, 8, 9, 10, 10]",85.29,Drawing/Illustration,8.39,92.35,Leader
+600,Qzxib39,"[6, 4, 4, 3, 7, 3]",47.91,Flowchart Design,40.15,33.63,Genelarist
+601,Xaeor16,"[4, 3, 5]",32.93,Email Writing,55.61,11.61,Lone Wolf
+602,Ajutu36,"[7, 6, 7, 7, 7, 7, 6, 8, 5, 7, 6, 6, 9, 7, 8]",75.9,Reviewing,24.92,63.05,Helper
+603,Qkifa16,"[8, 4, 4, 3, 5]",48.97,Presenting,45.76,32.72,Genelarist
+604,Xllke92,"[8, 9, 10, 10, 6, 10, 9]",88.49,Testing,12.16,86.77,Leader
+605,Zoknv99,"[7, 6, 8, 6, 5]",65.7,Documentation,23.48,56.74,Helper
+606,Sgwfb36,"[1, 3, 2, 6, 4, 6, 7, 5, 6, 7, 3, 5, 8, 6, 7]",54.38,Spreadsheet Work,38.88,31.58,Genelarist
+607,Dspyc42,"[6, 2, 4, 5, 4, 4, 4, 5, 6, 1]",40.99,Presenting,47.82,10.97,Task finisher
+608,Mydfe22,"[4, 3, 2, 3, 2, 3, 5, 4, 0, 2, 1, 0, 3, 4, 4, 5]",27.5,Report Formatting,52.15,0.0,Lone Wolf
+609,Jnzsz62,"[7, 4, 6, 7, 9, 7, 10, 7, 9, 6, 7, 5, 5, 6, 6, 4, 8]",77.91,Research,18.24,67.14,Helper
+610,Wiidw63,"[8, 6, 6, 10, 7, 7, 8, 10, 8, 8, 5, 9, 10, 9, 8, 9]",83.93,Translation,11.57,86.88,Perfectionist
+611,Szrvp67,"[10, 8, 10, 8, 9, 7, 9, 10, 10, 9, 10, 10, 9, 7, 8, 9]",95.79,Planning,6.1,97.98,Leader
+612,Kbubf75,"[5, 10, 8, 10, 7, 9, 10, 9, 8, 10, 10, 8, 7]",88.57,Reference Finding,2.83,85.31,Leader
+613,Oihwp31,"[4, 6, 6, 8, 6, 7, 7, 5, 8, 4, 4]",62.18,Documentation,44.06,53.29,Balancer
+614,Zeffy95,"[1, 4, 3, 4, 4, 4, 3, 2, 3, 7, 7, 2, 1, 5, 3, 4, 4, 6, 7, 6]",48.14,Mockup Design,57.13,26.17,Task finisher
+615,Tevnd74,"[4, 6, 6, 4, 4, 5, 4, 1, 3, 3, 2]",43.09,Presentation Design,50.61,19.0,Task finisher
+616,Bgrzb98,"[4, 5, 3, 5, 5, 4, 5]",50.42,Testing,43.09,39.27,Genelarist
+617,Gvzwf71,"[8, 6, 8, 7, 5, 3, 3, 6, 5, 6, 6, 7, 6, 8]",58.29,Problem Solving,30.27,47.82,Balancer
+618,Pmpcv82,"[9, 7, 9, 7, 7]",93.8,Report Formatting,16.95,96.63,Leader
+619,Ayhhz66,"[3, 4, 2, 4, 5, 4, 5, 6, 2, 4, 3]",40.93,Spreadsheet Work,52.49,16.1,Task finisher
+620,Yrnse35,"[5, 6, 6, 5, 3, 5, 5, 3, 2, 2, 6, 5, 1, 6, 6]",49.71,Translation,52.78,22.38,Task finisher
+621,Jcqdk64,"[10, 6, 8, 10, 9, 10, 10]",91.54,Peer Review,9.53,98.61,Leader
+622,Axiql72,"[7, 8, 10, 10, 10, 10, 10, 10]",90.93,Testing,6.96,93.99,Leader
+623,Zyvpw53,"[4, 7, 1, 2, 3, 2, 2, 3, 2, 5, 2, 2]",35.3,Writing,67.07,3.83,Lone Wolf
+624,Rbxsx25,"[9, 7, 8, 10, 8, 7, 10, 10, 7, 10, 10]",96.14,Documentation,11.1,97.05,Leader
+625,Pqqfd14,"[7, 10, 10, 10, 8, 10]",89.36,Spreadsheet Work,7.76,95.85,Leader
+626,Wygth70,"[3, 5, 1, 1, 2, 2, 3, 4, 5, 4, 3, 2]",38.6,Planning,39.69,17.29,Task finisher
+627,Lbdpn29,"[10, 8, 7, 8, 7]",80.74,Documentation,14.88,86.52,Perfectionist
+628,Zhszl96,"[8, 9, 10, 10, 9, 10, 10, 9]",95.21,Testing,0.99,97.27,Leader
+629,Lricl68,"[3, 0, 3, 4, 3, 4, 2, 2, 2, 2, 4, 2, 3, 2, 6, 4, 3, 0, 5, 3]",32.16,Graphic Design,55.43,3.67,Lone Wolf
+630,Gbuzs97,"[10, 10, 10]",80.98,Storyboarding,17.59,85.48,Leader
+631,Dijtj65,"[8, 5, 7, 10, 5, 8]",62.83,Reviewing,22.04,54.66,Helper
+632,Xcywu92,"[2, 4, 5, 2, 5, 7]",44.88,Spreadsheet Work,44.44,18.3,Task finisher
+633,Wrjip48,"[4, 5, 3, 6]",58.68,Planning,38.53,37.4,Genelarist
+634,Ofznj43,"[3, 4, 4, 4, 6, 4, 1, 1, 5, 5, 5]",42.22,Programming,48.4,13.24,Task finisher
+635,Bxftk48,"[6, 6, 6, 6, 6, 7, 5, 4, 5, 4, 6, 2, 5, 6, 6, 9]",55.19,Research,39.47,41.87,Genelarist
+636,Ybbwd86,"[8, 8, 8, 7]",81.76,Research,23.23,74.9,Perfectionist
+637,Tpibz80,"[7, 9, 9, 10, 7, 7, 10, 10, 9, 9, 9, 10, 8, 9, 7, 7, 7, 8, 7, 10]",85.51,Content Creation,5.01,91.1,Leader
+638,Ugbyj74,"[8, 9, 10, 9, 8, 7, 9, 10, 9]",89.31,Email Writing,11.12,94.2,Leader
+639,Zdzis41,"[7, 2, 4, 4, 5, 4, 4, 2, 6, 5, 2, 5]",43.88,Drawing/Illustration,47.05,24.44,Task finisher
+640,Efoii26,"[4, 5, 8, 6, 7, 4, 7, 4, 7]",67.21,Writing,25.13,56.2,Balancer
+641,Mlqie51,"[8, 8, 6, 9, 9, 9, 9, 8, 7, 6, 10, 8, 9, 10, 7, 6, 8, 10, 8]",81.31,Script Writing,11.96,84.27,Perfectionist
+642,Liary85,"[6, 5, 3, 8, 6, 6]",61.95,Testing,30.1,43.49,Balancer
+643,Hzbqf71,"[9, 5, 8, 8, 10, 10, 8, 9, 9, 8, 8, 8, 10]",85.23,Spreadsheet Work,1.58,90.11,Leader
+644,Mujdc43,"[8, 5, 7, 7, 7, 7, 8, 6, 7, 7, 6, 7, 4, 7]",75.0,Research,29.46,63.21,Helper
+645,Bbjfb77,"[6, 10, 7, 7]",72.6,Writing,26.48,63.63,Helper
+646,Shjjn43,"[4, 4, 4, 5, 3, 4, 3, 7, 5, 6, 4, 6, 7, 4, 6]",54.18,Email Writing,28.03,38.38,Genelarist
+647,Pkyyp29,"[4, 2, 4, 4, 2, 2, 3, 3, 7, 3, 2, 4, 5]",37.75,Presenting,51.96,17.46,Lone Wolf
+648,Zdmxr14,"[7, 10, 7, 7, 9, 10, 9, 8, 10, 10, 10, 8, 9, 8, 9]",89.4,Reference Finding,0.1,98.1,Leader
+649,Vjjas76,"[7, 8, 8, 8]",80.32,Email Writing,13.09,76.93,Perfectionist
+650,Fqnvo28,"[1, 5, 5, 4, 3, 6, 6]",52.32,Code Review,50.89,28.6,Task finisher
+651,Bfdqc94,"[6, 6, 8, 5]",58.08,Graphic Design,30.08,44.84,Balancer
+652,Cehoc37,"[7, 7, 8, 5]",71.9,Graphic Design,26.13,58.58,Helper
+653,Pzoop32,"[7, 7, 6, 7, 6, 7, 6, 6, 5, 7, 8]",65.72,Spreadsheet Work,23.34,57.21,Helper
+654,Gtsla69,"[1, 5, 3, 1, 5, 0, 2, 5, 4, 2, 2, 1, 3, 3, 2, 6]",34.08,Report Formatting,54.15,0.0,Lone Wolf
+655,Mdmvu84,"[9, 7, 10, 6, 7, 8, 7, 9, 8]",81.62,Reference Finding,12.13,84.44,Perfectionist
+656,Qzfrf37,"[5, 4, 2, 2, 4, 5]",36.87,Reviewing,46.17,12.59,Task finisher
+657,Gktgv55,"[4, 2, 5, 1, 4, 3, 3, 2, 3, 4, 2, 2]",31.27,Presentation Design,58.88,4.92,Lone Wolf
+658,Pzirp90,"[3, 3, 5, 6, 4]",37.01,Spreadsheet Work,54.42,11.57,Lone Wolf
+659,Zlhdb14,"[5, 5, 4, 6, 5, 6, 4, 6, 6, 5, 4, 3, 7, 2, 8, 6, 6, 3, 7, 9]",62.08,Reference Finding,30.53,43.59,Balancer
+660,Xuoag49,"[6, 5, 7, 3, 2, 4]",57.37,Storyboarding,42.79,44.58,Genelarist
+661,Zmmsb89,"[2, 5, 4, 1, 0]",35.47,Diagram Creation,62.52,7.82,Lone Wolf
+662,Hieio78,"[9, 10, 5, 9, 7, 9, 8, 8, 8, 10, 8, 5, 10, 7, 8, 10]",85.74,Reviewing,6.82,78.27,Perfectionist
+663,Mngsx74,"[6, 7, 6, 8, 9, 9, 7, 8, 4, 7, 8, 7, 7, 7, 6, 6, 5, 6, 7]",65.31,Script Writing,28.36,58.49,Helper
+664,Lucgn39,"[3, 4, 6, 3, 2, 3, 3, 3, 3, 4, 4, 2, 3, 4, 4, 6]",41.97,Reviewing,55.22,14.17,Lone Wolf
+665,Yidot48,"[9, 10, 10, 10, 10, 8, 10, 8, 7, 10, 8, 9, 9, 10, 8, 8]",97.01,Content Creation,3.97,99.6,Leader
+666,Jfcbj64,"[6, 8, 9, 10, 8, 10, 10, 9, 10, 9, 8, 8, 10, 9, 10]",89.26,Mockup Design,12.32,93.23,Leader
+667,Hlhld64,"[5, 4, 5, 5, 4, 5]",61.83,Mockup Design,30.56,47.09,Balancer
+668,Ikbmy79,"[3, 3, 3, 4, 4, 4, 3, 2, 4, 4, 3, 3, 3, 4, 3, 5]",38.84,Problem Solving,59.79,12.01,Lone Wolf
+669,Aeebb75,"[5, 6, 6, 8, 7, 4, 6, 5, 6, 4, 7, 4]",57.99,Writing,37.56,43.88,Genelarist
+670,Tefyv24,"[8, 6, 7]",73.63,Translation,25.03,68.17,Helper
+671,Jhqky65,"[6, 8, 8, 6, 4, 5, 5, 8]",69.56,Reference Finding,28.92,57.35,Balancer
+672,Brajs16,"[10, 10, 6, 6, 8, 9, 10, 8]",94.05,Writing,5.18,94.4,Leader
+673,Visgy30,"[9, 7, 9, 7, 8, 5, 9, 8, 6, 9, 10, 10, 9, 10, 8, 8, 10, 10, 7]",88.93,Problem Solving,0.1,90.05,Leader
+674,Fcuvc78,"[8, 8, 9, 9]",84.97,Planning,13.87,82.42,Perfectionist
+675,Icolc44,"[6, 6, 8, 4, 8, 6, 5, 7, 4, 3, 6, 9, 7, 9, 8, 5, 8, 5]",62.4,Research,32.87,41.98,Balancer
+676,Lhlow86,"[4, 4, 6, 5, 4, 5, 4, 3, 3, 3, 2, 2, 5, 5, 3, 3]",39.88,Report Formatting,54.61,9.71,Lone Wolf
+677,Yeqsw32,"[5, 5, 5, 4, 4, 7, 6, 3, 4, 4, 4, 3, 5, 4, 5]",49.79,Report Formatting,41.24,28.76,Genelarist
+678,Vuceh84,"[9, 10, 7, 10, 9, 10, 6, 7, 7, 8, 8, 6, 8, 8, 8, 8, 6, 7, 6, 6]",76.96,Email Writing,21.22,73.61,Perfectionist
+679,Yjlbp65,"[7, 7, 5, 4, 3, 4, 5, 6, 4, 6, 5, 3, 6, 6, 6, 4, 7, 8]",50.08,Spreadsheet Work,38.16,34.73,Genelarist
+680,Yixcn97,"[6, 4, 6, 8, 7, 5, 6, 6, 7, 4, 2, 8, 5]",58.11,Spreadsheet Work,32.56,38.14,Genelarist
+681,Afxhq69,"[9, 7, 6, 8, 7, 7, 7, 8, 5, 7, 6, 10]",78.9,Script Writing,11.84,73.13,Perfectionist
+682,Xcuwc19,"[7, 3, 6, 3, 7, 3, 5, 3, 0, 4, 3, 1, 4, 3, 3, 4, 4, 7, 3]",39.18,Research,43.41,15.49,Task finisher
+683,Jyncd21,"[1, 2, 1, 5, 0, 2, 3, 4]",35.73,Script Writing,63.65,0.92,Lone Wolf
+684,Asdyf15,"[4, 2, 7, 3, 2, 2, 2, 3, 4, 5, 4, 1, 3, 3, 2, 1, 5, 4, 6, 2]",32.45,Mockup Design,57.71,8.76,Lone Wolf
+685,Sqtjc40,"[8, 9, 10, 10, 9, 9, 7, 8, 9, 10, 8, 8, 10]",94.52,Diagram Creation,15.66,94.99,Leader
+686,Gwtiu30,"[2, 4, 4, 3, 4, 4, 1]",39.87,Peer Review,63.21,6.19,Lone Wolf
+687,Lzbip74,"[9, 9, 10, 9, 8, 5, 6, 6, 10, 7, 10, 9, 8, 7, 6, 10, 8, 8, 10]",87.06,Peer Review,19.02,82.32,Perfectionist
+688,Ztwwn43,"[4, 4, 3, 7, 5, 2, 4, 3, 2, 2, 2, 3, 3, 4, 1, 3, 3, 4]",40.38,Content Creation,65.5,10.84,Lone Wolf
+689,Izwor86,"[5, 7, 6, 7, 6, 7, 6, 8, 9, 6, 6, 9, 6, 5, 6, 8, 8, 6, 7, 5]",67.79,Research,19.56,61.85,Helper
+690,Txfwa87,"[5, 0, 4, 5, 4]",38.42,Testing,50.69,15.36,Lone Wolf
+691,Vumgz76,"[7, 9, 8, 8, 7, 10, 6, 8, 8, 6, 9, 5, 7, 10, 8, 6, 10, 6, 8, 10]",77.75,Mockup Design,27.21,69.35,Helper
+692,Ilfwr85,"[3, 1, 2, 1, 1, 3, 0]",26.5,Research,64.17,1.84,Lone Wolf
+693,Llvli53,"[7, 4, 6]",40.09,Reference Finding,47.17,20.5,Task finisher
+694,Cilia23,"[4, 5, 6, 9, 7, 5, 5, 5, 2, 7, 4, 4, 5, 3, 6, 4, 7]",60.54,Translation,34.67,40.11,Genelarist
+695,Xmkzl69,"[6, 6, 7, 6, 4, 5, 7, 6, 5, 4, 5, 6, 5, 9, 4, 5, 5, 5]",50.58,Translation,36.14,36.47,Genelarist
+696,Cokrf17,"[6, 8, 7, 3, 6, 6, 5, 7]",68.65,Graphic Design,29.82,60.35,Balancer
+697,Wpowh77,"[9, 4, 10, 5, 6, 7, 6, 8, 7, 9, 6, 8, 9, 10, 5, 7, 7, 8]",77.38,Storyboarding,18.31,67.24,Helper
+698,Qnxkj83,"[1, 3, 6, 5, 6, 4, 4, 1, 3, 6, 2, 4, 4, 6, 3, 5, 2, 2, 4]",44.13,Diagram Creation,50.05,16.65,Task finisher
+699,Ovcrd37,"[6, 6, 8, 9]",71.71,Translation,29.21,68.96,Helper
+700,Tkqdu55,"[8, 8, 5, 5, 5]",71.94,Graphic Design,25.33,60.23,Helper
+701,Yaglx38,"[10, 9, 10, 8, 8, 7, 6, 7, 9, 9, 10, 6, 8, 9, 7, 10, 10, 10]",85.77,Documentation,17.81,83.6,Perfectionist
+702,Gtshr80,"[10, 10, 9, 7, 8, 8, 10, 9]",94.91,Translation,5.59,95.35,Leader
+703,Mucbo20,"[7, 9, 9, 7, 9, 7, 8, 7, 6]",81.32,Code Review,27.62,74.71,Helper
+704,Cgqsl49,"[3, 3, 7, 2, 3, 6, 3, 5, 3]",47.76,Presentation Design,46.13,19.32,Task finisher
+705,Mayui72,"[1, 4, 3, 3, 3, 3, 3, 1, 2]",37.86,Diagram Creation,53.82,12.2,Lone Wolf
+706,Swfap93,"[6, 6, 6, 7, 6, 8, 7, 8, 6, 6, 7, 9, 7, 8, 9, 5]",67.84,Graphic Design,24.01,62.98,Helper
+707,Qyqdr67,"[10, 9, 10, 9, 9, 10, 10, 10, 10, 10, 9]",91.59,Reference Finding,3.95,96.97,Leader
+708,Bmegf14,"[6, 6, 7, 6, 7, 8, 9, 9, 7, 3, 7, 9, 5]",74.21,Content Creation,33.84,58.9,Helper
+709,Qieid57,"[4, 6, 5, 7, 5, 7, 5, 6]",58.68,Report Formatting,39.46,46.21,Genelarist
+710,Idjte30,"[3, 3, 0, 3, 1, 2, 4, 1, 4, 3, 2, 3, 3]",37.68,Script Writing,56.72,9.32,Lone Wolf
+711,Cnlvb56,"[7, 6, 7, 3, 3, 6, 4, 5, 4, 7, 4]",54.46,Problem Solving,39.44,42.82,Genelarist
+712,Dnfwg71,"[8, 6, 7, 7, 6, 7, 6, 6, 7, 6, 8, 9, 4, 2]",74.97,Peer Review,13.16,61.33,Helper
+713,Bwsna99,"[5, 4, 5, 6, 5, 5, 5, 7, 5, 6, 7, 8, 6, 6]",55.81,Spreadsheet Work,36.14,42.66,Genelarist
+714,Sasdy18,"[3, 2, 3, 2, 4, 1, 4, 2, 3, 1, 4, 2, 3, 4, 3, 5, 5]",36.09,Script Writing,60.79,7.52,Lone Wolf
+715,Dyinf23,"[4, 2, 3, 5, 5, 5, 2, 4, 4, 2, 1, 3]",42.86,Testing,46.94,22.39,Task finisher
+716,Hbjwr76,"[6, 7, 5, 5, 7, 6, 8, 5, 6, 7]",67.33,Drawing/Illustration,31.92,58.01,Balancer
+717,Pkbmh57,"[7, 10, 9, 10, 8, 10, 9, 10, 8, 6, 7, 8, 9, 10, 10, 6, 9]",86.19,Problem Solving,18.99,89.08,Perfectionist
+718,Pyfqi60,"[1, 2, 6, 4, 4, 1, 2, 4, 3, 5, 4, 5, 2]",26.86,Peer Review,54.0,0.0,Lone Wolf
+719,Wzsny75,"[9, 10, 9, 7, 10, 8, 6, 10]",86.02,Problem Solving,9.81,83.79,Leader
+720,Zjlml17,"[9, 8, 9, 10, 9, 9, 9, 7, 7, 10, 9, 10, 9]",91.64,Drawing/Illustration,6.55,94.38,Leader
+721,Bgazx98,"[5, 8, 7, 4, 7, 7, 5, 5, 8, 4]",60.89,Drawing/Illustration,41.51,41.72,Genelarist
+722,Jrjrp89,"[8, 7, 9, 8, 10, 10, 8, 9, 10, 7, 8, 10, 8, 8, 6]",86.2,Content Creation,15.26,88.49,Perfectionist
+723,Vcwlz55,"[4, 5, 4, 2, 3, 6, 2, 2, 4, 4, 3, 3, 6, 4, 4, 5]",42.96,Graphic Design,56.62,16.03,Lone Wolf
+724,Ljavv88,"[10, 7, 10]",93.63,Report Formatting,0.1,99.64,Leader
+725,Ehgdh53,"[5, 6, 5, 7]",71.4,Problem Solving,23.51,70.55,Helper
+726,Tiptp66,"[7, 5, 5, 8, 6, 4, 5, 7, 7, 4]",61.5,Testing,35.13,51.58,Balancer
+727,Emftj27,"[3, 2, 1, 6, 3, 6, 6, 7, 2, 4, 7, 5, 5, 5, 6, 4, 4, 4, 7]",42.14,Translation,49.41,24.49,Task finisher
+728,Zjqqa36,"[10, 7, 8, 5, 10, 10, 8, 9, 10]",82.79,Reviewing,5.38,83.86,Leader
+729,Kxifl50,"[5, 7, 6, 8, 6, 9, 6, 7, 9]",75.52,Spreadsheet Work,14.16,76.99,Perfectionist
+730,Joopr71,"[5, 7, 4, 5, 6, 4, 5, 8, 7, 1, 6, 4, 7, 3, 6, 5]",49.15,Graphic Design,45.19,37.32,Genelarist
+731,Audom83,"[9, 10, 10, 8]",88.08,Drawing/Illustration,6.06,87.16,Leader
+732,Sbpie97,"[6, 9, 9, 10, 10, 6, 7, 3, 10, 10, 8, 9, 7, 9, 6, 7, 8, 8, 5]",86.36,Drawing/Illustration,14.77,87.59,Perfectionist
+733,Sidmp91,"[10, 10, 9, 10, 10, 9, 10, 9, 8, 10, 6, 10, 9, 8, 10]",94.07,Programming,7.98,99.56,Leader
+734,Dcdto30,"[3, 0, 1, 4, 4, 3, 5, 1]",42.48,Translation,49.72,20.05,Lone Wolf
+735,Zpsva88,"[10, 10, 7, 8, 9, 10, 9, 6, 9, 6, 8, 5, 10, 9, 8, 6, 7]",82.67,Testing,22.41,78.47,Perfectionist
+736,Ytwll52,"[10, 9, 10, 7]",93.82,Code Review,10.41,93.44,Leader
+737,Thszf70,"[4, 6, 4, 4, 3, 4, 5, 2, 3, 3]",43.52,Script Writing,50.42,25.44,Task finisher
+738,Erruu23,"[9, 8, 4, 10, 8, 7, 10, 7, 6, 10, 5, 5, 9, 8, 9, 5]",74.72,Writing,17.91,73.28,Perfectionist
+739,Vluku89,"[7, 5, 7, 8, 8, 7, 7, 9, 5]",73.59,Diagram Creation,25.22,69.08,Helper
+740,Pvkhv16,"[5, 4, 6, 3, 6, 5, 2, 7, 7, 3]",50.57,Planning,33.54,37.9,Genelarist
+741,Tgbpj91,"[4, 3, 6, 5, 3, 6, 3, 4, 5, 2, 6]",45.97,Testing,44.64,23.04,Task finisher
+742,Lkcro69,"[0, 3, 4, 0, 3, 2, 5, 2, 4, 2, 2, 4, 4, 1, 2, 4, 3, 3, 3, 2]",30.79,Planning,56.07,0.0,Lone Wolf
+743,Glpub80,"[6, 3, 2, 4, 3, 0, 5, 5, 2]",37.79,Planning,61.23,5.88,Lone Wolf
+744,Hgltg25,"[8, 10, 8, 8, 7, 10, 10, 6, 9, 9, 9, 8, 6, 10, 7, 7, 6, 10, 9]",84.38,Mockup Design,9.65,91.02,Leader
+745,Hnqnq73,"[4, 3, 4, 3, 6]",39.91,Email Writing,53.53,9.98,Lone Wolf
+746,Pxagn50,"[5, 4, 4, 9, 5, 6, 6]",53.81,Script Writing,41.61,45.63,Genelarist
+747,Eddeo18,"[7, 8, 7, 7, 9, 9]",83.9,Presenting,9.93,87.86,Perfectionist
+748,Dhedn96,"[6, 6, 4, 6, 4, 4, 4, 5, 4, 2, 3, 6, 3, 4]",43.97,Documentation,41.28,22.53,Task finisher
+749,Hakgd85,"[6, 5, 4, 5, 5, 4, 8, 3, 6, 3, 7, 3, 2, 4]",37.06,Testing,47.25,16.76,Task finisher
+750,Vyher27,"[7, 7, 4, 6, 7, 5, 8, 8, 7, 7, 8]",74.13,Planning,31.31,59.76,Helper
+751,Ptrog98,"[5, 7, 4, 4, 5, 2, 4, 3, 3, 4, 2, 3, 4, 5, 2, 3, 7, 6]",44.83,Problem Solving,53.14,29.94,Task finisher
+752,Sxvfz46,"[4, 4, 4, 4, 3, 6, 2, 1, 7, 8, 5, 2, 4, 4, 6]",39.96,Flowchart Design,56.27,22.11,Task finisher
+753,Qlnps57,"[9, 10, 9, 9, 6, 7, 10, 8, 9, 7, 9, 10, 8, 9, 8, 10, 9, 9]",88.68,Programming,22.45,83.09,Perfectionist
+754,Twgkb86,"[0, 2, 3, 4, 2, 2, 2, 0]",39.91,Code Review,55.52,10.47,Lone Wolf
+755,Raijq24,"[8, 6, 9, 8, 9, 9, 9, 9, 7, 7, 8, 9, 10, 7, 9, 7, 4, 6]",84.71,Code Review,20.76,81.48,Perfectionist
+756,Dvvcv22,"[4, 5, 4, 2, 6, 3, 3, 2, 2, 2, 3, 4, 5, 5]",40.52,Reviewing,57.01,12.13,Lone Wolf
+757,Kujmf78,"[9, 7, 6, 5, 7, 6, 7, 7, 5, 6, 5, 7, 8, 4]",61.98,Documentation,31.91,54.97,Balancer
+758,Jygck90,"[4, 5, 5, 4, 4, 3, 3]",38.9,Content Creation,47.5,18.0,Task finisher
+759,Pftim48,"[9, 10, 7, 7, 6, 7, 4, 5, 4, 7, 8, 6, 7, 7]",73.11,Testing,27.36,65.4,Helper
+760,Besoy28,"[2, 4, 4, 2, 1, 4, 4, 1, 3, 4, 3]",37.93,Storyboarding,54.07,8.09,Lone Wolf
+761,Cjnzl23,"[9, 9, 8, 10, 7, 9, 9, 10, 8, 9, 9, 6, 10]",80.59,Planning,23.17,81.77,Perfectionist
+762,Nitrn37,"[9, 7, 10, 9, 9, 10, 6, 9, 9, 10, 9]",80.24,Drawing/Illustration,12.96,82.11,Perfectionist
+763,Rjzik81,"[7, 6, 8, 6, 8, 9, 9, 9, 7, 6, 7]",81.12,Writing,15.84,82.38,Perfectionist
+764,Hhvhd80,"[10, 10, 8, 10, 8]",95.38,Graphic Design,7.78,95.68,Leader
+765,Hqnjt76,"[10, 10, 8, 7, 7, 6]",77.82,Content Creation,15.82,79.19,Perfectionist
+766,Yttjo37,"[6, 9, 7, 8, 5, 8, 10, 7, 7, 8, 6, 9, 10, 7]",82.85,Graphic Design,3.56,88.15,Perfectionist
+767,Vvubn52,"[8, 9, 9, 9, 9, 10, 8, 8]",82.91,Code Review,16.76,81.83,Perfectionist
+768,Osogr85,"[5, 3, 5, 6, 3, 6, 0, 4, 3, 6, 4, 5]",37.88,Translation,43.53,14.7,Task finisher
+769,Rojjb92,"[8, 10, 7, 7, 4]",63.32,Report Formatting,33.2,50.12,Balancer
+770,Zkawd20,"[3, 6, 1, 4, 4, 6, 5, 3, 1, 4, 4, 6, 2, 1, 5, 3, 2, 1, 3]",35.66,Writing,47.98,10.49,Lone Wolf
+771,Ullwo16,"[7, 9, 9, 7, 8, 6, 8, 9, 7, 9, 6, 8, 8, 5, 7, 7, 8]",73.61,Reviewing,24.38,64.91,Helper
+772,Ctxql51,"[6, 4, 5, 0, 4, 5, 8, 3, 3, 6, 4, 5, 4, 5, 5, 4, 1, 6, 5, 4]",48.03,Flowchart Design,38.32,26.16,Task finisher
+773,Kucze26,"[2, 5, 1, 2, 4, 5, 2, 2, 1]",45.29,Drawing/Illustration,48.67,17.35,Task finisher
+774,Efiuo24,"[5, 7, 5, 2, 6, 4, 4, 3, 4, 5, 4, 5, 5, 4, 7, 2, 4, 4]",52.69,Problem Solving,52.56,29.03,Task finisher
+775,Qnqnz51,"[7, 5, 6, 6, 6, 8, 9, 8, 6]",68.78,Peer Review,32.78,53.09,Balancer
+776,Quzog39,"[9, 8, 8, 9, 8, 7, 10, 10, 9, 7, 9, 10, 9, 9, 10, 9, 10, 9]",89.32,Content Creation,9.24,90.17,Leader
+777,Kipbv36,"[3, 1, 5, 4, 3, 3, 4, 4, 4]",35.63,Problem Solving,64.26,4.77,Lone Wolf
+778,Hzveb18,"[7, 8, 6, 7]",72.68,Problem Solving,26.6,64.94,Helper
+779,Wmvra64,"[7, 6, 3, 7, 5, 6, 8, 3, 6, 5, 7, 5, 6, 7, 4, 6, 2, 6, 7]",61.93,Graphic Design,28.12,45.88,Balancer
+780,Hkuuf14,"[3, 3, 3, 2, 1, 3, 4, 3, 2, 1, 2, 3, 3]",38.24,Diagram Creation,52.45,17.38,Lone Wolf
+781,Aetam98,"[7, 9, 8, 8, 7, 7, 8, 9, 10, 8, 8, 9, 10, 8, 8, 9, 8, 8]",81.13,Planning,20.17,80.91,Perfectionist
+782,Nsuqc31,"[3, 2, 2, 1, 5, 0, 0, 2, 5, 2]",34.5,Report Formatting,62.52,4.35,Lone Wolf
+783,Loqgq48,"[8, 8, 7, 10, 8, 5, 8, 6, 7, 7, 7, 7, 7, 8, 7, 8, 5]",77.56,Reviewing,19.46,63.89,Helper
+784,Lwfqy67,"[10, 10, 8, 7, 6, 7, 9, 10, 8, 8, 9, 10, 8, 9, 9, 7, 9, 10]",89.89,Diagram Creation,14.18,83.88,Perfectionist
+785,Wwbdn29,"[5, 7, 6]",49.53,Mockup Design,46.13,27.7,Genelarist
+786,Uzzsq50,"[5, 6, 6, 5, 7, 2, 8, 9]",58.4,Diagram Creation,34.79,48.73,Balancer
+787,Vognq54,"[6, 4, 2, 3, 3, 7, 6, 2, 2, 1, 6]",38.33,Research,43.78,20.63,Task finisher
+788,Dcdqj15,"[4, 5, 5, 4, 5, 5, 6, 7, 6, 5, 5, 6, 5, 6, 7, 3]",52.57,Mockup Design,37.47,39.23,Genelarist
+789,Ghzdw86,"[10, 10, 8, 7]",88.13,Peer Review,7.59,91.97,Leader
+790,Dvwbg28,"[5, 8, 8, 9, 8, 6, 9, 7, 6, 7, 5, 10, 6, 7, 10, 5, 5, 9]",78.97,Programming,21.04,71.11,Helper
+791,Vlaff76,"[3, 2, 5]",50.54,Planning,42.57,30.75,Task finisher
+792,Slhgr40,"[8, 7, 8, 7, 8, 9, 9, 9, 5]",73.03,Translation,22.8,73.03,Helper
+793,Ehkxl71,"[6, 4, 7, 8, 7, 9, 6, 6, 7, 7, 7, 8]",75.78,Reviewing,29.59,67.63,Helper
+794,Ibavs20,"[6, 10, 10, 10, 7, 8, 9, 10, 7, 10, 5, 10, 8]",90.24,Planning,9.96,86.78,Leader
+795,Jphmr62,"[10, 8, 8, 10, 10, 8, 9, 10, 10, 9]",92.24,Writing,2.0,96.25,Leader
+796,Ytzpd26,"[2, 7, 5, 3, 3, 2, 6, 3, 4, 5, 7]",47.2,Email Writing,48.9,24.27,Task finisher
+797,Jkciu18,"[8, 8, 5, 6, 5, 6, 5, 6, 7, 5, 5, 6, 7, 9, 5]",64.54,Presenting,31.62,53.57,Balancer
+798,Baxrs24,"[6, 6, 9, 6, 3, 6, 7, 7, 9, 5, 6]",62.38,Flowchart Design,36.76,54.79,Balancer
+799,Lgjrg31,"[3, 7, 4, 5, 8, 5, 7, 6, 5, 8, 10, 8, 7, 8]",65.76,Email Writing,39.36,55.29,Balancer
+800,Cknib56,"[5, 7, 7, 8, 6, 5, 4, 6, 9, 5, 5, 6, 7, 5, 1, 5, 4, 6, 3, 4]",51.71,Testing,41.41,38.74,Genelarist
+801,Nripx75,"[4, 3, 2, 7, 2, 3, 3, 3, 4, 3, 1, 3, 3, 2, 5, 2, 1, 5]",33.09,Storyboarding,57.56,7.54,Lone Wolf
+802,Vldzc80,"[6, 3, 6, 4, 3, 4, 5, 3]",48.34,Storyboarding,43.21,19.14,Task finisher
+803,Djxwm77,"[8, 8, 8, 7, 7, 7, 7, 8, 7, 6, 7, 9, 10]",80.59,Writing,24.26,72.87,Helper
+804,Jcxcb21,"[5, 4, 4, 4, 4, 6, 6]",52.97,Research,38.51,33.27,Genelarist
+805,Nzfcz89,"[2, 4, 3, 3, 4, 3, 1, 2, 4, 2, 4, 3, 2, 4, 4, 4, 4]",33.67,Documentation,58.4,14.55,Lone Wolf
+806,Zrjld93,"[8, 9, 10, 8, 7, 6, 7, 9, 7, 7, 8, 10, 8, 8, 8, 7]",76.72,Spreadsheet Work,21.56,75.04,Perfectionist
+807,Sellt46,"[8, 8, 10, 7]",79.54,Content Creation,20.12,74.08,Perfectionist
+808,Nwmrn77,"[6, 5, 6, 7, 6, 6, 5]",51.99,Research,43.23,32.91,Genelarist
+809,Wflyn49,"[6, 4, 2]",60.22,Drawing/Illustration,46.7,39.7,Genelarist
+810,Xbpzt41,"[7, 5, 6, 8, 6, 8]",69.05,Planning,28.77,63.28,Helper
+811,Ysxho84,"[8, 9, 9, 9, 9]",87.21,Programming,8.33,94.53,Leader
+812,Mkhgg73,"[7, 6, 7, 4, 3, 9, 8, 9, 6, 7, 5, 5, 6, 8, 6, 5, 6, 6]",69.38,Testing,28.48,56.27,Balancer
+813,Rvute63,"[3, 7, 7, 5, 7, 5]",55.18,Report Formatting,47.09,42.65,Genelarist
+814,Nrepm78,"[7, 7, 5, 8, 6, 5, 6, 5, 6, 7, 5, 8, 7]",64.25,Graphic Design,26.02,50.85,Balancer
+815,Mjlzr58,"[6, 6, 4, 7, 5, 5, 5, 7, 7]",67.17,Peer Review,34.94,59.82,Balancer
+816,Akfur58,"[2, 5, 2, 4, 3, 2, 4, 4, 4, 0, 6]",45.5,Diagram Creation,53.42,21.1,Task finisher
+817,Kfhkb34,"[8, 8, 5, 7, 7, 5]",65.81,Script Writing,34.12,57.18,Balancer
+818,Gqocw22,"[5, 2, 3, 3, 3, 6, 0, 1, 2]",42.06,Reviewing,54.24,16.67,Lone Wolf
+819,Tyqiy60,"[6, 7, 6, 4, 8, 4, 8, 4, 4, 8, 6, 6, 6, 4, 4, 6]",62.19,Mockup Design,33.63,47.96,Balancer
+820,Vxzzr28,"[8, 4, 3, 3, 5, 6, 6]",56.5,Reviewing,41.67,32.27,Genelarist
+821,Hxeeo69,"[5, 6, 5, 7, 7, 4, 7, 5]",55.07,Problem Solving,37.92,39.88,Genelarist
+822,Kxmro37,"[10, 10, 10, 10, 10, 8, 10, 7, 10, 7, 9, 10, 10, 7, 6]",87.47,Reference Finding,14.33,95.34,Leader
+823,Pandc76,"[5, 10, 6, 10, 6, 8]",82.33,Problem Solving,15.77,78.91,Perfectionist
+824,Ucmnx94,"[10, 10, 7]",78.95,Writing,12.21,81.34,Perfectionist
+825,Pvdxz77,"[5, 6, 7, 10, 7, 5, 7, 7, 6, 8, 7, 9, 6, 9, 6, 7, 8]",66.3,Reviewing,39.56,60.17,Balancer
+826,Lbakm48,"[6, 3, 6, 2, 7, 7, 3, 6]",54.04,Presenting,43.75,44.07,Genelarist
+827,Qemip42,"[6, 5, 4, 5, 6, 3]",53.98,Planning,38.21,37.74,Genelarist
+828,Tloft27,"[6, 5, 5, 4, 4, 7, 5, 7, 1, 6, 7]",47.71,Diagram Creation,37.79,28.8,Genelarist
+829,Rkbbs48,"[5, 7, 3, 3, 3, 5, 9, 5, 5, 4, 4]",54.14,Diagram Creation,35.14,41.93,Genelarist
+830,Zjhcp17,"[3, 3, 5, 2, 2, 5]",49.73,Translation,56.11,23.61,Task finisher
+831,Zboxr89,"[6, 3, 4, 5, 4, 4]",51.34,Reviewing,43.13,37.25,Genelarist
+832,Wflzm97,"[10, 10, 7, 10, 10, 6, 9, 6, 9, 8, 7, 10, 10]",88.01,Documentation,9.21,83.05,Leader
+833,Lelfa32,"[8, 8, 10, 8, 10, 8, 7, 8, 10, 9, 6, 8, 6, 8, 10, 9, 10, 7, 8, 7]",93.47,Report Formatting,5.88,92.93,Leader
+834,Hnqqx87,"[7, 6, 5, 7, 7, 3, 8, 8, 10, 4, 7, 8, 6, 8, 8, 4, 7, 5]",65.92,Presentation Design,33.46,53.77,Balancer
+835,Rkwff82,"[4, 3, 8, 2, 4, 4, 3, 6, 3, 3, 4, 5, 3, 3]",42.64,Translation,51.27,18.4,Task finisher
+836,Xhtkv52,"[6, 9, 10, 7, 8, 7, 8, 7, 6, 7, 9, 5, 8, 6, 9, 5, 7, 9, 7, 10]",70.12,Presentation Design,29.55,65.8,Helper
+837,Xfksa63,"[5, 2, 6, 1, 4, 1, 2, 3, 2, 3, 6, 3]",33.23,Presenting,51.49,4.31,Lone Wolf
+838,Nzaid80,"[5, 4, 7, 3, 5]",37.68,Problem Solving,61.8,5.04,Lone Wolf
+839,Rowlc91,"[7, 5, 8, 7, 4, 8, 6, 6, 4, 9, 8, 5, 5, 8, 8, 9, 8, 7, 6]",64.47,Script Writing,22.21,60.93,Helper
+840,Omxej65,"[8, 8, 10, 9, 9]",84.02,Graphic Design,19.98,83.23,Perfectionist
+841,Udcmz15,"[5, 5, 4, 7, 4, 5, 4, 5, 3, 5, 3, 7, 6, 5, 5, 3, 7]",49.38,Reviewing,37.11,35.02,Genelarist
+842,Etmqf43,"[7, 4, 3, 5, 8, 8, 4, 6, 7, 5, 8, 4]",58.09,Storyboarding,27.13,41.57,Balancer
+843,Cejvb45,"[7, 5, 8, 8, 7, 7, 8, 7, 5, 7, 8, 7, 7, 8, 5, 9, 10, 7, 7]",78.18,Mockup Design,23.42,69.78,Helper
+844,Dhgob60,"[7, 9, 9, 8, 10, 9, 10, 9]",99.2,Spreadsheet Work,7.84,99.75,Leader
+845,Wanli66,"[8, 8, 8, 10, 9, 9, 10, 7, 9, 8, 7, 8, 10, 8]",84.06,Script Writing,8.87,84.02,Perfectionist
+846,Ykvrm66,"[6, 7, 5, 6, 8, 9, 4, 8, 6, 3, 8, 5, 6, 7, 6, 4, 5, 5]",63.26,Code Review,24.1,51.59,Balancer
+847,Hdyse71,"[7, 7, 8, 6, 7, 10, 6, 8]",65.68,Peer Review,30.35,62.56,Helper
+848,Qoeln97,"[3, 4, 2, 0, 4, 2, 2, 4, 4, 5, 2]",30.98,Testing,50.89,1.78,Lone Wolf
+849,Yzreu36,"[9, 8, 10, 7, 10, 7, 8, 4, 10, 8, 9, 7, 9, 6, 9, 10]",79.32,Diagram Creation,17.2,78.83,Perfectionist
+850,Unsnc22,"[10, 10, 8, 9, 6, 10, 10, 7, 7, 8, 7, 6, 10, 8, 7, 10, 8]",83.28,Content Creation,9.78,89.11,Perfectionist
+851,Mlral59,"[2, 3, 4, 2, 4, 2]",29.73,Code Review,53.76,1.26,Lone Wolf
+852,Julla11,"[5, 1, 2, 4, 7, 2, 4, 3, 4, 5, 4, 3, 4, 4, 4, 2, 4, 5, 6, 1]",42.91,Documentation,52.57,18.57,Task finisher
+853,Fbqps33,"[7, 7, 7, 8, 7, 7, 4]",71.72,Problem Solving,31.64,61.56,Helper
+854,Zeece72,"[2, 5, 3, 5, 6, 4, 5, 5, 3]",49.55,Graphic Design,35.59,23.45,Genelarist
+855,Sjewx30,"[7, 6, 9, 6, 10, 8, 10, 8, 6, 8, 9, 9, 5, 7, 10, 7, 6, 6, 9, 9]",79.76,Email Writing,16.7,79.5,Perfectionist
+856,Prlxt76,"[8, 4, 9, 6, 7, 5, 5, 6]",51.09,Peer Review,41.84,38.1,Genelarist
+857,Bywpv29,"[10, 10, 6, 8, 7, 8, 10, 9, 7, 7, 10, 9, 9, 9, 10, 7, 10, 10, 8]",94.61,Report Formatting,10.26,95.01,Leader
+858,Rqitt58,"[5, 2, 3, 5]",44.31,Email Writing,48.37,19.11,Task finisher
+859,Monbw20,"[9, 5, 8, 8, 8, 7, 6, 7]",69.44,Graphic Design,19.79,66.67,Helper
+860,Hpryu95,"[7, 8, 8, 7, 7, 9, 6, 8, 6, 7]",64.79,Presentation Design,29.62,55.58,Helper
+861,Gkkqv79,"[10, 8, 10, 6, 10, 10, 9, 6, 10, 8]",77.03,Script Writing,18.0,80.3,Perfectionist
+862,Snaut57,"[3, 5, 4, 3, 4, 7, 2, 2, 3, 5, 0, 2, 3, 6, 3, 5, 3, 3, 3, 4]",44.15,Graphic Design,50.4,12.95,Task finisher
+863,Epyud21,"[6, 5, 3, 5, 6, 6, 7, 4, 5, 4, 4, 9, 7, 9, 6, 3]",67.31,Report Formatting,32.52,53.49,Balancer
+864,Giknd23,"[3, 5, 2, 4, 3, 5, 3, 2, 2, 3, 2, 2]",38.63,Reference Finding,46.08,18.42,Task finisher
+865,Yxklk24,"[5, 4, 7, 8, 8, 3, 5, 5, 7, 8, 3, 7, 5, 4, 5, 7, 7, 7, 8, 7]",64.55,Storyboarding,28.42,50.47,Balancer
+866,Wwlmi66,"[4, 5, 4, 3, 3, 3, 2, 6, 4, 6, 2, 6, 4, 6, 3, 3, 0]",40.21,Drawing/Illustration,50.66,13.36,Task finisher
+867,Pvcbc51,"[4, 7, 2, 3, 4, 5, 7, 3, 8]",56.38,Peer Review,52.66,30.79,Task finisher
+868,Dflpc86,"[6, 3, 3, 5, 1, 4, 3, 5, 3, 3, 6, 5, 2, 3, 3, 2, 4, 3, 5]",41.46,Graphic Design,44.71,18.33,Task finisher
+869,Ukwnb28,"[8, 10, 8, 10, 9, 8, 7, 10, 10, 10, 6, 8, 10, 10, 10, 10]",88.78,Presenting,9.22,100.0,Leader
+870,Pdgys61,"[3, 3, 5, 4, 2, 3, 4, 5, 2, 5, 2, 3, 1]",30.42,Report Formatting,46.93,4.39,Lone Wolf
+871,Kfuww84,"[8, 8, 7, 9, 7, 6, 6, 7, 8, 10, 10, 8, 7, 8, 5]",78.12,Content Creation,34.49,66.9,Helper
+872,Omfkz59,"[6, 3, 6, 5, 6, 3, 2, 4, 7, 7, 5, 7, 7, 5, 3, 5, 3, 3, 4]",53.38,Script Writing,41.84,37.53,Genelarist
+873,Lgmkh83,"[10, 10, 10, 9, 10, 9, 8, 10, 9]",91.54,Report Formatting,8.12,95.81,Leader
+874,Xxcxp27,"[5, 4, 3, 3, 3, 3, 5, 3, 3, 3, 0]",37.02,Problem Solving,52.86,8.19,Lone Wolf
+875,Hsfvc59,"[8, 8, 10, 9]",95.1,Storyboarding,4.38,96.31,Leader
+876,Qpgum69,"[3, 5, 3, 2, 2, 5, 6, 4, 4, 4, 4, 4, 3, 3]",47.56,Script Writing,41.95,25.72,Task finisher
+877,Kubsg99,"[6, 7, 5, 6, 7, 5, 6, 8, 9, 8, 6, 8]",65.64,Mockup Design,24.18,53.28,Helper
+878,Wiwdx46,"[1, 6, 3, 4, 8, 5, 2, 6, 3, 5, 2, 4, 5, 4, 6, 4, 5]",51.51,Translation,45.42,32.05,Task finisher
+879,Rcoik81,"[5, 5, 5, 4, 7, 4, 3, 6, 8, 5, 5]",61.78,Programming,32.82,45.17,Balancer
+880,Vhgjc98,"[8, 8, 10, 7]",80.43,Presenting,10.74,76.21,Perfectionist
+881,Qcstw92,"[3, 3, 2, 3, 1, 1, 3, 3, 3, 3]",38.55,Flowchart Design,57.34,12.54,Lone Wolf
+882,Ublon12,"[1, 6, 6, 4, 2, 2, 1, 2, 3, 3, 0, 3, 4, 3, 2, 3, 6]",33.51,Reference Finding,58.75,1.19,Lone Wolf
+883,Xvcay46,"[4, 6, 2, 4, 3, 4, 3, 4, 5, 6, 7, 1, 5, 6, 6, 4, 6]",52.41,Research,47.67,26.95,Task finisher
+884,Efqtm73,"[8, 6, 6, 9, 7, 9, 9, 6, 8, 8, 7, 8, 7, 10, 8, 4, 5, 5]",71.56,Graphic Design,24.64,66.68,Helper
+885,Yhmbj29,"[3, 5, 3, 4, 2, 5]",31.37,Peer Review,58.1,10.54,Lone Wolf
+886,Zhhxs85,"[5, 3, 5, 1, 4]",49.91,Translation,48.53,28.14,Task finisher
+887,Ppbag21,"[8, 8, 10, 10, 9, 10, 10, 10, 7, 7, 10, 10]",93.91,Peer Review,7.54,91.45,Leader
+888,Rynki76,"[7, 8, 7, 7, 8, 10, 6, 10, 8, 7, 9, 7, 7, 9, 8, 8, 9, 8, 9, 10]",89.53,Programming,6.7,88.97,Leader
+889,Mthut22,"[9, 7, 6, 5]",68.87,Drawing/Illustration,26.06,62.24,Helper
+890,Qrmaz68,"[8, 6, 7, 5, 5, 5, 5, 4, 5, 6, 6, 5, 7, 5, 7, 4, 5, 5]",45.42,Flowchart Design,40.06,32.41,Genelarist
+891,Vupqn74,"[4, 1, 5, 1, 3, 5, 4, 5, 3, 4, 5, 2, 2, 3]",35.24,Planning,61.13,8.65,Lone Wolf
+892,Qtqxw54,"[4, 5, 4, 3, 6, 5, 4, 4, 5]",43.74,Testing,40.8,26.58,Task finisher
+893,Jpbwe97,"[8, 9, 10, 8, 7, 6, 9, 8, 9, 10, 8, 9, 7, 7, 6, 10, 8, 6, 9]",78.87,Peer Review,24.43,81.12,Perfectionist
+894,Icllx77,"[9, 8, 9, 10]",90.59,Drawing/Illustration,8.99,96.16,Leader
+895,Lutpl20,"[5, 7, 6, 8, 5]",66.38,Code Review,34.8,60.6,Balancer
+896,Qmcmv37,"[10, 6, 10, 9, 6, 10, 8, 9, 8, 8]",94.75,Documentation,8.26,97.62,Leader
+897,Ikssz32,"[8, 6, 8, 7]",81.85,Graphic Design,13.91,79.81,Perfectionist
+898,Zgxyh34,"[3, 2, 1, 3, 3, 4, 2, 0, 3, 0, 4, 5, 4, 2, 2, 3, 3]",32.95,Report Formatting,63.96,0.59,Lone Wolf
+899,Iqfkd58,"[6, 7, 3, 6, 10, 8, 9, 5, 6, 7]",68.03,Research,26.69,66.12,Helper
+900,Wxkzu74,"[6, 6, 8, 4, 7, 6, 7, 8, 6, 6, 7, 8]",66.27,Problem Solving,34.22,54.93,Balancer
+901,Kxhwi15,"[4, 2, 4, 5, 3, 4, 6, 5]",43.85,Reviewing,46.33,15.45,Task finisher
+902,Mfpkn93,"[5, 3, 3, 4, 3, 4]",27.93,Script Writing,56.25,1.42,Lone Wolf
+903,Emdgo35,"[9, 6, 8, 7, 7, 8, 6, 5, 9, 10, 7, 9]",79.14,Storyboarding,31.63,72.17,Helper
+904,Pjvyk77,"[7, 9, 8, 7, 6, 7, 7, 10, 9, 4, 6, 8, 9, 6, 8]",72.98,Programming,20.5,76.28,Helper
+905,Muhhc30,"[7, 6, 6]",48.62,Flowchart Design,42.57,32.61,Genelarist
+906,Oheai14,"[5, 5, 5, 6, 5, 5, 4, 2, 6, 4, 5, 3, 2, 3, 3]",45.05,Reference Finding,46.32,26.48,Task finisher
+907,Ophjj57,"[5, 1, 3, 4, 3, 1, 3, 3, 4, 3, 4, 3, 4, 1]",35.4,Script Writing,57.06,9.75,Lone Wolf
+908,Eboxs57,"[7, 10, 9, 6]",93.21,Report Formatting,6.81,95.33,Leader
+909,Ixcvk44,"[4, 5, 1, 5, 7, 4, 5, 5, 6, 3, 4, 4, 7, 5, 2, 5]",42.0,Reference Finding,41.36,18.97,Task finisher
+910,Mpiag75,"[6, 5, 4, 5, 3, 4, 4, 4, 4, 5, 2]",44.84,Programming,49.49,27.75,Task finisher
+911,Uocqg95,"[7, 8, 8, 6, 5]",74.47,Reviewing,16.77,69.52,Helper
+912,Chneb72,"[7, 5, 5, 7, 4, 9, 6, 6, 9, 6]",62.63,Spreadsheet Work,32.02,46.05,Balancer
+913,Rhtui78,"[2, 5, 6, 9, 7]",62.09,Diagram Creation,28.57,50.61,Balancer
+914,Khtfu24,"[9, 5, 7, 9, 5, 7, 6]",77.3,Presentation Design,22.42,67.23,Helper
+915,Dzfyd95,"[3, 5, 7, 6, 5, 5, 5, 3, 5, 2, 5, 3, 6, 3]",55.73,Peer Review,38.45,33.73,Genelarist
+916,Jzjbd87,"[9, 7, 9, 8, 7, 8, 8, 8, 5, 9, 9]",74.53,Diagram Creation,11.81,72.3,Perfectionist
+917,Ppsxa30,"[6, 7, 7, 6, 7, 8, 9, 7, 7]",70.84,Presentation Design,11.67,69.35,Helper
+918,Rcyoj93,"[4, 3, 3, 2, 3, 6, 3, 1, 1, 4]",31.82,Peer Review,56.01,0.42,Lone Wolf
+919,Yygzo62,"[10, 9, 10, 10, 7, 7, 9, 6]",80.65,Graphic Design,15.49,84.37,Perfectionist
+920,Xvwmd19,"[7, 8, 8, 6, 7, 5, 8, 9, 7, 8, 7, 8, 6, 6, 5, 8, 8, 4]",72.31,Mockup Design,30.87,66.79,Helper
+921,Tfiyd31,"[2, 1, 6]",44.16,Translation,46.76,15.68,Task finisher
+922,Zbqen72,"[5, 2, 5, 5, 1, 3]",41.19,Writing,57.58,12.23,Lone Wolf
+923,Wttnm43,"[5, 5, 3, 4]",46.46,Reference Finding,50.2,24.27,Task finisher
+924,Tfrft99,"[3, 8, 5, 4, 5, 2, 1, 3, 1, 5, 2, 7, 3, 5, 2, 3, 5, 3]",37.81,Problem Solving,53.02,15.14,Lone Wolf
+925,Vagdc95,"[8, 8, 6, 8, 9, 9, 9, 4, 9, 10, 10, 9, 9, 8]",85.58,Translation,13.49,84.35,Perfectionist
+926,Erxzx48,"[5, 5, 4, 2, 6, 4, 6, 5]",38.7,Documentation,44.57,19.67,Task finisher
+927,Pwmiy88,"[5, 6, 6, 9, 7, 5, 5, 8, 6, 8, 6, 2, 8, 5, 6, 4, 7, 5]",61.53,Problem Solving,34.7,52.31,Balancer
+928,Tlaml21,"[5, 4, 4, 4, 5, 3, 5, 6, 6, 6, 3, 6, 4, 5, 5, 5, 3]",44.83,Code Review,50.16,26.8,Task finisher
+929,Embzp41,"[4, 1, 3, 1, 3, 3, 5, 0, 1, 3, 4, 4, 6, 1, 7, 2, 4, 5, 4, 2]",39.56,Problem Solving,51.92,11.36,Lone Wolf
+930,Iekuz35,"[4, 1, 4, 3, 4, 4, 0, 1]",31.62,Programming,52.36,6.83,Lone Wolf
+931,Ktjkg28,"[9, 9, 6, 10, 10, 9]",91.63,Presenting,3.14,95.39,Leader
+932,Fcmrv27,"[10, 10, 10, 10, 10, 9, 8, 10, 10, 9]",95.99,Flowchart Design,6.83,100.0,Leader
+933,Zalgj86,"[8, 5, 8, 7, 6, 6, 10, 7, 8, 7, 6, 5, 8, 7, 8, 8, 5, 6, 4]",69.67,Translation,17.51,62.35,Helper
+934,Ycmzp31,"[9, 7, 7, 7, 8, 9, 10, 9, 10, 9, 9, 7, 8, 9, 8, 6, 7, 9, 10]",81.18,Presenting,8.31,83.8,Perfectionist
+935,Xixyc68,"[8, 10, 5, 10, 7, 9, 10, 5, 10, 7, 7, 9, 8, 10, 8, 9, 9, 9, 8]",86.46,Diagram Creation,16.88,88.54,Perfectionist
+936,Iiuio77,"[3, 0, 4, 6, 5, 6, 3, 0, 1, 4, 2, 4, 4, 1, 2, 2, 5]",38.12,Diagram Creation,61.92,11.22,Lone Wolf
+937,Yqbgj51,"[2, 1, 1, 5, 1, 4, 3, 0, 2, 2, 2, 4, 2, 2, 3, 3, 4]",35.04,Research,54.31,9.47,Lone Wolf
+938,Phepp55,"[8, 7, 7, 8, 8, 8, 8, 8, 7, 10, 10, 9, 9, 10, 10, 5, 9, 10, 9, 8]",78.15,Research,16.45,82.52,Perfectionist
+939,Oukql78,"[5, 6, 4, 8, 9, 7, 4]",65.49,Presenting,35.0,54.2,Balancer
+940,Trynl35,"[5, 6, 8, 6, 7]",62.66,Peer Review,44.33,47.89,Balancer
+941,Qesdj34,"[7, 10, 7, 6, 6, 10, 10, 7, 9]",78.63,Research,16.09,71.24,Perfectionist
+942,Yxfqt36,"[7, 3, 2]",29.91,Problem Solving,56.24,3.08,Lone Wolf
+943,Znikk17,"[9, 10, 7, 9, 9, 10, 7, 10, 10, 7, 8, 9, 8, 10, 10, 9, 6, 8]",94.52,Report Formatting,5.59,96.75,Leader
+944,Ghfcx38,"[6, 8, 7, 6, 8, 6, 7, 7, 7, 7, 6, 9]",72.69,Storyboarding,22.24,69.26,Helper
+945,Eccuj39,"[6, 7, 6, 6, 8, 4, 7, 9, 6, 4, 6, 3, 5, 4, 4, 7, 5, 3, 5]",52.39,Documentation,47.35,42.13,Genelarist
+946,Dznjk67,"[8, 7, 6]",72.22,Reference Finding,20.44,66.16,Helper
+947,Gtsrj16,"[10, 9, 9]",79.8,Reviewing,14.85,81.08,Perfectionist
+948,Yvceg70,"[3, 7, 4, 5, 7, 8, 5, 6, 5]",51.24,Reference Finding,39.45,35.49,Genelarist
+949,Rozbc63,"[9, 6, 10, 10, 10, 10]",90.83,Planning,10.98,89.58,Leader
+950,Tcftt79,"[2, 5, 5, 3, 2, 5, 5, 3]",47.42,Testing,41.59,22.53,Task finisher
+951,Weyox75,"[6, 6, 5, 5, 4, 4, 6, 5, 4, 3, 5, 6, 3]",49.03,Translation,52.07,28.97,Task finisher
+952,Qovhe76,"[10, 10, 9]",92.38,Planning,12.3,90.49,Leader
+953,Myudh16,"[2, 4, 3, 3, 4]",40.79,Mockup Design,49.17,10.91,Lone Wolf
+954,Uphua60,"[4, 5, 0, 2, 2]",39.6,Translation,55.55,9.94,Lone Wolf
+955,Pnywk44,"[5, 5, 6, 4, 4, 6]",48.3,Testing,41.48,29.09,Genelarist
+956,Pxhyn87,"[6, 7, 7, 6, 10, 8, 8, 9, 10, 8]",72.76,Peer Review,21.4,74.44,Helper
+957,Fwjio33,"[7, 8, 6, 8, 6, 8, 7, 5, 6, 9, 8, 7, 6, 8, 8, 6, 7]",77.06,Script Writing,23.13,73.38,Helper
+958,Hucei21,"[6, 9, 7, 9, 9, 8, 9, 10, 9, 8, 8, 9, 9, 8, 9, 10, 9, 9, 10]",93.07,Flowchart Design,12.77,90.65,Leader
+959,Okroq32,"[10, 10, 9, 7, 8, 6, 9]",92.42,Peer Review,0.1,97.39,Leader
+960,Pjwul68,"[9, 9, 9, 9, 10, 10, 10, 9, 9, 9, 9, 8, 7, 8, 9, 9, 10, 10, 7]",95.94,Presenting,4.86,98.68,Leader
+961,Aaetb41,"[7, 8, 7, 8, 10, 7, 5, 8, 10, 8, 9, 8, 8]",86.75,Testing,8.94,87.31,Perfectionist
+962,Uvwsm76,"[5, 8, 5, 3, 6, 6, 6, 4, 6, 4, 6, 7, 3]",56.28,Programming,44.32,38.17,Genelarist
+963,Cikbq10,"[7, 7, 6, 6, 6, 6, 8]",61.61,Script Writing,29.94,55.49,Balancer
+964,Gfnbu34,"[3, 5, 5, 5, 6, 2, 4, 4, 4, 3, 5, 7, 3, 4]",51.87,Storyboarding,48.89,33.81,Task finisher
+965,Kvwzv97,"[9, 6, 5, 8, 6, 9, 6, 7, 9, 5, 7, 6, 7, 7]",72.24,Graphic Design,29.6,62.06,Helper
+966,Qcaee16,"[8, 9, 9, 10, 9, 7, 8, 8, 9, 7, 8, 9, 7, 8, 10, 9, 10, 10, 8]",91.63,Storyboarding,19.96,87.02,Perfectionist
+967,Rxyqf86,"[4, 2, 4, 1, 4, 4, 4, 3, 3, 3, 3, 4, 1, 2, 4, 4, 5, 4, 4]",38.32,Graphic Design,58.37,10.81,Lone Wolf
+968,Owmzu18,"[8, 8, 6, 6]",66.51,Report Formatting,30.69,50.63,Balancer
+969,Ggtkl76,"[9, 7, 6, 5, 10, 7, 7, 8, 9, 5, 6, 5, 6, 5, 5, 6, 5, 6]",68.34,Programming,31.3,52.04,Balancer
+970,Bgdgx94,"[5, 5, 4, 7, 5, 3]",52.37,Drawing/Illustration,44.63,28.61,Genelarist
+971,Loyou76,"[8, 7, 8, 6, 9]",77.94,Drawing/Illustration,14.55,71.73,Perfectionist
+972,Ddgdq59,"[8, 8, 9, 8, 9, 7, 9, 8, 7, 10, 7, 6, 5, 7, 7, 9, 6, 7]",71.48,Flowchart Design,25.46,73.03,Helper
+973,Ebztr34,"[5, 5, 3, 7, 8, 6]",60.57,Writing,45.82,44.86,Genelarist
+974,Tlady40,"[1, 2, 4, 4, 2, 4, 2, 5, 1, 7, 3, 2]",41.67,Graphic Design,54.9,13.79,Lone Wolf
+975,Gihjx69,"[7, 7, 9, 7, 9, 9, 5, 8]",74.45,Graphic Design,24.91,63.02,Helper
+976,Uevgr61,"[7, 6, 5, 3, 7, 6, 7, 5, 8, 7, 7, 7, 6, 8, 6]",64.29,Research,28.89,48.48,Balancer
+977,Ttixj25,"[3, 5, 7, 6, 8, 5, 6, 3, 2, 5, 6, 5, 3, 4, 3]",55.08,Diagram Creation,39.13,38.39,Genelarist
+978,Dfbwl12,"[7, 7, 2, 2, 8, 10, 6, 5, 6, 8, 4, 7, 5, 7, 6, 8, 6, 9, 6]",61.34,Content Creation,31.73,48.65,Balancer
+979,Iowuw25,"[7, 4, 9, 8, 9, 4, 7, 5, 6, 5, 8, 4, 7, 6, 7, 9, 8, 7, 9, 8]",73.89,Diagram Creation,20.69,65.15,Helper
+980,Iiwit43,"[8, 7, 7, 9, 7, 9, 9, 5, 6, 8, 7, 8]",74.94,Storyboarding,26.18,64.74,Helper
+981,Avmqd32,"[6, 4, 6, 6, 2, 5, 6, 8, 4, 5, 6, 4, 6, 8, 5, 2]",49.93,Content Creation,45.97,35.71,Genelarist
+982,Qohqh89,"[6, 7, 6, 7, 5, 7, 5, 3, 5, 6, 6, 6, 5, 7, 8, 7, 6, 5, 7]",62.85,Programming,38.72,44.93,Balancer
+983,Pthpp69,"[8, 4, 6, 5, 9]",53.7,Planning,40.24,41.56,Genelarist
+984,Unhsy93,"[8, 7, 9, 9, 7, 8, 10, 7, 4, 6, 5, 4, 6, 10, 7, 7, 9]",69.5,Flowchart Design,30.0,55.93,Helper
+985,Okdns68,"[5, 3, 4, 4, 5, 5, 4, 3, 5, 4, 5, 4, 3, 6, 6, 5, 0]",52.29,Documentation,40.49,32.84,Genelarist
+986,Mgbiy30,"[8, 8, 5, 7, 7, 6, 5, 7, 4, 5, 6, 3, 6, 6, 5, 7, 8, 3, 6, 4]",67.37,Report Formatting,31.66,57.79,Balancer
+987,Twlnr74,"[2, 3, 3, 5, 2, 2, 5, 2, 4, 3, 3, 2, 3, 4, 4, 3, 4, 5, 3]",36.25,Presenting,57.94,4.52,Lone Wolf
+988,Rviin27,"[10, 9, 7, 10, 10, 9, 8, 10, 10, 10, 5, 10]",88.2,Testing,10.61,90.77,Leader
+989,Olknu74,"[4, 1, 3, 5, 5, 4, 4, 3, 6, 3]",48.86,Peer Review,51.06,23.26,Task finisher
+990,Ykscg71,"[8, 8, 9, 10, 6]",71.87,Documentation,16.92,71.75,Perfectionist
+991,Syeuj85,"[5, 4, 6, 4, 5, 7, 8, 8, 5, 4, 4, 5, 6, 6, 4, 4, 3, 6]",57.22,Documentation,40.75,36.2,Genelarist
+992,Pejad21,"[8, 10, 6, 8]",81.53,Reference Finding,19.08,76.28,Perfectionist
+993,Vnjfk17,"[7, 7, 6, 8, 10, 10, 10, 8, 7, 6, 5, 6, 8, 6, 6, 7, 9, 8]",80.09,Spreadsheet Work,16.97,78.73,Perfectionist
+994,Wvnfx77,"[6, 9, 6, 10, 5, 10, 8, 7, 7, 5, 6, 7, 10]",84.8,Report Formatting,12.55,75.69,Perfectionist
+995,Kmnfy30,"[6, 2, 4, 6, 5, 6, 4, 1, 4, 5, 4]",38.74,Flowchart Design,45.72,13.79,Task finisher
+996,Baomk42,"[5, 7, 4, 3, 5, 5, 4, 3]",50.47,Graphic Design,49.11,41.14,Genelarist
+997,Wqyal28,"[4, 5, 0, 4, 3, 3, 2, 3, 6, 3, 1, 5]",35.43,Mockup Design,61.43,6.19,Lone Wolf
+998,Pmgzh47,"[9, 8, 10, 7, 10, 7]",76.85,Flowchart Design,24.44,74.64,Perfectionist
+999,Wldbj99,"[6, 10, 8, 7, 8, 8, 9, 10, 10]",91.79,Programming,7.86,89.6,Leader
+1000,Zfbjy28,"[7, 4, 4]",43.64,Diagram Creation,42.7,25.2,Task finisher
