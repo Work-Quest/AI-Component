@@ -1,0 +1,1531 @@
+{
+  "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+  "accuracy": 0.42592592592592593,
+  "precision": 0.479765513284665,
+  "recall": 0.42592592592592593,
+  "f1_score": 0.42089784750001236,
+  "predictions": [
+    [
+      "Planning",
+      "Planning",
+      0.9207178950309753
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.14031273126602173
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.3479357361793518
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.2796725630760193
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.8312588334083557
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.23026327788829803
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.8335966467857361
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.6891120672225952
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.16854830086231232
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.5347270965576172
+    ],
+    [
+      "Planning",
+      "Programming",
+      0.15819920599460602
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.44003939628601074
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.8921265602111816
+    ],
+    [
+      "Planning",
+      "Submitting",
+      0.13139840960502625
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.6784108877182007
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.6451714634895325
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.3609457314014435
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.35987353324890137
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.918892502784729
+    ],
+    [
+      "Planning",
+      "Research",
+      0.7065444588661194
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.545114278793335
+    ],
+    [
+      "Planning",
+      "Presentation Design",
+      0.1501718908548355
+    ],
+    [
+      "Planning",
+      "Submitting",
+      0.40562674403190613
+    ],
+    [
+      "Planning",
+      "Documentation",
+      0.9530801177024841
+    ],
+    [
+      "Planning",
+      "Research",
+      0.20842090249061584
+    ],
+    [
+      "Planning",
+      "Drawing/Illustration",
+      0.09635570645332336
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.4379669725894928
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.14501723647117615
+    ],
+    [
+      "Research",
+      "Research",
+      0.7852510213851929
+    ],
+    [
+      "Research",
+      "Programming",
+      0.1600448191165924
+    ],
+    [
+      "Research",
+      "Research",
+      0.41956591606140137
+    ],
+    [
+      "Documentation",
+      "Planning",
+      0.874403178691864
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.7932378649711609
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.6764200329780579
+    ],
+    [
+      "Reviewing",
+      "Presentation Design",
+      0.10426275432109833
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.3365470767021179
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.3455188572406769
+    ],
+    [
+      "Reference Finding",
+      "Documentation",
+      0.215908020734787
+    ],
+    [
+      "Presentation Design",
+      "Presentation Design",
+      0.8137850761413574
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.1963518261909485
+    ],
+    [
+      "Presentation Design",
+      "Reviewing",
+      0.6054519414901733
+    ],
+    [
+      "Diagram Creation",
+      "Content Creation",
+      0.273249089717865
+    ],
+    [
+      "Testing",
+      "Reviewing",
+      0.22691302001476288
+    ],
+    [
+      "Submitting",
+      "Submitting",
+      0.8497836589813232
+    ],
+    [
+      "Submitting",
+      "Content Creation",
+      0.7661166787147522
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.3715626895427704
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.21466226875782013
+    ],
+    [
+      "Research",
+      "Research",
+      0.4029260575771332
+    ],
+    [
+      "Reference Finding",
+      "Reference Finding",
+      0.7671412825584412
+    ],
+    [
+      "Planning",
+      "Research",
+      0.6436143517494202
+    ],
+    [
+      "Planning",
+      "Research",
+      0.7006722092628479
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.8856659531593323
+    ],
+    [
+      "Reference Finding",
+      "Reference Finding",
+      0.957641065120697
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.364536315202713
+    ],
+    [
+      "Research",
+      "Reference Finding",
+      0.41018185019493103
+    ],
+    [
+      "Reference Finding",
+      "Content Creation",
+      0.21130557358264923
+    ],
+    [
+      "Research",
+      "Research",
+      0.13137272000312805
+    ],
+    [
+      "Diagram Creation",
+      "Presentation Design",
+      0.7066919207572937
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.880255937576294
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.1054040938615799
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.29195812344551086
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6869097352027893
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.8991981148719788
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.17191828787326813
+    ],
+    [
+      "Research",
+      "Research",
+      0.3713914752006531
+    ],
+    [
+      "Research",
+      "Testing",
+      0.715112566947937
+    ],
+    [
+      "Research",
+      "Content Creation",
+      0.7952908873558044
+    ],
+    [
+      "Research",
+      "Content Creation",
+      0.7773994207382202
+    ],
+    [
+      "Reference Finding",
+      "Documentation",
+      0.3766050636768341
+    ],
+    [
+      "Reference Finding",
+      "Research",
+      0.6009634733200073
+    ],
+    [
+      "Presentation Design",
+      "Content Creation",
+      0.46067336201667786
+    ],
+    [
+      "Research",
+      "Research",
+      0.7181885838508606
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.7479050755500793
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.20396876335144043
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.6570205688476562
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.7138031125068665
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.9117516875267029
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.49798670411109924
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.3044774532318115
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.19019807875156403
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.9156051874160767
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.5654762983322144
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.3573750853538513
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.48661547899246216
+    ],
+    [
+      "Reviewing",
+      "Planning",
+      0.4430520236492157
+    ],
+    [
+      "Reviewing",
+      "Research",
+      0.6255577206611633
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.24613061547279358
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.6238369345664978
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.502334713935852
+    ],
+    [
+      "Reference Finding",
+      "Reference Finding",
+      0.30133065581321716
+    ],
+    [
+      "Documentation",
+      "Programming",
+      0.42572906613349915
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.3157303035259247
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.237399622797966
+    ],
+    [
+      "Submitting",
+      "Submitting",
+      0.8311037421226501
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.5295820236206055
+    ],
+    [
+      "Documentation",
+      "Planning",
+      0.5091437697410583
+    ],
+    [
+      "Planning",
+      "Programming",
+      0.8177870512008667
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.7207959294319153
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9205623865127563
+    ],
+    [
+      "Programming",
+      "Content Creation",
+      0.5199850797653198
+    ],
+    [
+      "Planning",
+      "Programming",
+      0.7320596575737
+    ],
+    [
+      "Programming",
+      "Planning",
+      0.5890005230903625
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9545586109161377
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.24566055834293365
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9202972650527954
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9105409383773804
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.8955497145652771
+    ],
+    [
+      "Programming",
+      "Planning",
+      0.25963127613067627
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9633080959320068
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9598935842514038
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9016869068145752
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.7099784016609192
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.9521611928939819
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.840926468372345
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7786533832550049
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.48672857880592346
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7252456545829773
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.9117074012756348
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.4874436557292938
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.8299113512039185
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.8825790286064148
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5196422934532166
+    ],
+    [
+      "Documentation",
+      "Content Creation",
+      0.7824549674987793
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.7785347700119019
+    ],
+    [
+      "Programming",
+      "Submitting",
+      0.28308019042015076
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.3854023516178131
+    ],
+    [
+      "Reviewing",
+      "Programming",
+      0.42239898443222046
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.9008466005325317
+    ],
+    [
+      "Submitting",
+      "Programming",
+      0.590370774269104
+    ],
+    [
+      "Presentation Design",
+      "Presentation Design",
+      0.6883741021156311
+    ],
+    [
+      "Presentation Design",
+      "Planning",
+      0.6631842851638794
+    ],
+    [
+      "Planning",
+      "Presentation Design",
+      0.3947356343269348
+    ],
+    [
+      "Presentation Design",
+      "Content Creation",
+      0.45636945962905884
+    ],
+    [
+      "Presentation Design",
+      "Presentation Design",
+      0.15937836468219757
+    ],
+    [
+      "Presentation Design",
+      "Graphic Design",
+      0.49516016244888306
+    ],
+    [
+      "Presentation Design",
+      "Presentation Design",
+      0.7194100022315979
+    ],
+    [
+      "Presentation Design",
+      "Content Creation",
+      0.4133593738079071
+    ],
+    [
+      "Presentation Design",
+      "Presentation Design",
+      0.8146851062774658
+    ],
+    [
+      "Presentation Design",
+      "Content Creation",
+      0.5710209608078003
+    ],
+    [
+      "Presentation Design",
+      "Graphic Design",
+      0.24707867205142975
+    ],
+    [
+      "Presentation Design",
+      "Content Creation",
+      0.5727326273918152
+    ],
+    [
+      "Presentation Design",
+      "Content Creation",
+      0.5727326273918152
+    ],
+    [
+      "Presentation Design",
+      "Presentation Design",
+      0.3927532136440277
+    ],
+    [
+      "Diagram Creation",
+      "Presentation Design",
+      0.5474509596824646
+    ],
+    [
+      "Presentation Design",
+      "Submitting",
+      0.20925839245319366
+    ],
+    [
+      "Presentation Design",
+      "Content Creation",
+      0.7444881796836853
+    ],
+    [
+      "Presentation Design",
+      "Presentation Design",
+      0.6185294389724731
+    ],
+    [
+      "Reviewing",
+      "Programming",
+      0.22326669096946716
+    ],
+    [
+      "Submitting",
+      "Content Creation",
+      0.8301911354064941
+    ],
+    [
+      "Content Creation",
+      "Testing",
+      0.16770488023757935
+    ],
+    [
+      "Content Creation",
+      "Planning",
+      0.4095908999443054
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.5881761312484741
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.5977938771247864
+    ],
+    [
+      "Content Creation",
+      "Planning",
+      0.7358889579772949
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.8742242455482483
+    ],
+    [
+      "Content Creation",
+      "Research",
+      0.4549669921398163
+    ],
+    [
+      "Writing",
+      "Content Creation",
+      0.8934433460235596
+    ],
+    [
+      "Content Creation",
+      "Presentation Design",
+      0.28248363733291626
+    ],
+    [
+      "Reference Finding",
+      "Documentation",
+      0.1657652109861374
+    ],
+    [
+      "Content Creation",
+      "Planning",
+      0.9405001997947693
+    ],
+    [
+      "Writing",
+      "Content Creation",
+      0.6929293274879456
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.9138268828392029
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.9015597701072693
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.7647954821586609
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.3763970732688904
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.4342387914657593
+    ],
+    [
+      "Content Creation",
+      "Graphic Design",
+      0.7374118566513062
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.8646690845489502
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.6359750032424927
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.24664349853992462
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.9317182898521423
+    ],
+    [
+      "Reviewing",
+      "Planning",
+      0.35305604338645935
+    ],
+    [
+      "Reviewing",
+      "Research",
+      0.20905852317810059
+    ],
+    [
+      "Submitting",
+      "Submitting",
+      0.8977737426757812
+    ],
+    [
+      "Graphic Design",
+      "Planning",
+      0.5518262982368469
+    ],
+    [
+      "Graphic Design",
+      "Content Creation",
+      0.4685792028903961
+    ],
+    [
+      "Graphic Design",
+      "Drawing/Illustration",
+      0.6313392519950867
+    ],
+    [
+      "Graphic Design",
+      "Content Creation",
+      0.4434269666671753
+    ],
+    [
+      "Graphic Design",
+      "Planning",
+      0.6958966851234436
+    ],
+    [
+      "Graphic Design",
+      "Graphic Design",
+      0.7899231910705566
+    ],
+    [
+      "Graphic Design",
+      "Content Creation",
+      0.4305557608604431
+    ],
+    [
+      "Drawing/Illustration",
+      "Graphic Design",
+      0.40550053119659424
+    ],
+    [
+      "Graphic Design",
+      "Content Creation",
+      0.6780976057052612
+    ],
+    [
+      "Graphic Design",
+      "Content Creation",
+      0.3243979811668396
+    ],
+    [
+      "Graphic Design",
+      "Graphic Design",
+      0.7115155458450317
+    ],
+    [
+      "Graphic Design",
+      "Planning",
+      0.6432909369468689
+    ],
+    [
+      "Drawing/Illustration",
+      "Content Creation",
+      0.636492133140564
+    ],
+    [
+      "Graphic Design",
+      "Documentation",
+      0.27015265822410583
+    ],
+    [
+      "Graphic Design",
+      "Content Creation",
+      0.5884849429130554
+    ],
+    [
+      "Graphic Design",
+      "Content Creation",
+      0.16813692450523376
+    ],
+    [
+      "Graphic Design",
+      "Programming",
+      0.14327462017536163
+    ],
+    [
+      "Spreadsheet Work",
+      "Spreadsheet Work",
+      0.7003450393676758
+    ],
+    [
+      "Spreadsheet Work",
+      "Planning",
+      0.6046090126037598
+    ],
+    [
+      "Spreadsheet Work",
+      "Content Creation",
+      0.5608903169631958
+    ],
+    [
+      "Spreadsheet Work",
+      "Spreadsheet Work",
+      0.5578578114509583
+    ],
+    [
+      "Spreadsheet Work",
+      "Programming",
+      0.2705477774143219
+    ],
+    [
+      "Spreadsheet Work",
+      "Programming",
+      0.5954911112785339
+    ],
+    [
+      "Spreadsheet Work",
+      "Spreadsheet Work",
+      0.3496696352958679
+    ],
+    [
+      "Spreadsheet Work",
+      "Programming",
+      0.8087682723999023
+    ],
+    [
+      "Spreadsheet Work",
+      "Programming",
+      0.4670200049877167
+    ],
+    [
+      "Spreadsheet Work",
+      "Content Creation",
+      0.22325348854064941
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.7587477564811707
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.8739871382713318
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5330144166946411
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.45818740129470825
+    ],
+    [
+      "Drawing/Illustration",
+      "Planning",
+      0.40226805210113525
+    ],
+    [
+      "Drawing/Illustration",
+      "Planning",
+      0.9424953460693359
+    ],
+    [
+      "Drawing/Illustration",
+      "Drawing/Illustration",
+      0.7282643914222717
+    ],
+    [
+      "Diagram Creation",
+      "Programming",
+      0.3904300332069397
+    ],
+    [
+      "Graphic Design",
+      "Drawing/Illustration",
+      0.1981872171163559
+    ],
+    [
+      "Graphic Design",
+      "Reviewing",
+      0.15445400774478912
+    ],
+    [
+      "Graphic Design",
+      "Reviewing",
+      0.21486273407936096
+    ],
+    [
+      "Graphic Design",
+      "Reviewing",
+      0.1925029307603836
+    ],
+    [
+      "Graphic Design",
+      "Drawing/Illustration",
+      0.1981872171163559
+    ],
+    [
+      "Email Writing",
+      "Email Writing",
+      0.8449910283088684
+    ],
+    [
+      "Email Writing",
+      "Email Writing",
+      0.9410583972930908
+    ]
+  ],
+  "confusion_matrix": {
+    "Content Creation": {
+      "Content Creation": 9,
+      "Diagram Creation": 1,
+      "Documentation": 8,
+      "Drawing/Illustration": 1,
+      "Email Writing": 0,
+      "Graphic Design": 7,
+      "Planning": 6,
+      "Presentation Design": 7,
+      "Programming": 1,
+      "Reference Finding": 1,
+      "Research": 2,
+      "Reviewing": 4,
+      "Spreadsheet Work": 2,
+      "Submitting": 2,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 2
+    },
+    "Diagram Creation": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 0,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Documentation": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 12,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 1,
+      "Planning": 1,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 3,
+      "Research": 0,
+      "Reviewing": 2,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Drawing/Illustration": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 1,
+      "Email Writing": 0,
+      "Graphic Design": 3,
+      "Planning": 1,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Email Writing": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 2,
+      "Graphic Design": 0,
+      "Planning": 0,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Graphic Design": {
+      "Content Creation": 1,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 1,
+      "Email Writing": 0,
+      "Graphic Design": 2,
+      "Planning": 0,
+      "Presentation Design": 2,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Planning": {
+      "Content Creation": 3,
+      "Diagram Creation": 0,
+      "Documentation": 2,
+      "Drawing/Illustration": 2,
+      "Email Writing": 0,
+      "Graphic Design": 3,
+      "Planning": 12,
+      "Presentation Design": 1,
+      "Programming": 2,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 2,
+      "Spreadsheet Work": 1,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Presentation Design": {
+      "Content Creation": 1,
+      "Diagram Creation": 2,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 2,
+      "Presentation Design": 7,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 1,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Programming": {
+      "Content Creation": 0,
+      "Diagram Creation": 1,
+      "Documentation": 1,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 1,
+      "Planning": 3,
+      "Presentation Design": 0,
+      "Programming": 17,
+      "Reference Finding": 0,
+      "Research": 1,
+      "Reviewing": 2,
+      "Spreadsheet Work": 4,
+      "Submitting": 1,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Reference Finding": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 0,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 3,
+      "Research": 1,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Research": {
+      "Content Creation": 1,
+      "Diagram Creation": 0,
+      "Documentation": 1,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 4,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 1,
+      "Research": 6,
+      "Reviewing": 2,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Reviewing": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 2,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 3,
+      "Planning": 0,
+      "Presentation Design": 1,
+      "Programming": 1,
+      "Reference Finding": 0,
+      "Research": 2,
+      "Reviewing": 6,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 1,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Spreadsheet Work": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 0,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 3,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Submitting": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 2,
+      "Presentation Design": 1,
+      "Programming": 1,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 3,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Testing": {
+      "Content Creation": 1,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 0,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 1,
+      "Reviewing": 3,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 4,
+      "Translation": 0,
+      "Writing": 0
+    },
+    "Translation": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 0,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 5,
+      "Writing": 0
+    },
+    "Writing": {
+      "Content Creation": 0,
+      "Diagram Creation": 0,
+      "Documentation": 0,
+      "Drawing/Illustration": 0,
+      "Email Writing": 0,
+      "Graphic Design": 0,
+      "Planning": 0,
+      "Presentation Design": 0,
+      "Programming": 0,
+      "Reference Finding": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Submitting": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Writing": 0
+    }
+  },
+  "classification_report": {
+    "Content Creation": {
+      "precision": 0.16981132075471697,
+      "recall": 0.5625,
+      "f1-score": 0.2608695652173913,
+      "support": 16.0
+    },
+    "Diagram Creation": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 4.0
+    },
+    "Documentation": {
+      "precision": 0.631578947368421,
+      "recall": 0.46153846153846156,
+      "f1-score": 0.5333333333333333,
+      "support": 26.0
+    },
+    "Drawing/Illustration": {
+      "precision": 0.2,
+      "recall": 0.2,
+      "f1-score": 0.2,
+      "support": 5.0
+    },
+    "Email Writing": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Graphic Design": {
+      "precision": 0.3333333333333333,
+      "recall": 0.1,
+      "f1-score": 0.15384615384615385,
+      "support": 20.0
+    },
+    "Planning": {
+      "precision": 0.42857142857142855,
+      "recall": 0.3870967741935484,
+      "f1-score": 0.4067796610169492,
+      "support": 31.0
+    },
+    "Presentation Design": {
+      "precision": 0.5384615384615384,
+      "recall": 0.3684210526315789,
+      "f1-score": 0.4375,
+      "support": 19.0
+    },
+    "Programming": {
+      "precision": 0.5483870967741935,
+      "recall": 0.7727272727272727,
+      "f1-score": 0.6415094339622641,
+      "support": 22.0
+    },
+    "Reference Finding": {
+      "precision": 0.75,
+      "recall": 0.375,
+      "f1-score": 0.5,
+      "support": 8.0
+    },
+    "Research": {
+      "precision": 0.4,
+      "recall": 0.46153846153846156,
+      "f1-score": 0.42857142857142855,
+      "support": 13.0
+    },
+    "Reviewing": {
+      "precision": 0.375,
+      "recall": 0.2727272727272727,
+      "f1-score": 0.3157894736842105,
+      "support": 22.0
+    },
+    "Spreadsheet Work": {
+      "precision": 1.0,
+      "recall": 0.3,
+      "f1-score": 0.46153846153846156,
+      "support": 10.0
+    },
+    "Submitting": {
+      "precision": 0.42857142857142855,
+      "recall": 0.5,
+      "f1-score": 0.46153846153846156,
+      "support": 6.0
+    },
+    "Testing": {
+      "precision": 0.4444444444444444,
+      "recall": 0.8,
+      "f1-score": 0.5714285714285714,
+      "support": 5.0
+    },
+    "Translation": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "Writing": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 2.0
+    },
+    "accuracy": 0.42592592592592593,
+    "macro avg": {
+      "precision": 0.485185855192912,
+      "recall": 0.4447970173739174,
+      "f1-score": 0.43368850259630737,
+      "support": 216.0
+    },
+    "weighted avg": {
+      "precision": 0.479765513284665,
+      "recall": 0.42592592592592593,
+      "f1-score": 0.42089784750001236,
+      "support": 216.0
+    }
+  }
+}

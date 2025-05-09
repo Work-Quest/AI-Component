@@ -1,0 +1,1315 @@
+{
+  "model_name": "facebook/bart-large-mnli",
+  "accuracy": 0.47685185185185186,
+  "precision": 0.5395803596091319,
+  "recall": 0.47685185185185186,
+  "f1_score": 0.4816880221583621,
+  "predictions": [
+    [
+      "Planning",
+      "Planning",
+      0.2913465201854706
+    ],
+    [
+      "Planning",
+      "Documentation",
+      0.13600990176200867
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.18562482297420502
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.20098735392093658
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.27244874835014343
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5605891346931458
+    ],
+    [
+      "Planning",
+      "Reviewing",
+      0.26675835251808167
+    ],
+    [
+      "Planning",
+      "Reviewing",
+      0.2333960384130478
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.14470580220222473
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.22167719900608063
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.15425929427146912
+    ],
+    [
+      "Documentation",
+      "Admin Task",
+      0.22625717520713806
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.23185528814792633
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.3303424119949341
+    ],
+    [
+      "Planning",
+      "Reviewing",
+      0.19408518075942993
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.3038511574268341
+    ],
+    [
+      "Planning",
+      "Reviewing",
+      0.13396108150482178
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.1458924263715744
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.20808416604995728
+    ],
+    [
+      "Planning",
+      "Research",
+      0.7245703339576721
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.3466431498527527
+    ],
+    [
+      "Planning",
+      "Design",
+      0.5097973346710205
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.3701460063457489
+    ],
+    [
+      "Planning",
+      "Documentation",
+      0.7648000121116638
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.18591296672821045
+    ],
+    [
+      "Planning",
+      "Design",
+      0.11677582561969757
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.14632561802864075
+    ],
+    [
+      "Planning",
+      "Documentation",
+      0.18981203436851501
+    ],
+    [
+      "Research",
+      "Research",
+      0.5572366714477539
+    ],
+    [
+      "Research",
+      "Data Work",
+      0.36272990703582764
+    ],
+    [
+      "Research",
+      "Research",
+      0.5390998721122742
+    ],
+    [
+      "Documentation",
+      "Planning",
+      0.26547935605049133
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.4705856740474701
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.7412365674972534
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.13597020506858826
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.37403711676597595
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.5611169934272766
+    ],
+    [
+      "Research",
+      "Admin Task",
+      0.22871853411197662
+    ],
+    [
+      "Design",
+      "Design",
+      0.8460276126861572
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.3924969732761383
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.7707075476646423
+    ],
+    [
+      "Design",
+      "Documentation",
+      0.22049039602279663
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.5934591889381409
+    ],
+    [
+      "Admin Task",
+      "Reviewing",
+      0.4083157777786255
+    ],
+    [
+      "Admin Task",
+      "Content Creation",
+      0.19130605459213257
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5714024305343628
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.3607752323150635
+    ],
+    [
+      "Research",
+      "Research",
+      0.6610793471336365
+    ],
+    [
+      "Research",
+      "Research",
+      0.1857425570487976
+    ],
+    [
+      "Planning",
+      "Research",
+      0.40168800950050354
+    ],
+    [
+      "Planning",
+      "Research",
+      0.44717803597450256
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.4604099988937378
+    ],
+    [
+      "Research",
+      "Testing",
+      0.19825400412082672
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.2672089636325836
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.2672089636325836
+    ],
+    [
+      "Research",
+      "Admin Task",
+      0.22259534895420074
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.2878754138946533
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.18661151826381683
+    ],
+    [
+      "Documentation",
+      "Admin Task",
+      0.21374563872814178
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.1999952346086502
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.14640286564826965
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5072612166404724
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.6284288763999939
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.14328718185424805
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.22446797788143158
+    ],
+    [
+      "Research",
+      "Testing",
+      0.550451934337616
+    ],
+    [
+      "Research",
+      "Research",
+      0.4830404818058014
+    ],
+    [
+      "Research",
+      "Research",
+      0.5011990666389465
+    ],
+    [
+      "Research",
+      "Content Creation",
+      0.17100755870342255
+    ],
+    [
+      "Research",
+      "Research",
+      0.21075712144374847
+    ],
+    [
+      "Design",
+      "Admin Task",
+      0.16905368864536285
+    ],
+    [
+      "Research",
+      "Research",
+      0.4308526813983917
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.4110927879810333
+    ],
+    [
+      "Documentation",
+      "Design",
+      0.161752387881279
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2930639386177063
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.6756342649459839
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2717346251010895
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2320738285779953
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.2216140627861023
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.19794899225234985
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5717913508415222
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.17023000121116638
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.20251046121120453
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5890790224075317
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.14712810516357422
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.31330087780952454
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.20279093086719513
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.35764577984809875
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.4888310134410858
+    ],
+    [
+      "Research",
+      "Documentation",
+      0.14276985824108124
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.1964285522699356
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.33902859687805176
+    ],
+    [
+      "Reviewing",
+      "Planning",
+      0.11654984951019287
+    ],
+    [
+      "Admin Task",
+      "Documentation",
+      0.11458155512809753
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.1569456160068512
+    ],
+    [
+      "Documentation",
+      "Planning",
+      0.1909184604883194
+    ],
+    [
+      "Planning",
+      "Programming",
+      0.16693128645420074
+    ],
+    [
+      "Programming",
+      "Admin Task",
+      0.23947250843048096
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.2600794732570648
+    ],
+    [
+      "Programming",
+      "Content Creation",
+      0.1532670557498932
+    ],
+    [
+      "Planning",
+      "Testing",
+      0.5151533484458923
+    ],
+    [
+      "Programming",
+      "Design",
+      0.3576318919658661
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.2374991625547409
+    ],
+    [
+      "Programming",
+      "Design",
+      0.20058509707450867
+    ],
+    [
+      "Programming",
+      "Admin Task",
+      0.21456316113471985
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.1163657158613205
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.1614840179681778
+    ],
+    [
+      "Programming",
+      "Design",
+      0.497270405292511
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.21075519919395447
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.21425393223762512
+    ],
+    [
+      "Programming",
+      "Admin Task",
+      0.3125748038291931
+    ],
+    [
+      "Programming",
+      "Admin Task",
+      0.16924899816513062
+    ],
+    [
+      "Programming",
+      "Data Work",
+      0.3939856290817261
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6451486349105835
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6316015720367432
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.19668717682361603
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7596194744110107
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5029085278511047
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.596631646156311
+    ],
+    [
+      "Programming",
+      "Documentation",
+      0.1223951131105423
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.15258829295635223
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5463247895240784
+    ],
+    [
+      "Content Creation",
+      "Documentation",
+      0.3628193736076355
+    ],
+    [
+      "Programming",
+      "Planning",
+      0.17541764676570892
+    ],
+    [
+      "Programming",
+      "Planning",
+      0.6726561784744263
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.19007301330566406
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.26632440090179443
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.5886341333389282
+    ],
+    [
+      "Admin Task",
+      "Reviewing",
+      0.3521901071071625
+    ],
+    [
+      "Design",
+      "Design",
+      0.1311206966638565
+    ],
+    [
+      "Design",
+      "Planning",
+      0.254003643989563
+    ],
+    [
+      "Planning",
+      "Admin Task",
+      0.4784112274646759
+    ],
+    [
+      "Design",
+      "Design",
+      0.15005066990852356
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.147955983877182
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.25082486867904663
+    ],
+    [
+      "Design",
+      "Design",
+      0.8875218629837036
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.3945602774620056
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.19264481961727142
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.3458358645439148
+    ],
+    [
+      "Design",
+      "Design",
+      0.24289648234844208
+    ],
+    [
+      "Design",
+      "Design",
+      0.20486532151699066
+    ],
+    [
+      "Design",
+      "Design",
+      0.20486532151699066
+    ],
+    [
+      "Design",
+      "Design",
+      0.21050766110420227
+    ],
+    [
+      "Design",
+      "Design",
+      0.746569037437439
+    ],
+    [
+      "Design",
+      "Design",
+      0.2637253701686859
+    ],
+    [
+      "Design",
+      "Design",
+      0.15155360102653503
+    ],
+    [
+      "Design",
+      "Design",
+      0.18714255094528198
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.3870709240436554
+    ],
+    [
+      "Admin Task",
+      "Admin Task",
+      0.28464025259017944
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.2273765206336975
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.1390874683856964
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.34968724846839905
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.595199704170227
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.2668662965297699
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.6847732663154602
+    ],
+    [
+      "Content Creation",
+      "Research",
+      0.5096855163574219
+    ],
+    [
+      "Content Creation",
+      "Reviewing",
+      0.27553415298461914
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.1700754463672638
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.1715480089187622
+    ],
+    [
+      "Content Creation",
+      "Planning",
+      0.7440061569213867
+    ],
+    [
+      "Content Creation",
+      "Programming",
+      0.37291038036346436
+    ],
+    [
+      "Content Creation",
+      "Testing",
+      0.13810454308986664
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.18555466830730438
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.13327287137508392
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.15718644857406616
+    ],
+    [
+      "Content Creation",
+      "Testing",
+      0.3347034454345703
+    ],
+    [
+      "Content Creation",
+      "Design",
+      0.7341989278793335
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.2720964550971985
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.41199013590812683
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.3860378861427307
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.769127607345581
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.2670779526233673
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.2739904820919037
+    ],
+    [
+      "Admin Task",
+      "Content Creation",
+      0.19567997753620148
+    ],
+    [
+      "Design",
+      "Design",
+      0.4395099878311157
+    ],
+    [
+      "Design",
+      "Design",
+      0.4268651306629181
+    ],
+    [
+      "Design",
+      "Design",
+      0.6789827346801758
+    ],
+    [
+      "Design",
+      "Design",
+      0.26209765672683716
+    ],
+    [
+      "Design",
+      "Design",
+      0.26911699771881104
+    ],
+    [
+      "Design",
+      "Design",
+      0.2937561273574829
+    ],
+    [
+      "Design",
+      "Design",
+      0.43630221486091614
+    ],
+    [
+      "Design",
+      "Design",
+      0.7434520125389099
+    ],
+    [
+      "Design",
+      "Design",
+      0.6602165102958679
+    ],
+    [
+      "Design",
+      "Design",
+      0.1951163411140442
+    ],
+    [
+      "Design",
+      "Design",
+      0.3137952983379364
+    ],
+    [
+      "Design",
+      "Design",
+      0.1835774928331375
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.15952591598033905
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.18267135322093964
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.1680891513824463
+    ],
+    [
+      "Design",
+      "Admin Task",
+      0.1692742258310318
+    ],
+    [
+      "Design",
+      "Design",
+      0.1473279893398285
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.2755337059497833
+    ],
+    [
+      "Data Work",
+      "Planning",
+      0.5392096042633057
+    ],
+    [
+      "Data Work",
+      "Admin Task",
+      0.16933728754520416
+    ],
+    [
+      "Data Work",
+      "Documentation",
+      0.1550678163766861
+    ],
+    [
+      "Data Work",
+      "Admin Task",
+      0.1337241232395172
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.24873165786266327
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.15260529518127441
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.14598135650157928
+    ],
+    [
+      "Data Work",
+      "Programming",
+      0.1350868195295334
+    ],
+    [
+      "Data Work",
+      "Design",
+      0.16758404672145844
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6518012881278992
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6861898899078369
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.4638393819332123
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5997714400291443
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.16422367095947266
+    ],
+    [
+      "Design",
+      "Planning",
+      0.8240976929664612
+    ],
+    [
+      "Design",
+      "Design",
+      0.7567316293716431
+    ],
+    [
+      "Design",
+      "Design",
+      0.12475371360778809
+    ],
+    [
+      "Design",
+      "Design",
+      0.8929657936096191
+    ],
+    [
+      "Design",
+      "Design",
+      0.9345355033874512
+    ],
+    [
+      "Design",
+      "Design",
+      0.9291629195213318
+    ],
+    [
+      "Design",
+      "Design",
+      0.8943846821784973
+    ],
+    [
+      "Design",
+      "Design",
+      0.8929657936096191
+    ],
+    [
+      "Admin Task",
+      "Reviewing",
+      0.16670557856559753
+    ],
+    [
+      "Admin Task",
+      "Research",
+      0.27790260314941406
+    ]
+  ],
+  "confusion_matrix": {
+    "Admin Task": {
+      "Admin Task": 1,
+      "Content Creation": 0,
+      "Data Work": 2,
+      "Design": 2,
+      "Documentation": 2,
+      "Planning": 9,
+      "Programming": 4,
+      "Research": 2,
+      "Reviewing": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Content Creation": {
+      "Admin Task": 2,
+      "Content Creation": 11,
+      "Data Work": 0,
+      "Design": 5,
+      "Documentation": 0,
+      "Planning": 3,
+      "Programming": 1,
+      "Research": 1,
+      "Reviewing": 3,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Data Work": {
+      "Admin Task": 0,
+      "Content Creation": 0,
+      "Data Work": 4,
+      "Design": 0,
+      "Documentation": 0,
+      "Planning": 0,
+      "Programming": 1,
+      "Research": 1,
+      "Reviewing": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Design": {
+      "Admin Task": 0,
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 32,
+      "Documentation": 1,
+      "Planning": 2,
+      "Programming": 3,
+      "Research": 0,
+      "Reviewing": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Documentation": {
+      "Admin Task": 1,
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 1,
+      "Documentation": 12,
+      "Planning": 3,
+      "Programming": 1,
+      "Research": 1,
+      "Reviewing": 2,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Planning": {
+      "Admin Task": 0,
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 2,
+      "Documentation": 2,
+      "Planning": 5,
+      "Programming": 2,
+      "Research": 0,
+      "Reviewing": 1,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Programming": {
+      "Admin Task": 0,
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 0,
+      "Documentation": 0,
+      "Planning": 1,
+      "Programming": 6,
+      "Research": 0,
+      "Reviewing": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Research": {
+      "Admin Task": 1,
+      "Content Creation": 1,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 4,
+      "Planning": 3,
+      "Programming": 0,
+      "Research": 8,
+      "Reviewing": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Reviewing": {
+      "Admin Task": 3,
+      "Content Creation": 1,
+      "Data Work": 0,
+      "Design": 6,
+      "Documentation": 4,
+      "Planning": 4,
+      "Programming": 4,
+      "Research": 6,
+      "Reviewing": 14,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Testing": {
+      "Admin Task": 0,
+      "Content Creation": 2,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Planning": 1,
+      "Programming": 0,
+      "Research": 2,
+      "Reviewing": 2,
+      "Testing": 5,
+      "Translation": 0
+    },
+    "Translation": {
+      "Admin Task": 0,
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Planning": 0,
+      "Programming": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Testing": 0,
+      "Translation": 5
+    }
+  },
+  "classification_report": {
+    "Admin Task": {
+      "precision": 0.045454545454545456,
+      "recall": 0.125,
+      "f1-score": 0.06666666666666667,
+      "support": 8.0
+    },
+    "Content Creation": {
+      "precision": 0.4230769230769231,
+      "recall": 0.5789473684210527,
+      "f1-score": 0.4888888888888889,
+      "support": 19.0
+    },
+    "Data Work": {
+      "precision": 0.6666666666666666,
+      "recall": 0.4,
+      "f1-score": 0.5,
+      "support": 10.0
+    },
+    "Design": {
+      "precision": 0.8,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.7272727272727273,
+      "support": 48.0
+    },
+    "Documentation": {
+      "precision": 0.5217391304347826,
+      "recall": 0.48,
+      "f1-score": 0.5,
+      "support": 25.0
+    },
+    "Planning": {
+      "precision": 0.35714285714285715,
+      "recall": 0.16129032258064516,
+      "f1-score": 0.2222222222222222,
+      "support": 31.0
+    },
+    "Programming": {
+      "precision": 0.6666666666666666,
+      "recall": 0.2727272727272727,
+      "f1-score": 0.3870967741935484,
+      "support": 22.0
+    },
+    "Research": {
+      "precision": 0.47058823529411764,
+      "recall": 0.38095238095238093,
+      "f1-score": 0.42105263157894735,
+      "support": 21.0
+    },
+    "Reviewing": {
+      "precision": 0.3333333333333333,
+      "recall": 0.6363636363636364,
+      "f1-score": 0.4375,
+      "support": 22.0
+    },
+    "Testing": {
+      "precision": 0.4166666666666667,
+      "recall": 1.0,
+      "f1-score": 0.5882352941176471,
+      "support": 5.0
+    },
+    "Translation": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "accuracy": 0.47685185185185186,
+    "macro avg": {
+      "precision": 0.5183031840669599,
+      "recall": 0.5183588770646957,
+      "f1-score": 0.48535774590369524,
+      "support": 216.0
+    },
+    "weighted avg": {
+      "precision": 0.5395803596091319,
+      "recall": 0.47685185185185186,
+      "f1-score": 0.4816880221583621,
+      "support": 216.0
+    }
+  }
+}

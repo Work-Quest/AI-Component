@@ -266,7 +266,7 @@ def main():
                 "work_category", 
                 "work_speed", 
                 "overall_quality_score", 
-                "assigned_role"]].to_csv("kmeans_role_categorization_assignments.csv", index=False)
+                "assigned_role"]].to_csv("output-data/kmeans_role_categorization_assignments.csv", index=False)
             
             mlflow.log_artifact("kmeans_role_categorization_assignments.csv")
 

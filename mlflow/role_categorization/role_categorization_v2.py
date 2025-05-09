@@ -267,7 +267,7 @@ def main():
                              "work_speed", "overall_quality_score", "assigned_role"]
             
             df[output_columns].to_csv(
-                "kmeans_role_categorization_assignments_v2.csv", 
+                "output-data/kmeans_role_categorization_assignments_v2.csv", 
                 index=False
             )
             

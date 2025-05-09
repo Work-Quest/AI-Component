@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/work%20project/workquest/AI-Component/mlruns/797347602424265816/403fb21b02f5453aa518ff1cc5578608/artifacts
+end_time: 1746784046220
+entry_point_name: ''
+experiment_id: '797347602424265816'
+lifecycle_stage: active
+run_id: 403fb21b02f5453aa518ff1cc5578608
+run_name: model_nli-distilroberta-base
+run_uuid: 403fb21b02f5453aa518ff1cc5578608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746784017553
+status: 3
+tags: []
+user_id: PC

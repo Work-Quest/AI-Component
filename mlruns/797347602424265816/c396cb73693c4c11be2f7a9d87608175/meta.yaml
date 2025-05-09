@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/work%20project/workquest/AI-Component/mlruns/797347602424265816/c396cb73693c4c11be2f7a9d87608175/artifacts
+end_time: 1746784017548
+entry_point_name: ''
+experiment_id: '797347602424265816'
+lifecycle_stage: active
+run_id: c396cb73693c4c11be2f7a9d87608175
+run_name: model_bart-large-mnli
+run_uuid: c396cb73693c4c11be2f7a9d87608175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746783832378
+status: 3
+tags: []
+user_id: PC

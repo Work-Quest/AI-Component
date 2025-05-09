@@ -1,0 +1,1346 @@
+{
+  "model_name": "facebook/bart-large-mnli",
+  "accuracy": 0.5046296296296297,
+  "precision": 0.5753462318626428,
+  "recall": 0.5046296296296297,
+  "f1_score": 0.5073128909951886,
+  "predictions": [
+    [
+      "Planning",
+      "Planning",
+      0.2920803725719452
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.1923140585422516
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.16686880588531494
+    ],
+    [
+      "Planning",
+      "Documentation",
+      0.11368706822395325
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.26436373591423035
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5455787777900696
+    ],
+    [
+      "Planning",
+      "Reviewing",
+      0.2614535391330719
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.2031508833169937
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.13161936402320862
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.21818263828754425
+    ],
+    [
+      "Planning",
+      "Reviewing",
+      0.1100621223449707
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.18812698125839233
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.178206667304039
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.19135521352291107
+    ],
+    [
+      "Planning",
+      "Reviewing",
+      0.19721820950508118
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.2050154209136963
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.12224555015563965
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.13446258008480072
+    ],
+    [
+      "Planning",
+      "Planning",
+      0.22592997550964355
+    ],
+    [
+      "Planning",
+      "Research",
+      0.6703655123710632
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.3235948383808136
+    ],
+    [
+      "Planning",
+      "Design",
+      0.489788293838501
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.485030859708786
+    ],
+    [
+      "Planning",
+      "Documentation",
+      0.745650053024292
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.17839083075523376
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.11327696591615677
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.15159164369106293
+    ],
+    [
+      "Planning",
+      "Documentation",
+      0.18204888701438904
+    ],
+    [
+      "Research",
+      "Research",
+      0.5325798392295837
+    ],
+    [
+      "Research",
+      "Data Work",
+      0.3325306177139282
+    ],
+    [
+      "Research",
+      "Research",
+      0.5061903595924377
+    ],
+    [
+      "Documentation",
+      "Planning",
+      0.21997421979904175
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.35078325867652893
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.7120784521102905
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.1345144808292389
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.32853761315345764
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.5311264395713806
+    ],
+    [
+      "Research",
+      "Submit Work",
+      0.23627880215644836
+    ],
+    [
+      "Design",
+      "Design",
+      0.8217347264289856
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.38798075914382935
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.7415525913238525
+    ],
+    [
+      "Design",
+      "Documentation",
+      0.2120770812034607
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.616216778755188
+    ],
+    [
+      "Submit Work",
+      "Submit Work",
+      0.7434766888618469
+    ],
+    [
+      "Submit Work",
+      "Submit Work",
+      0.27059346437454224
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5219861268997192
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.3339937627315521
+    ],
+    [
+      "Research",
+      "Research",
+      0.6506738066673279
+    ],
+    [
+      "Research",
+      "Research",
+      0.18947041034698486
+    ],
+    [
+      "Planning",
+      "Research",
+      0.43002212047576904
+    ],
+    [
+      "Planning",
+      "Research",
+      0.38924163579940796
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.4668419063091278
+    ],
+    [
+      "Research",
+      "Testing",
+      0.18405038118362427
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.2467281073331833
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.2467281073331833
+    ],
+    [
+      "Research",
+      "Submit Work",
+      0.13636702299118042
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.28321242332458496
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.1731320470571518
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.18509189784526825
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.18904918432235718
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.13462355732917786
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5035498738288879
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5923234224319458
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.14126649498939514
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.22138965129852295
+    ],
+    [
+      "Research",
+      "Testing",
+      0.5418651700019836
+    ],
+    [
+      "Research",
+      "Research",
+      0.4587908089160919
+    ],
+    [
+      "Research",
+      "Research",
+      0.47615858912467957
+    ],
+    [
+      "Research",
+      "Submit Work",
+      0.15742017328739166
+    ],
+    [
+      "Research",
+      "Research",
+      0.2154468297958374
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.15111403167247772
+    ],
+    [
+      "Research",
+      "Research",
+      0.4026975631713867
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.376089870929718
+    ],
+    [
+      "Documentation",
+      "Design",
+      0.14581595361232758
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2791817784309387
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.6596122980117798
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.25546887516975403
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2296748161315918
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.2138889729976654
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.17566116154193878
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5312826037406921
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.14908245205879211
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.17545302212238312
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5664191246032715
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.1316801905632019
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.3064940273761749
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.19616660475730896
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.33529701828956604
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.5122755169868469
+    ],
+    [
+      "Research",
+      "Documentation",
+      0.13279469311237335
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.20118075609207153
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.3232608735561371
+    ],
+    [
+      "Reviewing",
+      "Submit Work",
+      0.26774561405181885
+    ],
+    [
+      "Submit Work",
+      "Submit Work",
+      0.35137325525283813
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.1573312133550644
+    ],
+    [
+      "Documentation",
+      "Planning",
+      0.18136106431484222
+    ],
+    [
+      "Planning",
+      "Programming",
+      0.1499210000038147
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.14558999240398407
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.26918670535087585
+    ],
+    [
+      "Programming",
+      "Content Creation",
+      0.1502147763967514
+    ],
+    [
+      "Planning",
+      "Testing",
+      0.48327821493148804
+    ],
+    [
+      "Programming",
+      "Design",
+      0.32259905338287354
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.22341467440128326
+    ],
+    [
+      "Programming",
+      "Design",
+      0.181717187166214
+    ],
+    [
+      "Programming",
+      "Submit Work",
+      0.23573839664459229
+    ],
+    [
+      "Programming",
+      "Submit Work",
+      0.10820814222097397
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.15179046988487244
+    ],
+    [
+      "Programming",
+      "Design",
+      0.48210766911506653
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.21887372434139252
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.20178677141666412
+    ],
+    [
+      "Programming",
+      "Submit Work",
+      0.1420018970966339
+    ],
+    [
+      "Programming",
+      "Data Work",
+      0.16731223464012146
+    ],
+    [
+      "Programming",
+      "Data Work",
+      0.36881405115127563
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6335310935974121
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6093695163726807
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.17813009023666382
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6958350539207458
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.40687811374664307
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.5788803100585938
+    ],
+    [
+      "Programming",
+      "Submit Work",
+      0.33897167444229126
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.137026846408844
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.523342490196228
+    ],
+    [
+      "Content Creation",
+      "Documentation",
+      0.34486544132232666
+    ],
+    [
+      "Programming",
+      "Planning",
+      0.16396351158618927
+    ],
+    [
+      "Programming",
+      "Planning",
+      0.6265693306922913
+    ],
+    [
+      "Programming",
+      "Submit Work",
+      0.3533328175544739
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.24422189593315125
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.5356034636497498
+    ],
+    [
+      "Submit Work",
+      "Submit Work",
+      0.6134156584739685
+    ],
+    [
+      "Design",
+      "Design",
+      0.1247059628367424
+    ],
+    [
+      "Design",
+      "Planning",
+      0.25608545541763306
+    ],
+    [
+      "Planning",
+      "Submit Work",
+      0.1612769365310669
+    ],
+    [
+      "Design",
+      "Submit Work",
+      0.17061035335063934
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.14676599204540253
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.26111161708831787
+    ],
+    [
+      "Design",
+      "Design",
+      0.8818621635437012
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.38609400391578674
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.17529886960983276
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.34115663170814514
+    ],
+    [
+      "Design",
+      "Design",
+      0.22594071924686432
+    ],
+    [
+      "Design",
+      "Design",
+      0.18481303751468658
+    ],
+    [
+      "Design",
+      "Design",
+      0.18481303751468658
+    ],
+    [
+      "Design",
+      "Design",
+      0.18849022686481476
+    ],
+    [
+      "Design",
+      "Design",
+      0.7209985256195068
+    ],
+    [
+      "Design",
+      "Design",
+      0.21897731721401215
+    ],
+    [
+      "Design",
+      "Design",
+      0.13847631216049194
+    ],
+    [
+      "Design",
+      "Design",
+      0.1741691380739212
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.3768509030342102
+    ],
+    [
+      "Submit Work",
+      "Submit Work",
+      0.2680320739746094
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.20841650664806366
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.12940408289432526
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.34017065167427063
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.5716180801391602
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.26735198497772217
+    ],
+    [
+      "Planning",
+      "Content Creation",
+      0.683283805847168
+    ],
+    [
+      "Content Creation",
+      "Research",
+      0.500204861164093
+    ],
+    [
+      "Content Creation",
+      "Submit Work",
+      0.22903016209602356
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.17319734394550323
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.16391636431217194
+    ],
+    [
+      "Content Creation",
+      "Planning",
+      0.7380449175834656
+    ],
+    [
+      "Content Creation",
+      "Programming",
+      0.3390832841396332
+    ],
+    [
+      "Content Creation",
+      "Submit Work",
+      0.14394040405750275
+    ],
+    [
+      "Content Creation",
+      "Submit Work",
+      0.19057361781597137
+    ],
+    [
+      "Content Creation",
+      "Submit Work",
+      0.12989167869091034
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.14542661607265472
+    ],
+    [
+      "Content Creation",
+      "Testing",
+      0.3232545554637909
+    ],
+    [
+      "Content Creation",
+      "Design",
+      0.7132614850997925
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.21468842029571533
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.39988791942596436
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.36238569021224976
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7689149379730225
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.25203239917755127
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.2579534649848938
+    ],
+    [
+      "Submit Work",
+      "Submit Work",
+      0.21749545633792877
+    ],
+    [
+      "Design",
+      "Design",
+      0.4134467840194702
+    ],
+    [
+      "Design",
+      "Design",
+      0.4154357314109802
+    ],
+    [
+      "Design",
+      "Design",
+      0.6488829851150513
+    ],
+    [
+      "Design",
+      "Design",
+      0.27134212851524353
+    ],
+    [
+      "Design",
+      "Design",
+      0.2467651516199112
+    ],
+    [
+      "Design",
+      "Design",
+      0.29111337661743164
+    ],
+    [
+      "Design",
+      "Design",
+      0.4326757788658142
+    ],
+    [
+      "Design",
+      "Design",
+      0.7120230793952942
+    ],
+    [
+      "Design",
+      "Design",
+      0.6802074909210205
+    ],
+    [
+      "Design",
+      "Design",
+      0.18156738579273224
+    ],
+    [
+      "Design",
+      "Design",
+      0.28773975372314453
+    ],
+    [
+      "Design",
+      "Design",
+      0.17118507623672485
+    ],
+    [
+      "Design",
+      "Submit Work",
+      0.3272845149040222
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.1851523071527481
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.17039397358894348
+    ],
+    [
+      "Design",
+      "Design",
+      0.13324062526226044
+    ],
+    [
+      "Design",
+      "Submit Work",
+      0.14247074723243713
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.2743561267852783
+    ],
+    [
+      "Data Work",
+      "Planning",
+      0.5179103016853333
+    ],
+    [
+      "Data Work",
+      "Submit Work",
+      0.1151001900434494
+    ],
+    [
+      "Data Work",
+      "Documentation",
+      0.14719471335411072
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.1288980394601822
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.23333442211151123
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.15453103184700012
+    ],
+    [
+      "Data Work",
+      "Data Work",
+      0.13287654519081116
+    ],
+    [
+      "Data Work",
+      "Programming",
+      0.1258251965045929
+    ],
+    [
+      "Data Work",
+      "Design",
+      0.15064013004302979
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6334987282752991
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6720598340034485
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.4211723208427429
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5824788212776184
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.15267132222652435
+    ],
+    [
+      "Design",
+      "Planning",
+      0.7876902222633362
+    ],
+    [
+      "Design",
+      "Design",
+      0.7156392931938171
+    ],
+    [
+      "Design",
+      "Submit Work",
+      0.15454818308353424
+    ],
+    [
+      "Design",
+      "Design",
+      0.9394429922103882
+    ],
+    [
+      "Design",
+      "Design",
+      0.8933715224266052
+    ],
+    [
+      "Design",
+      "Design",
+      0.9205306172370911
+    ],
+    [
+      "Design",
+      "Design",
+      0.8836788535118103
+    ],
+    [
+      "Design",
+      "Design",
+      0.9394429922103882
+    ],
+    [
+      "Email Sending",
+      "Email Sending",
+      0.6857420206069946
+    ],
+    [
+      "Email Sending",
+      "Email Sending",
+      0.6012309193611145
+    ]
+  ],
+  "confusion_matrix": {
+    "Content Creation": {
+      "Content Creation": 9,
+      "Data Work": 0,
+      "Design": 4,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Planning": 4,
+      "Programming": 1,
+      "Research": 0,
+      "Reviewing": 3,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Data Work": {
+      "Content Creation": 0,
+      "Data Work": 5,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Planning": 0,
+      "Programming": 2,
+      "Research": 1,
+      "Reviewing": 0,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Design": {
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 30,
+      "Documentation": 1,
+      "Email Sending": 0,
+      "Planning": 1,
+      "Programming": 3,
+      "Research": 0,
+      "Reviewing": 0,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Documentation": {
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 1,
+      "Documentation": 14,
+      "Email Sending": 0,
+      "Planning": 3,
+      "Programming": 0,
+      "Research": 1,
+      "Reviewing": 2,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Email Sending": {
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 2,
+      "Planning": 0,
+      "Programming": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Planning": {
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 2,
+      "Documentation": 2,
+      "Email Sending": 0,
+      "Planning": 5,
+      "Programming": 2,
+      "Research": 0,
+      "Reviewing": 0,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Programming": {
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Planning": 1,
+      "Programming": 6,
+      "Research": 0,
+      "Reviewing": 0,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Research": {
+      "Content Creation": 1,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 4,
+      "Email Sending": 0,
+      "Planning": 3,
+      "Programming": 0,
+      "Research": 8,
+      "Reviewing": 0,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Reviewing": {
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 7,
+      "Documentation": 4,
+      "Email Sending": 0,
+      "Planning": 3,
+      "Programming": 3,
+      "Research": 6,
+      "Reviewing": 14,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Submit Work": {
+      "Content Creation": 4,
+      "Data Work": 1,
+      "Design": 4,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Planning": 10,
+      "Programming": 5,
+      "Research": 3,
+      "Reviewing": 1,
+      "Submit Work": 6,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Testing": {
+      "Content Creation": 1,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Planning": 1,
+      "Programming": 0,
+      "Research": 2,
+      "Reviewing": 2,
+      "Submit Work": 0,
+      "Testing": 5,
+      "Translation": 0
+    },
+    "Translation": {
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Planning": 0,
+      "Programming": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Submit Work": 0,
+      "Testing": 0,
+      "Translation": 5
+    }
+  },
+  "classification_report": {
+    "Content Creation": {
+      "precision": 0.42857142857142855,
+      "recall": 0.47368421052631576,
+      "f1-score": 0.45,
+      "support": 19.0
+    },
+    "Data Work": {
+      "precision": 0.625,
+      "recall": 0.5,
+      "f1-score": 0.5555555555555556,
+      "support": 10.0
+    },
+    "Design": {
+      "precision": 0.8108108108108109,
+      "recall": 0.625,
+      "f1-score": 0.7058823529411765,
+      "support": 48.0
+    },
+    "Documentation": {
+      "precision": 0.6086956521739131,
+      "recall": 0.56,
+      "f1-score": 0.5833333333333334,
+      "support": 25.0
+    },
+    "Email Sending": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2.0
+    },
+    "Planning": {
+      "precision": 0.38461538461538464,
+      "recall": 0.16129032258064516,
+      "f1-score": 0.22727272727272727,
+      "support": 31.0
+    },
+    "Programming": {
+      "precision": 0.6666666666666666,
+      "recall": 0.2727272727272727,
+      "f1-score": 0.3870967741935484,
+      "support": 22.0
+    },
+    "Research": {
+      "precision": 0.5,
+      "recall": 0.38095238095238093,
+      "f1-score": 0.43243243243243246,
+      "support": 21.0
+    },
+    "Reviewing": {
+      "precision": 0.3783783783783784,
+      "recall": 0.6363636363636364,
+      "f1-score": 0.4745762711864407,
+      "support": 22.0
+    },
+    "Submit Work": {
+      "precision": 0.17647058823529413,
+      "recall": 1.0,
+      "f1-score": 0.3,
+      "support": 6.0
+    },
+    "Testing": {
+      "precision": 0.45454545454545453,
+      "recall": 1.0,
+      "f1-score": 0.625,
+      "support": 5.0
+    },
+    "Translation": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "accuracy": 0.5046296296296297,
+    "macro avg": {
+      "precision": 0.5861461969997775,
+      "recall": 0.6341681519291876,
+      "f1-score": 0.5617624539096011,
+      "support": 216.0
+    },
+    "weighted avg": {
+      "precision": 0.5753462318626428,
+      "recall": 0.5046296296296297,
+      "f1-score": 0.5073128909951886,
+      "support": 216.0
+    }
+  }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/work%20project/workquest/AI-Component/mlruns/218178050864315288/a77edca246b74f4caee702b28b7fa4aa/artifacts
+end_time: 1746786811044
+entry_point_name: ''
+experiment_id: '218178050864315288'
+lifecycle_stage: active
+run_id: a77edca246b74f4caee702b28b7fa4aa
+run_name: model_DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+run_uuid: a77edca246b74f4caee702b28b7fa4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746786248016
+status: 3
+tags: []
+user_id: PC

@@ -118,7 +118,36 @@ def get_cluster_summary(df):
         raise
     return summary
 
+def explain_assignment_verbose(df, cluster_summary):
+    """Explain cluster assignment with a SHAP-like textual style."""
+    explanations = []
 
+    for _, row in df.iterrows():
+        cluster = row["cluster"]
+        role = row["assigned_role"]
+        cluster_info = cluster_summary.loc[cluster]
+        reasoning = {
+            0: "Balanced but unremarkable — contributes, but may lack initiative",
+            1: "High quality and teamwork, but very slow — may hold up the group",
+            2: "Works quickly but produces low quality",
+            3: "Very fast but extremely low quality and teamwork — risky contributor",
+            4: "Takes on everything, delivers high quality",
+            5: "Reliable and collaborative, though slow-moving",
+            6: "Mediocre in all areas — lacks standout traits"
+        }
+
+        lines = []
+        for feature in ["avg_workload", "team_work", "work_speed", "overall_quality_score"]:
+            diff = row[feature] - cluster_info[feature]
+            sign = "+" if diff > 0 else "–"
+            lines.append(f"{sign} {feature}: {diff:+.2f} vs cluster avg")
+
+        lines.append(f"⇒ Overall pattern matches “{role}”: {reasoning.get(cluster, 'No reasoning available')}")
+        explanations.append("\n".join(lines))
+
+    df["explanation"] = explanations
+    return df
+    
 class TeamRoleClusteringModel(PythonModel):
     """
     Custom model class for K-means clustering and role assignment.
@@ -162,6 +191,36 @@ class TeamRoleClusteringModel(PythonModel):
             print(f"Error during prediction: {e}")
             raise
 
+def explain_assignment_verbose(df, cluster_summary):
+    """Explain cluster assignment with a SHAP-like textual style."""
+    explanations = []
+
+    for _, row in df.iterrows():
+        cluster = row["cluster"]
+        role = row["assigned_role"]
+        cluster_info = cluster_summary.loc[cluster]
+        reasoning = {
+            0: "Balanced but unremarkable — contributes, but may lack initiative",
+            1: "High quality and teamwork, but very slow — may hold up the group",
+            2: "Works quickly but produces low quality",
+            3: "Very fast but extremely low quality and teamwork — risky contributor",
+            4: "Takes on everything, delivers high quality",
+            5: "Reliable and collaborative, though slow-moving",
+            6: "Mediocre in all areas — lacks standout traits"
+        }
+
+        lines = []
+        for feature in ["avg_workload", "team_work", "work_speed", "overall_quality_score"]:
+            diff = row[feature] - cluster_info[feature]
+            sign = "+" if diff > 0 else "–"
+            lines.append(f"{sign} {feature}: {diff:+.2f} vs cluster avg")
+
+        lines.append(f"⇒ Overall pattern matches “{role}”: {reasoning.get(cluster, 'No reasoning available')}")
+        explanations.append("\n".join(lines))
+
+    df["shap_style_explanation"] = explanations
+    return df
+
 
 def main():
     """Main function to run the K-means clustering and role assignment."""
@@ -202,7 +261,11 @@ def main():
             }
 
             df["assigned_role"] = df["cluster"].map(role_mapping)
-
+            
+            # expalin result 
+            cluster_summary = df.groupby("cluster")[["avg_workload", "team_work", "work_speed", "overall_quality_score"]].mean()
+            df = explain_assignment_verbose(df, cluster_summary)
+            
             model = TeamRoleClusteringModel(
                 kmeans=kmeans, scaler=scaler,
                 role_mapping=role_mapping, feature_names=features
@@ -239,6 +302,8 @@ def main():
             mlflow.log_param("input_file", CSV_INPUT)
             mlflow.log_param("experiment_name", EXPERIMENT_NAME)
 
+            
+            
             df[["id", 
                 "user_name",
                 "work_load_per_day", 
@@ -246,7 +311,8 @@ def main():
                 "work_category", 
                 "work_speed", 
                 "overall_quality_score", 
-                "assigned_role"]].to_csv("kmeans_role_categorization_assignments.csv", index=False)
+                "assigned_role",
+                "shap_style_explanation"]].to_csv("output-data/kmeans_role_categorization_assignments.csv", index=False)
             
             mlflow.log_artifact("kmeans_role_categorization_assignments.csv")
 

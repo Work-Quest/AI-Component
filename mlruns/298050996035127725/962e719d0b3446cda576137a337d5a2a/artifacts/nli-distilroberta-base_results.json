@@ -1,0 +1,24 @@
+{
+  "model_name": "cross-encoder/nli-distilroberta-base",
+  "accuracy": NaN,
+  "precision": NaN,
+  "recall": NaN,
+  "f1_score": NaN,
+  "predictions": [],
+  "confusion_matrix": {},
+  "classification_report": {
+    "accuracy": 0.0,
+    "macro avg": {
+      "precision": NaN,
+      "recall": NaN,
+      "f1-score": NaN,
+      "support": 0.0
+    },
+    "weighted avg": {
+      "precision": NaN,
+      "recall": NaN,
+      "f1-score": NaN,
+      "support": 0.0
+    }
+  }
+}

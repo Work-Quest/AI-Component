@@ -1,0 +1,1346 @@
+{
+  "model_name": "facebook/bart-large-mnli",
+  "accuracy": 0.5509259259259259,
+  "precision": 0.5394762857349884,
+  "recall": 0.5509259259259259,
+  "f1_score": 0.5322924728443733,
+  "predictions": [
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.23024055361747742
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.19768141210079193
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.2878699004650116
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Documentation",
+      0.12817227840423584
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Programming",
+      0.15731459856033325
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Translation",
+      0.27142730355262756
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Conducting Research",
+      0.3234370946884155
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.37478354573249817
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.14986029267311096
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Documentation",
+      0.21605132520198822
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Reviewing and Providing Feedback",
+      0.16778121888637543
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2206217646598816
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.19161847233772278
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.19479592144489288
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.21500954031944275
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.20367929339408875
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Finalizing and Submitting Work",
+      0.3015868067741394
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.23714712262153625
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.3266597390174866
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Conducting Research",
+      0.243024080991745
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Reviewing and Providing Feedback",
+      0.22515921294689178
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Creating Content and Visuals",
+      0.3411484360694885
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Finalizing and Submitting Work",
+      0.4602004587650299
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Documentation",
+      0.7234129309654236
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Conducting Research",
+      0.37655916810035706
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Reviewing and Providing Feedback",
+      0.16138122975826263
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Programming",
+      0.1450294703245163
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Documentation",
+      0.2010776549577713
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.852772057056427
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.5032346248626709
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.24400381743907928
+    ],
+    [
+      "Documentation",
+      "Programming",
+      0.1263629049062729
+    ],
+    [
+      "Creating Content and Visuals",
+      "Documentation",
+      0.26443591713905334
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.42601457238197327
+    ],
+    [
+      "Finalizing and Submitting Work",
+      "Finalizing and Submitting Work",
+      0.20667724311351776
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.5794714689254761
+    ],
+    [
+      "Documentation",
+      "Finalizing and Submitting Work",
+      0.4939018487930298
+    ],
+    [
+      "Conducting Research",
+      "Finalizing and Submitting Work",
+      0.2593998908996582
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.5614645481109619
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Creating Content and Visuals",
+      0.22400018572807312
+    ],
+    [
+      "Creating Content and Visuals",
+      "Reviewing and Providing Feedback",
+      0.4093874990940094
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.6017099618911743
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.640917956829071
+    ],
+    [
+      "Finalizing and Submitting Work",
+      "Finalizing and Submitting Work",
+      0.8397724628448486
+    ],
+    [
+      "Finalizing and Submitting Work",
+      "Creating Content and Visuals",
+      0.37941041588783264
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.5247690677642822
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.48823532462120056
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.37535619735717773
+    ],
+    [
+      "Conducting Research",
+      "Testing",
+      0.19473759829998016
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Conducting Research",
+      0.43358245491981506
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.34799039363861084
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.19623154401779175
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.24460364878177643
+    ],
+    [
+      "Conducting Research",
+      "Translation",
+      0.1786126047372818
+    ],
+    [
+      "Conducting Research",
+      "Documentation",
+      0.2071564644575119
+    ],
+    [
+      "Conducting Research",
+      "Creating Content and Visuals",
+      0.24186766147613525
+    ],
+    [
+      "Conducting Research",
+      "Reviewing and Providing Feedback",
+      0.2542310357093811
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.3845883309841156
+    ],
+    [
+      "Documentation",
+      "Reviewing and Providing Feedback",
+      0.2018916755914688
+    ],
+    [
+      "Conducting Research",
+      "Reviewing and Providing Feedback",
+      0.16954216361045837
+    ],
+    [
+      "Documentation",
+      "Creating Content and Visuals",
+      0.2707820236682892
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5553706288337708
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.4623982310295105
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Creating Content and Visuals",
+      0.15202079713344574
+    ],
+    [
+      "Conducting Research",
+      "Reviewing and Providing Feedback",
+      0.2275725156068802
+    ],
+    [
+      "Conducting Research",
+      "Testing",
+      0.5633562803268433
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.30392396450042725
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.23768970370292664
+    ],
+    [
+      "Conducting Research",
+      "Documentation",
+      0.1829778552055359
+    ],
+    [
+      "Conducting Research",
+      "Conducting Research",
+      0.2439984679222107
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2900279462337494
+    ],
+    [
+      "Conducting Research",
+      "Reviewing and Providing Feedback",
+      0.34522876143455505
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2866097390651703
+    ],
+    [
+      "Documentation",
+      "Creating Content and Visuals",
+      0.19743338227272034
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.3153139650821686
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.6996373534202576
+    ],
+    [
+      "Documentation",
+      "Task Assignment and Scheduling",
+      0.4498753547668457
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2794378399848938
+    ],
+    [
+      "Documentation",
+      "Reviewing and Providing Feedback",
+      0.3194790780544281
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.1864704042673111
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5696597099304199
+    ],
+    [
+      "Documentation",
+      "Creating Content and Visuals",
+      0.22270426154136658
+    ],
+    [
+      "Documentation",
+      "Creating Content and Visuals",
+      0.3216468393802643
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.3753418028354645
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Sending Emails and Communication",
+      0.1464911550283432
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Testing",
+      0.3332459628582001
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2304755002260208
+    ],
+    [
+      "Documentation",
+      "Reviewing and Providing Feedback",
+      0.49836465716362
+    ],
+    [
+      "Documentation",
+      "Conducting Research",
+      0.4802393615245819
+    ],
+    [
+      "Conducting Research",
+      "Reviewing and Providing Feedback",
+      0.1346116065979004
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2270195186138153
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.3422197103500366
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Finalizing and Submitting Work",
+      0.3487931787967682
+    ],
+    [
+      "Finalizing and Submitting Work",
+      "Finalizing and Submitting Work",
+      0.33554476499557495
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Documentation",
+      0.1719343662261963
+    ],
+    [
+      "Documentation",
+      "Programming",
+      0.1616479456424713
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Programming",
+      0.18886125087738037
+    ],
+    [
+      "Programming",
+      "Finalizing and Submitting Work",
+      0.18399474024772644
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.34325936436653137
+    ],
+    [
+      "Programming",
+      "Finalizing and Submitting Work",
+      0.14783057570457458
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Testing",
+      0.5596906542778015
+    ],
+    [
+      "Programming",
+      "Conducting Research",
+      0.16708624362945557
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.31435349583625793
+    ],
+    [
+      "Programming",
+      "Creating Content and Visuals",
+      0.33137691020965576
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.20926113426685333
+    ],
+    [
+      "Programming",
+      "Reviewing and Providing Feedback",
+      0.14962615072727203
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.19379955530166626
+    ],
+    [
+      "Programming",
+      "Working with Spreadsheets and Data",
+      0.20164649188518524
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.31248268485069275
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.30198103189468384
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.17724525928497314
+    ],
+    [
+      "Programming",
+      "Working with Spreadsheets and Data",
+      0.17378436028957367
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.2721967101097107
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6775511503219604
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6489077806472778
+    ],
+    [
+      "Programming",
+      "Reviewing and Providing Feedback",
+      0.22084802389144897
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7131893038749695
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.42009785771369934
+    ],
+    [
+      "Programming",
+      "Reviewing and Providing Feedback",
+      0.8501101136207581
+    ],
+    [
+      "Programming",
+      "Finalizing and Submitting Work",
+      0.34658437967300415
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.1551760584115982
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5530522465705872
+    ],
+    [
+      "Creating Content and Visuals",
+      "Documentation",
+      0.5010786652565002
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.17371153831481934
+    ],
+    [
+      "Programming",
+      "Finalizing and Submitting Work",
+      0.38208046555519104
+    ],
+    [
+      "Programming",
+      "Finalizing and Submitting Work",
+      0.2589533030986786
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.23712286353111267
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.6360445618629456
+    ],
+    [
+      "Finalizing and Submitting Work",
+      "Finalizing and Submitting Work",
+      0.44203537702560425
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.14726385474205017
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.21069954335689545
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Task Assignment and Scheduling",
+      0.2496689110994339
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.24669158458709717
+    ],
+    [
+      "Creating Content and Visuals",
+      "Documentation",
+      0.14256730675697327
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.6016388535499573
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.5439069867134094
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2650643289089203
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2021089345216751
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.28275367617607117
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.21538984775543213
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.24280300736427307
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.24280300736427307
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.25142067670822144
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.6188176870346069
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.340023934841156
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.22460225224494934
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.26156455278396606
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Testing",
+      0.41138654947280884
+    ],
+    [
+      "Finalizing and Submitting Work",
+      "Creating Content and Visuals",
+      0.5222827792167664
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.19666048884391785
+    ],
+    [
+      "Creating Content and Visuals",
+      "Reviewing and Providing Feedback",
+      0.14577877521514893
+    ],
+    [
+      "Creating Content and Visuals",
+      "Conducting Research",
+      0.2893126308917999
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.3970000147819519
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.40430498123168945
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Creating Content and Visuals",
+      0.6120579838752747
+    ],
+    [
+      "Creating Content and Visuals",
+      "Conducting Research",
+      0.6335493326187134
+    ],
+    [
+      "Creating Content and Visuals",
+      "Reviewing and Providing Feedback",
+      0.1892339140176773
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2083287388086319
+    ],
+    [
+      "Conducting Research",
+      "Testing",
+      0.1729915738105774
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.37060531973838806
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.40783655643463135
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.31815335154533386
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2719915509223938
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2679096460342407
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.22558018565177917
+    ],
+    [
+      "Creating Content and Visuals",
+      "Testing",
+      0.3217822313308716
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.5602067708969116
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.5368945002555847
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.42432522773742676
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.4729987680912018
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7888289093971252
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Reviewing and Providing Feedback",
+      0.19506961107254028
+    ],
+    [
+      "Reviewing and Providing Feedback",
+      "Testing",
+      0.20026007294654846
+    ],
+    [
+      "Finalizing and Submitting Work",
+      "Finalizing and Submitting Work",
+      0.27686142921447754
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.18593353033065796
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.3963962197303772
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.24203729629516602
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.23870979249477386
+    ],
+    [
+      "Creating Content and Visuals",
+      "Finalizing and Submitting Work",
+      0.1461508423089981
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.6516087055206299
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.538861870765686
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.616204559803009
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.6468665599822998
+    ],
+    [
+      "Creating Content and Visuals",
+      "Translation",
+      0.16670788824558258
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.534555971622467
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.318629652261734
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2883872985839844
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.4200926125049591
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.44689592719078064
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2469141185283661
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2686716318130493
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Working with Spreadsheets and Data",
+      0.5211939811706543
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Working with Spreadsheets and Data",
+      0.19192512333393097
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Working with Spreadsheets and Data",
+      0.518314003944397
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Working with Spreadsheets and Data",
+      0.38499096035957336
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Working with Spreadsheets and Data",
+      0.24747243523597717
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Reviewing and Providing Feedback",
+      0.17453978955745697
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Working with Spreadsheets and Data",
+      0.16256795823574066
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Reviewing and Providing Feedback",
+      0.14943407475948334
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Working with Spreadsheets and Data",
+      0.19962690770626068
+    ],
+    [
+      "Working with Spreadsheets and Data",
+      "Creating Content and Visuals",
+      0.49460431933403015
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6412538290023804
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6874632239341736
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.41276660561561584
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5924285054206848
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.2859160602092743
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.35607194900512695
+    ],
+    [
+      "Creating Content and Visuals",
+      "Finalizing and Submitting Work",
+      0.1706160455942154
+    ],
+    [
+      "Creating Content and Visuals",
+      "Reviewing and Providing Feedback",
+      0.17097747325897217
+    ],
+    [
+      "Creating Content and Visuals",
+      "Reviewing and Providing Feedback",
+      0.19610945880413055
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.4073617458343506
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.4330519437789917
+    ],
+    [
+      "Creating Content and Visuals",
+      "Creating Content and Visuals",
+      0.38494229316711426
+    ],
+    [
+      "Creating Content and Visuals",
+      "Reviewing and Providing Feedback",
+      0.19610945880413055
+    ],
+    [
+      "Sending Emails and Communication",
+      "Sending Emails and Communication",
+      0.5703141689300537
+    ],
+    [
+      "Sending Emails and Communication",
+      "Sending Emails and Communication",
+      0.4440597593784332
+    ]
+  ],
+  "confusion_matrix": {
+    "Assign, Setup and Schedule Task": {
+      "Assign, Setup and Schedule Task": 0,
+      "Conducting Research": 0,
+      "Creating Content and Visuals": 0,
+      "Documentation": 0,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 0,
+      "Reviewing and Providing Feedback": 0,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Conducting Research": {
+      "Assign, Setup and Schedule Task": 4,
+      "Conducting Research": 8,
+      "Creating Content and Visuals": 2,
+      "Documentation": 1,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 1,
+      "Reviewing and Providing Feedback": 0,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Creating Content and Visuals": {
+      "Assign, Setup and Schedule Task": 3,
+      "Conducting Research": 1,
+      "Creating Content and Visuals": 52,
+      "Documentation": 4,
+      "Finalizing and Submitting Work": 2,
+      "Programming": 1,
+      "Reviewing and Providing Feedback": 1,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 1
+    },
+    "Documentation": {
+      "Assign, Setup and Schedule Task": 3,
+      "Conducting Research": 2,
+      "Creating Content and Visuals": 3,
+      "Documentation": 13,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 0,
+      "Reviewing and Providing Feedback": 2,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Finalizing and Submitting Work": {
+      "Assign, Setup and Schedule Task": 2,
+      "Conducting Research": 1,
+      "Creating Content and Visuals": 2,
+      "Documentation": 1,
+      "Finalizing and Submitting Work": 5,
+      "Programming": 5,
+      "Reviewing and Providing Feedback": 1,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Programming": {
+      "Assign, Setup and Schedule Task": 3,
+      "Conducting Research": 0,
+      "Creating Content and Visuals": 0,
+      "Documentation": 2,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 10,
+      "Reviewing and Providing Feedback": 0,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Reviewing and Providing Feedback": {
+      "Assign, Setup and Schedule Task": 3,
+      "Conducting Research": 5,
+      "Creating Content and Visuals": 6,
+      "Documentation": 3,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 3,
+      "Reviewing and Providing Feedback": 12,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 2
+    },
+    "Sending Emails and Communication": {
+      "Assign, Setup and Schedule Task": 0,
+      "Conducting Research": 0,
+      "Creating Content and Visuals": 0,
+      "Documentation": 0,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 0,
+      "Reviewing and Providing Feedback": 1,
+      "Sending Emails and Communication": 2,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Task Assignment and Scheduling": {
+      "Assign, Setup and Schedule Task": 12,
+      "Conducting Research": 0,
+      "Creating Content and Visuals": 0,
+      "Documentation": 1,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 0,
+      "Reviewing and Providing Feedback": 0,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Testing": {
+      "Assign, Setup and Schedule Task": 1,
+      "Conducting Research": 3,
+      "Creating Content and Visuals": 1,
+      "Documentation": 0,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 0,
+      "Reviewing and Providing Feedback": 3,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 5,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Translation": {
+      "Assign, Setup and Schedule Task": 0,
+      "Conducting Research": 1,
+      "Creating Content and Visuals": 1,
+      "Documentation": 0,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 0,
+      "Reviewing and Providing Feedback": 1,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 5,
+      "Working with Spreadsheets and Data": 0
+    },
+    "Working with Spreadsheets and Data": {
+      "Assign, Setup and Schedule Task": 0,
+      "Conducting Research": 0,
+      "Creating Content and Visuals": 0,
+      "Documentation": 0,
+      "Finalizing and Submitting Work": 0,
+      "Programming": 2,
+      "Reviewing and Providing Feedback": 0,
+      "Sending Emails and Communication": 0,
+      "Task Assignment and Scheduling": 0,
+      "Testing": 0,
+      "Translation": 0,
+      "Working with Spreadsheets and Data": 7
+    }
+  },
+  "classification_report": {
+    "Assign, Setup and Schedule Task": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 31.0
+    },
+    "Conducting Research": {
+      "precision": 0.5,
+      "recall": 0.38095238095238093,
+      "f1-score": 0.43243243243243246,
+      "support": 21.0
+    },
+    "Creating Content and Visuals": {
+      "precision": 0.8,
+      "recall": 0.7761194029850746,
+      "f1-score": 0.7878787878787878,
+      "support": 67.0
+    },
+    "Documentation": {
+      "precision": 0.5652173913043478,
+      "recall": 0.52,
+      "f1-score": 0.5416666666666666,
+      "support": 25.0
+    },
+    "Finalizing and Submitting Work": {
+      "precision": 0.29411764705882354,
+      "recall": 0.7142857142857143,
+      "f1-score": 0.4166666666666667,
+      "support": 7.0
+    },
+    "Programming": {
+      "precision": 0.6666666666666666,
+      "recall": 0.45454545454545453,
+      "f1-score": 0.5405405405405406,
+      "support": 22.0
+    },
+    "Reviewing and Providing Feedback": {
+      "precision": 0.35294117647058826,
+      "recall": 0.5714285714285714,
+      "f1-score": 0.43636363636363634,
+      "support": 21.0
+    },
+    "Sending Emails and Communication": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "Task Assignment and Scheduling": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "Testing": {
+      "precision": 0.38461538461538464,
+      "recall": 1.0,
+      "f1-score": 0.5555555555555556,
+      "support": 5.0
+    },
+    "Translation": {
+      "precision": 0.625,
+      "recall": 1.0,
+      "f1-score": 0.7692307692307693,
+      "support": 5.0
+    },
+    "Working with Spreadsheets and Data": {
+      "precision": 0.7777777777777778,
+      "recall": 0.7,
+      "f1-score": 0.7368421052631579,
+      "support": 10.0
+    },
+    "accuracy": 0.5509259259259259,
+    "macro avg": {
+      "precision": 0.46941689254668795,
+      "recall": 0.5931109603497663,
+      "f1-score": 0.5014314300498511,
+      "support": 216.0
+    },
+    "weighted avg": {
+      "precision": 0.5394762857349884,
+      "recall": 0.5509259259259259,
+      "f1-score": 0.5322924728443733,
+      "support": 216.0
+    }
+  }
+}

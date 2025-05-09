@@ -1,0 +1,1379 @@
+{
+  "model_name": "facebook/bart-large-mnli",
+  "accuracy": 0.5509259259259259,
+  "precision": 0.6055388514509306,
+  "recall": 0.5509259259259259,
+  "f1_score": 0.5525572668555404,
+  "predictions": [
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.37584879994392395
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.2014564573764801
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.3425849676132202
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.1739879697561264
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.1517157107591629
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5611523985862732
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Reviewing",
+      0.3335326611995697
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.2645794451236725
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.13364358246326447
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.21783122420310974
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Reviewing",
+      0.11829190701246262
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.18257665634155273
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.33400970697402954
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.2910197675228119
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.28436779975891113
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Content Creation",
+      0.1931808888912201
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Finalizing and Submitting Deliverables",
+      0.2770029604434967
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.2810448706150055
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.30789363384246826
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Research",
+      0.7076694369316101
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Content Creation",
+      0.29026979207992554
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Design",
+      0.5184949040412903
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Finalizing and Submitting Deliverables",
+      0.14643211662769318
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Documentation",
+      0.7439573407173157
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Content Creation",
+      0.21794576942920685
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Design",
+      0.10887026786804199
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Content Creation",
+      0.1518028825521469
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Documentation",
+      0.18190142512321472
+    ],
+    [
+      "Research",
+      "Research",
+      0.5955439805984497
+    ],
+    [
+      "Research",
+      "Research",
+      0.38068488240242004
+    ],
+    [
+      "Research",
+      "Research",
+      0.5498865246772766
+    ],
+    [
+      "Documentation",
+      "Assign, Setup and Schedule Task",
+      0.19025379419326782
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.46445736289024353
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.7360883951187134
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.13549377024173737
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.36655178666114807
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.5727176666259766
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.27952486276626587
+    ],
+    [
+      "Design",
+      "Design",
+      0.8413262367248535
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.23644481599330902
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.7839580774307251
+    ],
+    [
+      "Design",
+      "Documentation",
+      0.2941417098045349
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6243506073951721
+    ],
+    [
+      "Finalizing and Submitting Deliverables",
+      "Finalizing and Submitting Deliverables",
+      0.6135822534561157
+    ],
+    [
+      "Finalizing and Submitting Deliverables",
+      "Content Creation",
+      0.19767449796199799
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5303946137428284
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.3516463041305542
+    ],
+    [
+      "Research",
+      "Research",
+      0.6555701494216919
+    ],
+    [
+      "Research",
+      "Research",
+      0.20033696293830872
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Research",
+      0.4021507203578949
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.31821247935295105
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.47058209776878357
+    ],
+    [
+      "Research",
+      "Testing",
+      0.1821313351392746
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.2540279030799866
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.2540279030799866
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.14521153271198273
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.29289284348487854
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.18891410529613495
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.1798637956380844
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.20227399468421936
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.14963188767433167
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.527551531791687
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.6402859687805176
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.1457500159740448
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.24915440380573273
+    ],
+    [
+      "Research",
+      "Testing",
+      0.5626788139343262
+    ],
+    [
+      "Research",
+      "Research",
+      0.4913152754306793
+    ],
+    [
+      "Research",
+      "Research",
+      0.465737521648407
+    ],
+    [
+      "Research",
+      "Content Creation",
+      0.17499831318855286
+    ],
+    [
+      "Research",
+      "Research",
+      0.24558229744434357
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.1532936692237854
+    ],
+    [
+      "Research",
+      "Research",
+      0.45544159412384033
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.36849910020828247
+    ],
+    [
+      "Documentation",
+      "Design",
+      0.1579681634902954
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.28239354491233826
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.658404529094696
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.2363593876361847
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.24575600028038025
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.23691079020500183
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.18695113062858582
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5741933584213257
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.14932408928871155
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.20782949030399323
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.5754683017730713
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.1480102837085724
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.327761709690094
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.20096206665039062
+    ],
+    [
+      "Documentation",
+      "Reviewing",
+      0.372550904750824
+    ],
+    [
+      "Documentation",
+      "Research",
+      0.5659285187721252
+    ],
+    [
+      "Research",
+      "Documentation",
+      0.1370558887720108
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.19554243981838226
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.3528969883918762
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.11452513188123703
+    ],
+    [
+      "Finalizing and Submitting Deliverables",
+      "Finalizing and Submitting Deliverables",
+      0.18555864691734314
+    ],
+    [
+      "Reviewing",
+      "Documentation",
+      0.16595013439655304
+    ],
+    [
+      "Documentation",
+      "Design",
+      0.14305885136127472
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Programming",
+      0.17977666854858398
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.16306668519973755
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.2879042625427246
+    ],
+    [
+      "Programming",
+      "Content Creation",
+      0.15363562107086182
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Testing",
+      0.477851003408432
+    ],
+    [
+      "Programming",
+      "Design",
+      0.38747933506965637
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.24151518940925598
+    ],
+    [
+      "Programming",
+      "Design",
+      0.20481324195861816
+    ],
+    [
+      "Programming",
+      "Design",
+      0.1943819522857666
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.11569909006357193
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.16881753504276276
+    ],
+    [
+      "Programming",
+      "Design",
+      0.7478943467140198
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.23094512522220612
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.23671236634254456
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.15798568725585938
+    ],
+    [
+      "Programming",
+      "Assign, Setup and Schedule Task",
+      0.17680209875106812
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.23852293193340302
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7015734314918518
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.6150102019309998
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.1892947554588318
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7452701330184937
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.49767613410949707
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.6265514492988586
+    ],
+    [
+      "Programming",
+      "Finalizing and Submitting Deliverables",
+      0.13592378795146942
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.14356979727745056
+    ],
+    [
+      "Documentation",
+      "Documentation",
+      0.5324926972389221
+    ],
+    [
+      "Content Creation",
+      "Documentation",
+      0.37308573722839355
+    ],
+    [
+      "Programming",
+      "Programming",
+      0.16950853168964386
+    ],
+    [
+      "Programming",
+      "Reviewing",
+      0.20013384521007538
+    ],
+    [
+      "Programming",
+      "Finalizing and Submitting Deliverables",
+      0.24371209740638733
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.27442288398742676
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.5700340867042542
+    ],
+    [
+      "Finalizing and Submitting Deliverables",
+      "Finalizing and Submitting Deliverables",
+      0.3722594678401947
+    ],
+    [
+      "Design",
+      "Design",
+      0.12894581258296967
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.24571917951107025
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Assign, Setup and Schedule Task",
+      0.1538950353860855
+    ],
+    [
+      "Design",
+      "Design",
+      0.1530078798532486
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.15303541719913483
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.27015072107315063
+    ],
+    [
+      "Design",
+      "Design",
+      0.8833109140396118
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.41594499349594116
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.17833192646503448
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.37383833527565
+    ],
+    [
+      "Design",
+      "Design",
+      0.23723649978637695
+    ],
+    [
+      "Design",
+      "Design",
+      0.1952349841594696
+    ],
+    [
+      "Design",
+      "Design",
+      0.1952349841594696
+    ],
+    [
+      "Design",
+      "Design",
+      0.20059482753276825
+    ],
+    [
+      "Design",
+      "Design",
+      0.7884072661399841
+    ],
+    [
+      "Design",
+      "Design",
+      0.2591897249221802
+    ],
+    [
+      "Design",
+      "Design",
+      0.14871902763843536
+    ],
+    [
+      "Design",
+      "Design",
+      0.18212607502937317
+    ],
+    [
+      "Reviewing",
+      "Testing",
+      0.40795478224754333
+    ],
+    [
+      "Finalizing and Submitting Deliverables",
+      "Content Creation",
+      0.19746392965316772
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.21666590869426727
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.14193548262119293
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.4154885709285736
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.6099035143852234
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.3076663315296173
+    ],
+    [
+      "Assign, Setup and Schedule Task",
+      "Content Creation",
+      0.6737496256828308
+    ],
+    [
+      "Content Creation",
+      "Research",
+      0.5182928442955017
+    ],
+    [
+      "Content Creation",
+      "Reviewing",
+      0.28412431478500366
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.19316916167736053
+    ],
+    [
+      "Research",
+      "Reviewing",
+      0.18360687792301178
+    ],
+    [
+      "Content Creation",
+      "Assign, Setup and Schedule Task",
+      0.21786890923976898
+    ],
+    [
+      "Content Creation",
+      "Programming",
+      0.3520495295524597
+    ],
+    [
+      "Content Creation",
+      "Testing",
+      0.14248988032341003
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.18657006323337555
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.1284567415714264
+    ],
+    [
+      "Content Creation",
+      "Content Creation",
+      0.15136286616325378
+    ],
+    [
+      "Content Creation",
+      "Testing",
+      0.37465745210647583
+    ],
+    [
+      "Content Creation",
+      "Design",
+      0.7410167455673218
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.26636460423469543
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.4305940568447113
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.37312981486320496
+    ],
+    [
+      "Testing",
+      "Testing",
+      0.7775686383247375
+    ],
+    [
+      "Reviewing",
+      "Content Creation",
+      0.27005863189697266
+    ],
+    [
+      "Reviewing",
+      "Reviewing",
+      0.2791416049003601
+    ],
+    [
+      "Finalizing and Submitting Deliverables",
+      "Email Sending",
+      0.18240773677825928
+    ],
+    [
+      "Design",
+      "Design",
+      0.45228394865989685
+    ],
+    [
+      "Design",
+      "Design",
+      0.49556824564933777
+    ],
+    [
+      "Design",
+      "Design",
+      0.67491215467453
+    ],
+    [
+      "Design",
+      "Design",
+      0.3139788806438446
+    ],
+    [
+      "Design",
+      "Design",
+      0.27720963954925537
+    ],
+    [
+      "Design",
+      "Design",
+      0.31353312730789185
+    ],
+    [
+      "Design",
+      "Design",
+      0.4793078899383545
+    ],
+    [
+      "Design",
+      "Design",
+      0.7721500396728516
+    ],
+    [
+      "Design",
+      "Design",
+      0.7533890604972839
+    ],
+    [
+      "Design",
+      "Design",
+      0.2045099288225174
+    ],
+    [
+      "Design",
+      "Design",
+      0.3423675000667572
+    ],
+    [
+      "Design",
+      "Design",
+      0.18917612731456757
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.15408983826637268
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.214824378490448
+    ],
+    [
+      "Design",
+      "Content Creation",
+      0.1788291037082672
+    ],
+    [
+      "Design",
+      "Design",
+      0.1557973474264145
+    ],
+    [
+      "Design",
+      "Design",
+      0.14995087683200836
+    ],
+    [
+      "Data Work",
+      "Spreadsheet Work",
+      0.530934751033783
+    ],
+    [
+      "Data Work",
+      "Spreadsheet Work",
+      0.1624590903520584
+    ],
+    [
+      "Data Work",
+      "Spreadsheet Work",
+      0.3197019696235657
+    ],
+    [
+      "Data Work",
+      "Spreadsheet Work",
+      0.3605274558067322
+    ],
+    [
+      "Data Work",
+      "Spreadsheet Work",
+      0.1378861367702484
+    ],
+    [
+      "Data Work",
+      "Reviewing",
+      0.1802276223897934
+    ],
+    [
+      "Data Work",
+      "Reviewing",
+      0.15088289976119995
+    ],
+    [
+      "Data Work",
+      "Reviewing",
+      0.10331136733293533
+    ],
+    [
+      "Data Work",
+      "Programming",
+      0.14800183475017548
+    ],
+    [
+      "Data Work",
+      "Design",
+      0.18778634071350098
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6377193927764893
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.6800491809844971
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.42889872193336487
+    ],
+    [
+      "Translation",
+      "Translation",
+      0.5929380059242249
+    ],
+    [
+      "Design",
+      "Reviewing",
+      0.19116021692752838
+    ],
+    [
+      "Design",
+      "Design",
+      0.22041070461273193
+    ],
+    [
+      "Design",
+      "Design",
+      0.774791955947876
+    ],
+    [
+      "Design",
+      "Assign, Setup and Schedule Task",
+      0.12004514783620834
+    ],
+    [
+      "Design",
+      "Design",
+      0.9479354023933411
+    ],
+    [
+      "Design",
+      "Design",
+      0.9357284903526306
+    ],
+    [
+      "Design",
+      "Design",
+      0.9284467101097107
+    ],
+    [
+      "Design",
+      "Design",
+      0.88772052526474
+    ],
+    [
+      "Design",
+      "Design",
+      0.9479354023933411
+    ],
+    [
+      "Email Sending",
+      "Email Sending",
+      0.7354656457901001
+    ],
+    [
+      "Email Sending",
+      "Email Sending",
+      0.6199913024902344
+    ]
+  ],
+  "confusion_matrix": {
+    "Assign, Setup and Schedule Task": {
+      "Assign, Setup and Schedule Task": 14,
+      "Content Creation": 1,
+      "Data Work": 0,
+      "Design": 1,
+      "Documentation": 1,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 1,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Content Creation": {
+      "Assign, Setup and Schedule Task": 5,
+      "Content Creation": 11,
+      "Data Work": 0,
+      "Design": 6,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 2,
+      "Programming": 1,
+      "Research": 1,
+      "Reviewing": 3,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Data Work": {
+      "Assign, Setup and Schedule Task": 0,
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Design": {
+      "Assign, Setup and Schedule Task": 2,
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 33,
+      "Documentation": 2,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 4,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Documentation": {
+      "Assign, Setup and Schedule Task": 2,
+      "Content Creation": 1,
+      "Data Work": 0,
+      "Design": 1,
+      "Documentation": 14,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 0,
+      "Research": 1,
+      "Reviewing": 2,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Email Sending": {
+      "Assign, Setup and Schedule Task": 0,
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 2,
+      "Finalizing and Submitting Deliverables": 1,
+      "Programming": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Finalizing and Submitting Deliverables": {
+      "Assign, Setup and Schedule Task": 2,
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 3,
+      "Programming": 2,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Programming": {
+      "Assign, Setup and Schedule Task": 1,
+      "Content Creation": 1,
+      "Data Work": 1,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 8,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Research": {
+      "Assign, Setup and Schedule Task": 2,
+      "Content Creation": 1,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 4,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 0,
+      "Research": 9,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Reviewing": {
+      "Assign, Setup and Schedule Task": 2,
+      "Content Creation": 1,
+      "Data Work": 3,
+      "Design": 7,
+      "Documentation": 4,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 6,
+      "Research": 8,
+      "Reviewing": 15,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Spreadsheet Work": {
+      "Assign, Setup and Schedule Task": 0,
+      "Content Creation": 0,
+      "Data Work": 5,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 0
+    },
+    "Testing": {
+      "Assign, Setup and Schedule Task": 1,
+      "Content Creation": 2,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 0,
+      "Research": 2,
+      "Reviewing": 2,
+      "Spreadsheet Work": 0,
+      "Testing": 5,
+      "Translation": 0
+    },
+    "Translation": {
+      "Assign, Setup and Schedule Task": 0,
+      "Content Creation": 0,
+      "Data Work": 0,
+      "Design": 0,
+      "Documentation": 0,
+      "Email Sending": 0,
+      "Finalizing and Submitting Deliverables": 0,
+      "Programming": 0,
+      "Research": 0,
+      "Reviewing": 0,
+      "Spreadsheet Work": 0,
+      "Testing": 0,
+      "Translation": 5
+    }
+  },
+  "classification_report": {
+    "Assign, Setup and Schedule Task": {
+      "precision": 0.7777777777777778,
+      "recall": 0.45161290322580644,
+      "f1-score": 0.5714285714285714,
+      "support": 31.0
+    },
+    "Content Creation": {
+      "precision": 0.3793103448275862,
+      "recall": 0.5789473684210527,
+      "f1-score": 0.4583333333333333,
+      "support": 19.0
+    },
+    "Data Work": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 10.0
+    },
+    "Design": {
+      "precision": 0.7674418604651163,
+      "recall": 0.6875,
+      "f1-score": 0.7252747252747253,
+      "support": 48.0
+    },
+    "Documentation": {
+      "precision": 0.6666666666666666,
+      "recall": 0.56,
+      "f1-score": 0.6086956521739131,
+      "support": 25.0
+    },
+    "Email Sending": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "Finalizing and Submitting Deliverables": {
+      "precision": 0.42857142857142855,
+      "recall": 0.5,
+      "f1-score": 0.46153846153846156,
+      "support": 6.0
+    },
+    "Programming": {
+      "precision": 0.7272727272727273,
+      "recall": 0.36363636363636365,
+      "f1-score": 0.48484848484848486,
+      "support": 22.0
+    },
+    "Research": {
+      "precision": 0.5625,
+      "recall": 0.42857142857142855,
+      "f1-score": 0.4864864864864865,
+      "support": 21.0
+    },
+    "Reviewing": {
+      "precision": 0.32608695652173914,
+      "recall": 0.6818181818181818,
+      "f1-score": 0.4411764705882353,
+      "support": 22.0
+    },
+    "Spreadsheet Work": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "Testing": {
+      "precision": 0.4166666666666667,
+      "recall": 1.0,
+      "f1-score": 0.5882352941176471,
+      "support": 5.0
+    },
+    "Translation": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 5.0
+    },
+    "accuracy": 0.5509259259259259,
+    "macro avg": {
+      "precision": 0.5168431611874135,
+      "recall": 0.5578527881286794,
+      "f1-score": 0.5096936522915276,
+      "support": 216.0
+    },
+    "weighted avg": {
+      "precision": 0.6055388514509306,
+      "recall": 0.5509259259259259,
+      "f1-score": 0.5525572668555404,
+      "support": 216.0
+    }
+  }
+}

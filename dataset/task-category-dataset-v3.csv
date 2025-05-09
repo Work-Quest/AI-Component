@@ -1,0 +1,217 @@
+task_description,category
+Schedule group meeting,"Assign, Setup and Schedule Task"
+Assign roles and responsibilities,"Assign, Setup and Schedule Task"
+Create project timeline,"Assign, Setup and Schedule Task"
+"Set up shared folder (e.g., Google Drive)","Assign, Setup and Schedule Task"
+Define project goals and scope,"Assign, Setup and Schedule Task"
+Read and understand project requirements,Reviewing and Providing Feedback
+Brainstorm initial ideas with group,"Assign, Setup and Schedule Task"
+Identify project deliverables and deadlines,"Assign, Setup and Schedule Task"
+Clarify marking criteria or rubric,Reviewing and Providing Feedback
+List questions to ask the instructor,Reviewing and Providing Feedback
+"Create group chat or communication channel (e.g., Line, WhatsApp, Discord)","Assign, Setup and Schedule Task"
+"Set up a shared document (e.g., Google Doc, Notion)",Documentation
+Decide on communication rules and update schedule,"Assign, Setup and Schedule Task"
+Assign group leader/coordinator (if applicable),"Assign, Setup and Schedule Task"
+Propose and confirm regular meeting times,"Assign, Setup and Schedule Task"
+Create a shared calendar,"Assign, Setup and Schedule Task"
+Break project into milestones,"Assign, Setup and Schedule Task"
+Set internal deadlines,"Assign, Setup and Schedule Task"
+Decide on a check-in schedule,"Assign, Setup and Schedule Task"
+Assign research roles,"Assign, Setup and Schedule Task"
+Assign writing/editing roles,"Assign, Setup and Schedule Task"
+Assign design/presentation roles,"Assign, Setup and Schedule Task"
+Assign submission responsibility,"Assign, Setup and Schedule Task"
+Document who is doing what and when,"Assign, Setup and Schedule Task"
+Collect and list useful resources,"Assign, Setup and Schedule Task"
+Choose tools for collaboration,"Assign, Setup and Schedule Task"
+Create a shared folder structure,"Assign, Setup and Schedule Task"
+Set naming conventions for files and documents,"Assign, Setup and Schedule Task"
+Conduct background research,Conducting Research
+Collect data/information,Conducting Research
+Summarize research findings,Conducting Research
+Create project outline,Documentation
+Draft written content,Creating Content and Visuals
+Review teammates� drafts,Reviewing and Providing Feedback
+Merge individual sections,Finalizing and Submitting Work
+Give peer feedback,Reviewing and Providing Feedback
+Edit and proofread final report,Documentation
+Finalize citations/references,Conducting Research
+Design slides,Creating Content and Visuals
+Assign presentation parts,"Assign, Setup and Schedule Task"
+Rehearse presentation,Creating Content and Visuals
+"Prepare visuals (charts, diagrams)",Creating Content and Visuals
+"Check tech setup (laptop, projector, etc.)",Testing
+Submit final project/report,Finalizing and Submitting Work
+Upload presentation recording (if required),Finalizing and Submitting Work
+Reflect on group work (for peer eval),Reviewing and Providing Feedback
+Complete self/peer evaluations,Reviewing and Providing Feedback
+Define research questions or key topics,Conducting Research
+"Identify reliable sources (e.g., academic journals, official websites)",Conducting Research
+Decide who researches which subtopic,"Assign, Setup and Schedule Task"
+Set deadline for individual research contributions,"Assign, Setup and Schedule Task"
+Create a shared document for research notes,Documentation
+Find at least 3�5 credible sources per subtopic,Conducting Research
+Extract key points and summarize,Conducting Research
+Note down publication details for citations,Conducting Research
+Take screenshots or save PDFs of important resources,Conducting Research
+Identify conflicting or unclear information for discussion,Conducting Research
+Summarize findings into bullet points or mind maps,Creating Content and Visuals
+Add notes to shared document/slides,Documentation
+Group similar ideas or facts together,Conducting Research
+Highlight quotes or stats to use in the project,Documentation
+"Translate findings into simple, understandable language (if needed)",Translation
+Review each other's findings,Reviewing and Providing Feedback
+Merge overlapping content,Reviewing and Providing Feedback
+Identify gaps in information or unanswered questions,Conducting Research
+Check for bias or weaknesses in sources,Conducting Research
+Create a short research summary for the group,Conducting Research
+Turn research findings into section drafts,Conducting Research
+"Provide references and citations in proper format (APA, MLA, etc.)",Conducting Research
+Create a list of all sources used (bibliography),Conducting Research
+Decide which findings go in the slides and which in the report,Creating Content and Visuals
+Discuss how the research supports the project goals,Conducting Research
+"Create separate docs for meeting notes, task tracking, and final report",Documentation
+"Choose a consistent formatting style (fonts, headings, spacing)",Documentation
+"Set up a naming convention for documents (e.g., Topic_Summary_v1.docx)",Documentation
+"Record date, time, and attendees",Documentation
+"Write down decisions made, task assignments, and deadlines",Documentation
+Upload or share notes after each meeting,Documentation
+Keep a running log of group discussions and feedback,Documentation
+Outline the report structure,Documentation
+Document key points and findings clearly,Documentation
+"Add headings, subheadings, and bullet points for readability",Documentation
+"Include charts, images, or tables where necessary",Documentation
+"Review for grammar, clarity, and structure",Reviewing and Providing Feedback
+Ensure consistency in writing style and tone,Reviewing and Providing Feedback
+Cross-check facts and references,Reviewing and Providing Feedback
+Combine all sections into one unified document,Documentation
+Make revisions based on peer/instructor feedback,Documentation
+Keep track of all sources used during research,Documentation
+"Use a citation tool (e.g., Zotero, Mendeley, Google Docs� citation feature)",Conducting Research
+Convert document to PDF (if needed),Documentation
+Ensure all team member names and student IDs are included,Documentation
+"Check submission instructions (file name, format, platform)",Reviewing and Providing Feedback
+Submit on time through the designated platform,Finalizing and Submitting Work
+Save a backup copy of the final document,Reviewing and Providing Feedback
+Define project requirements and features,Documentation
+"Choose tech stack (e.g., React, Node.js, Django, Firebase)","Assign, Setup and Schedule Task"
+Set up Git repository and version control guidelines,Programming
+"Configure project environment (e.g., npm init, venv, Docker)",Programming
+Create file/folder structure,Programming
+"Assign development roles (frontend, backend, database, testing)","Assign, Setup and Schedule Task"
+Create UI wireframes or prototypes,Programming
+"Set up frontend framework (e.g., React, Vue, Next.js)",Programming
+"Build layout and components (e.g., navbar, forms, cards)",Programming
+Implement page routing and navigation,Programming
+"Add interactivity (e.g., event handlers, modals)",Programming
+Connect frontend to backend APIs,Programming
+Design database schema,Programming
+"Set up backend server (e.g., Express.js, Django)",Programming
+Create API endpoints (CRUD operations),Programming
+Implement authentication/authorization,Programming
+"Set up local or cloud database (e.g., MongoDB, PostgreSQL)",Programming
+Implement queries for data fetch and update,Programming
+Test data relations and integrity,Testing
+Test API endpoints with Postman or Swagger,Testing
+Debug UI/UX issues,Programming
+Perform integration testing,Testing
+Document known bugs and fixes,Documentation
+Review pull requests and give feedback,Programming
+Write clear commit messages,Programming
+Add inline comments to complex code blocks,Programming
+Document functions and API routes,Documentation
+Create README file with setup and usage instructions,Creating Content and Visuals
+"Optimize performance (e.g., lazy loading, database indexing)",Programming
+Prepare final demo build,Programming
+"Deploy project (e.g., Vercel, Netlify, Heroku)",Programming
+Confirm everything works in production,Reviewing and Providing Feedback
+Create demo video or walkthrough,Creating Content and Visuals
+Submit source code and deployment link,Finalizing and Submitting Work
+Define the purpose and key message of the presentation,Creating Content and Visuals
+"Create a presentation outline (Intro, Body, Conclusion)",Creating Content and Visuals
+Assign who presents each section,"Assign, Setup and Schedule Task"
+"Choose the presentation tool (e.g., Google Slides, PowerPoint, Canva)",Creating Content and Visuals
+"Set the slide count limit (e.g., 10�15 slides)",Creating Content and Visuals
+"Create a slide template (fonts, colors, layout)",Creating Content and Visuals
+"Design the title slide (project name, group members, date)",Creating Content and Visuals
+Make agenda/overview slide,Creating Content and Visuals
+"Structure content slides clearly (e.g., one idea per slide)",Creating Content and Visuals
+Create a closing/thank-you slide,Creating Content and Visuals
+Choose a consistent color scheme and font pairing for slide,Creating Content and Visuals
+"Add icons, charts, or illustrations to support key points in slide",Creating Content and Visuals
+"Add icons, charts, or illustrations to support key points in slide",Creating Content and Visuals
+Use animations/transitions sparingly for emphasis on slide,Creating Content and Visuals
+Design charts/graphs to present data clearly,Creating Content and Visuals
+"Include screenshots or diagrams if relevant (e.g., UI mockups, system design)",Creating Content and Visuals
+Add labels and legends to all visuals in slide,Creating Content and Visuals
+Ensure slide's all visuals are readable and not overloaded,Creating Content and Visuals
+"Double-check formatting on all devices (laptop, projector, etc.)",Reviewing and Providing Feedback
+Upload slides to submission platform (if required),Finalizing and Submitting Work
+"Define the purpose of the content (e.g., educational, persuasive, informative)",Creating Content and Visuals
+"Identify target audience (e.g., peers, instructors, general public)",Creating Content and Visuals
+Brainstorm ideas or themes for content,Creating Content and Visuals
+Create a content outline or storyboard,Creating Content and Visuals
+"Decide on content format (e.g., blog post, video, infographic, report)",Creating Content and Visuals
+"Assign content creation roles (writing, design, video editing, etc.)","Assign, Setup and Schedule Task"
+Research key points or information for the content,Creating Content and Visuals
+Write a rough draft or script,Creating Content and Visuals
+"Organize content logically (e.g., introduction, body, conclusion)",Creating Content and Visuals
+Ensure all claims are supported by sources or evidence,Conducting Research
+"Plan the multimedia approach (e.g., video, podcast, interactive)",Creating Content and Visuals
+Script the video/podcast/audio elements,Creating Content and Visuals
+Record audio or video (ensure good lighting and sound quality),Creating Content and Visuals
+"Edit video/audio using tools like Adobe Premiere, Final Cut, or Audacity",Creating Content and Visuals
+"Add effects, captions, or transitions where needed",Creating Content and Visuals
+Sync background music or sound effects,Creating Content and Visuals
+Finalize the multimedia content and check for smooth playback,Creating Content and Visuals
+"Design visuals to accompany written content (e.g., banners, infographics, charts)",Creating Content and Visuals
+Share draft content with team members for feedback,Reviewing and Providing Feedback
+Revise content based on group suggestions,Reviewing and Providing Feedback
+"Proofread final text for grammar, clarity, and coherence",Reviewing and Providing Feedback
+"Test multimedia content for quality (check image resolution, video playback, etc.)",Testing
+Ensure content aligns with project goals and requirements,Reviewing and Providing Feedback
+Double-check references and citations,Reviewing and Providing Feedback
+"Submit content to the appropriate platform (e.g., LMS, Google Drive, email)",Finalizing and Submitting Work
+"Define the purpose and message of the design (e.g., branding, informational, persuasive)",Creating Content and Visuals
+Brainstorm design ideas and visual concepts,Creating Content and Visuals
+"Choose a design tool (e.g., Adobe Illustrator, Photoshop, Canva, Figma)",Creating Content and Visuals
+Set up design files with correct dimensions and resolution,Creating Content and Visuals
+Create a grid or layout to ensure consistency across designs,Creating Content and Visuals
+"Develop layouts for print (posters, flyers) or digital (website, presentation slides)",Creating Content and Visuals
+Create logo or iconography (if applicable),Creating Content and Visuals
+"Design illustrations, charts, or infographics for data representation",Creating Content and Visuals
+"Design social media assets (banners, posts, ads)",Creating Content and Visuals
+Choose and apply typography based on readability and style,Creating Content and Visuals
+"Develop custom graphics (e.g., illustrations, icons, button designs)",Creating Content and Visuals
+"Ensure visual consistency (colors, fonts, spacing, style)",Creating Content and Visuals
+Select high-quality images or illustrations for the project,Creating Content and Visuals
+"Edit images for clarity, sharpness, and style consistency (e.g., using Photoshop)",Creating Content and Visuals
+"Crop and resize images for different use cases (e.g., social media, presentations)",Creating Content and Visuals
+Apply filters or adjustments for color correction or mood setting,Creating Content and Visuals
+Remove image backgrounds (if needed),Creating Content and Visuals
+"Define the purpose of the spreadsheet (e.g., project tracking, data analysis, budgeting)",Working with Spreadsheets and Data
+"Set up a naming convention for sheets (e.g., ""Project Plan,"" ""Budget,"" ""Task List"")",Working with Spreadsheets and Data
+Create a shared spreadsheet for collaborative access (Google Sheets),Working with Spreadsheets and Data
+"Outline the spreadsheet structure (e.g., headers, rows, columns)",Working with Spreadsheets and Data
+"Set up data entry tables with appropriate columns (e.g., Name, Date, Value, Category)",Working with Spreadsheets and Data
+"Clean data by removing duplicates, correcting formatting, or filling missing values",Working with Spreadsheets and Data
+Organize data using filters or pivot tables to summarize or analyze,Working with Spreadsheets and Data
+"Use conditional formatting to highlight important data (e.g., high scores, overdue tasks)",Working with Spreadsheets and Data
+"Apply formulas (e.g., SUM(), AVERAGE(), COUNTIF()) to calculate data results",Working with Spreadsheets and Data
+"Create charts (bar charts, pie charts, line graphs) to visualize trends or comparisons",Working with Spreadsheets and Data
+Translate the Text,Translation
+Translate Japanese quote,Translation
+Change slide into english,Translation
+Translate document into Thai,Translation
+Draft initial sketches or thumbnails to explore different ideas and compositions.,Creating Content and Visuals
+"Plan the color palette for the illustration, considering the tone and context",Creating Content and Visuals
+Draw home first design,Creating Content and Visuals
+create Flowchart ,Creating Content and Visuals
+Design User Account Management UI,Creating Content and Visuals
+Design Landing Page UI,Creating Content and Visuals
+Design Business Information Page UI,Creating Content and Visuals
+Design Bussiness Listing Page UI,Creating Content and Visuals
+Design User Account Management UI,Creating Content and Visuals
+send email to advisor,Sending Emails and Communication
+asking Professor about project via email,Sending Emails and Communication
