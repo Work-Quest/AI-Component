@@ -1,0 +1,44 @@
+{
+  "0": {
+    "avg_workload": 6.063513,
+    "team_work": 63.533731,
+    "work_speed": 32.144179,
+    "overall_quality_score": 51.284478
+  },
+  "1": {
+    "avg_workload": 8.082326,
+    "team_work": 81.671972,
+    "work_speed": 16.261127,
+    "overall_quality_score": 80.432465
+  },
+  "2": {
+    "avg_workload": 4.08913,
+    "team_work": 44.94557,
+    "work_speed": 47.089664,
+    "overall_quality_score": 22.601678
+  },
+  "3": {
+    "avg_workload": 3.09639,
+    "team_work": 35.235133,
+    "work_speed": 56.151867,
+    "overall_quality_score": 8.2398
+  },
+  "4": {
+    "avg_workload": 8.881079,
+    "team_work": 90.499167,
+    "work_speed": 7.543182,
+    "overall_quality_score": 93.451515
+  },
+  "5": {
+    "avg_workload": 7.015583,
+    "team_work": 72.259648,
+    "work_speed": 24.644859,
+    "overall_quality_score": 64.994437
+  },
+  "6": {
+    "avg_workload": 5.120773,
+    "team_work": 54.089404,
+    "work_speed": 40.217417,
+    "overall_quality_score": 37.775762
+  }
+}
