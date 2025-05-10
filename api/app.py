@@ -2,9 +2,16 @@ from flask import Flask, request, jsonify
 import joblib
 import json
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.cluster import KMeans
+import openai
+import json
+import os
+from dotenv import load_dotenv
+import requests
+from flask_cors import CORS
+
+load_dotenv()
+key = os.getenv('OPENAI_API_KEY')
+client = openai.OpenAI(api_key=key)
 
 # Load model artifacts
 kmeans = joblib.load("model/kmeans_model.pkl")
@@ -19,8 +26,11 @@ with open("artifacts/feature_names.json", "r") as f:
 
 with open("artifacts/cluster_summary.json", "r") as f:
     cluster_summary = json.load(f)
+
 # Flask app
 app = Flask(__name__)
+# Enable CORS for all routes and origins
+CORS(app)
 
 @app.route("/")
 def health_check():
@@ -56,8 +66,12 @@ def explain_assignment(row):
 
     return "\n".join(lines)
 
-@app.route("/role", methods=["POST"])
+@app.route("/role", methods=["POST", "OPTIONS"])
 def predict():
+    # Handle preflight CORS requests
+    if request.method == "OPTIONS":
+        return "", 200
+
     data = request.get_json()
 
     if not data:
@@ -107,6 +121,94 @@ def predict():
             "role_explanation": explanation
         })
 
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    
+# Feedback generation function
+def generate_feedback(user_name, work_category, role, work_load_per_day, team_work, work_speed, overall_quality_score):
+    work_load_per_day_list = eval(str(work_load_per_day))
+    avg_workload = sum(work_load_per_day_list) / len(work_load_per_day_list)
+
+    metrics = {
+        "Workload": avg_workload,
+        "Teamwork": team_work,
+        "Speed": work_speed,
+        "Quality": overall_quality_score,
+    }
+
+    sorted_metrics = sorted(metrics.items(), key=lambda x: x[1], reverse=True)
+    strengths = [name for name, _ in sorted_metrics[:2]]
+    improvements = [name for name, _ in sorted_metrics[-2:]]
+
+    analyzed_data = {
+        "Workload": work_load_per_day,
+        "Teamwork": team_work,
+        "Speed": work_speed,
+        "Quality": overall_quality_score,
+        "Strengths": strengths,
+        "Improvements": improvements,
+        "Best Task": work_category,
+        "role" : role
+    }
+
+    prompt = f"""With this analyzed Data {analyzed_data} by all score is max at 100 expect speed which is average hour max at 72 hr. Act like you're talking directly to {user_name} and give an unbias personal feedback.
+    Use their name and speak casually. Highlight their strengths, especially their best work category ({work_category}), 
+    and mention their highest performance stats without giving exact scores. 
+    Point out areas for improvement based on their weaker aspects. 
+    Keep a motivational tone and end with encouragement. Give feedback in aspect of time too."""
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4.1-mini",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant for performance reviews."},
+                {"role": "user", "content": prompt}
+            ]
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        return f"Error: {e}"
+    
+# Route to get feedback by index
+@app.route("/feedback", methods=["POST", "OPTIONS"])
+def feedback():
+    # Handle preflight CORS requests
+    if request.method == "OPTIONS":
+        return "", 200
+        
+    data = request.get_json()
+
+    if not data:
+        return jsonify({'error': 'No JSON data received'}), 400
+    try:
+        # call role api
+        url = "http://127.0.0.1:5000/role"
+        headers = {"Content-Type": "application/json"}
+        payload = data
+        response = requests.post(url, json=payload, headers=headers)
+        role_data = response.json()
+
+        # Extract values
+        user_name = role_data['user_name']
+        work_load_per_day = role_data['work_load_per_day']
+        team_work = float(role_data['team_work'])
+        work_category = role_data['work_category']
+        work_speed = float(role_data['work_speed'])
+        overall_quality_score = float(role_data['overall_quality_score'])
+        assigned_role = role_data['assigned_role']
+        role_explanation = role_data['role_explanation']
+        fd = generate_feedback(user_name, work_category, assigned_role, work_load_per_day, team_work, work_speed, overall_quality_score)
+        return jsonify({
+            "user_name": data['user_name'],
+            "work_load_per_day" : data['work_load_per_day'],
+            "team_work" : float(data['team_work']),
+            "work_category" : data['work_category'],
+            "work_speed" : float(data['work_speed']),
+            "overall_quality_score" : float(data['overall_quality_score']),        
+            "assigned_role": assigned_role,
+            "role_explanation": role_explanation,
+            "feedback" : fd
+        })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 

@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+mlflow
+openai
+matplotlib
+scikit-learn
+joblib
