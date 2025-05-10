@@ -7,7 +7,7 @@ import json
 import os
 from dotenv import load_dotenv
 import requests
-from flask_cors import CORS
+from flask_cors import CORS  # Import CORS module
 
 load_dotenv()
 key = os.getenv('OPENAI_API_KEY')
@@ -62,7 +62,7 @@ def explain_assignment(row):
         sign = "+" if diff > 0 else "–"
         lines.append(f"{sign} {feature}: {diff:+.2f} vs cluster avg")
 
-    lines.append(f"⇒ Overall pattern matches “{role}”: {reasoning.get(cluster, 'No reasoning available')}")
+    lines.append(f"⇒ Overall pattern matches '{role}': {reasoning.get(cluster, 'No reasoning available')}")
 
     return "\n".join(lines)
 
