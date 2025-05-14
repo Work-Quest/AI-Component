@@ -12,7 +12,7 @@ import seaborn as sns
 
 # Define the models to evaluate
 MODELS = [
-    "facebook/bart-large-mnli",  # Your original model
+    "facebook/bart-large-mnli",  
     "cross-encoder/nli-distilroberta-base",
     "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
 ]

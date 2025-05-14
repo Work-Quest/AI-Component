@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747219538984
+current_stage: None
+description: ''
+last_updated_timestamp: 1747219538984
+name: TeamRoleClusteringModel
+run_id: e289f4c89a7b4a8c888a7129c07bd912
+run_link: ''
+source: mlflow-artifacts:/832587024682628364/e289f4c89a7b4a8c888a7129c07bd912/artifacts/team_role_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/832587024682628364/e289f4c89a7b4a8c888a7129c07bd912/artifacts/team_role_model
+user_id: null
+version: 8
