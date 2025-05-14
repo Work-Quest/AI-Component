@@ -1,7 +1,13 @@
-python-dotenv
+flask
+flask-cors
+joblib
 pandas
-mlflow
 openai
+python-dotenv
+requests
+mlflow
 matplotlib
 scikit-learn
-joblib
+numpy
+seaborn
+transformers
